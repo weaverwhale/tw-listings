@@ -7,6 +7,15 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 1em;
+      }
+
       h1, h2, h3, h4, h5, h6 {
         margin: 0;
         margin-bottom: 1rem;
@@ -28,51 +37,74 @@
         border-radius: 5px;
         padding: 1em;
       }
+
+      input {
+        display: block;
+        width: 100%;
+        padding: 0.5em;
+        border: 1px solid gray;
+        border-radius: 5px;
+        margin-bottom: 2em;
+      }
+
+      .no-margin {
+        margin: 0;
+      }
     </style>
   </head>
   <body>
     <div id="app">
       <h1>List Exports</h1>
       <h2>Folder: <pre>{{ data.path }}</pre></h2>
+      <input type="text" v-model="search" placeholder="Search..." />
       <div class="item-wrapper">
-        <div class="item" v-for="item in data.data" :key="item">
+        <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
             <pre>[{{ file.type }}] {{ file.name }}</pre>
         </div>
-      </div>
+        </div>
+      <div class="item" v-if="!filteredData.length"><h3 class="no-margin">No data found</h3></div>
     </div>
-
-    <script>
-      const { createApp } = Vue
-
-      createApp({
-        data() {
-          return {
-            data: {},
-          }
-        },
-        mounted() {
-          this.getData()
-        },
-        methods: {
-          getData() {
-            fetch('/get-folder-data', {
-              method: 'POST',
-              headers: {
-                'Content-Type': 'application/json',
-              },
-              body: JSON.stringify({
-                path: new URL(location.href).searchParams.get('path') || './helpers',
-              }),
-            })
-              .then((res) => res.json())
-              .then((data) => {
-                this.data = data
-              })
-          },
-        },
-      }).mount('#app')
-    </script>
   </body>
+
+  <script>
+    const { createApp } = Vue
+
+    createApp({
+      data() {
+        return {
+          data: {},
+          search: '',
+        }
+      },
+      computed: {
+        filteredData() {
+          return this.data?.data?.filter((item) => {
+            return JSON.stringify(item).includes(this.search)
+          }) || []
+        },
+      },
+      mounted() {
+        this.getData()
+      },
+      methods: {
+        getData() {
+          fetch('/get-folder-data', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              path: new URL(location.href).searchParams.get('path') || './helpers',
+            }),
+          })
+            .then((res) => res.json())
+            .then((data) => {
+              this.data = data
+            })
+        },
+      },
+    }).mount('#app')
+  </script>
 </html>
