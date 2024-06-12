@@ -4,37 +4,75 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>List Exports</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <style>
+      h1, h2, h3, h4, h5, h6 {
+        margin: 0;
+        margin-bottom: 1rem;
+      }
+
+      pre {
+        display: inline-block;
+      }
+
+      .item-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1em;
+      }
+
+      .item {
+        flex-grow: 1;
+        border: 1px solid gray;
+        border-radius: 5px;
+        padding: 1em;
+      }
+    </style>
   </head>
   <body>
-    <h1 id="title"></h1>
-    <div id="app"></div>
-    <pre id="pre"></pre>
+    <div id="app">
+      <h1>List Exports</h1>
+      <h2>Folder: <pre>{{ data.path }}</pre></h2>
+      <div class="item-wrapper">
+        <div class="item" v-for="item in data.data" :key="item">
+          <h3>{{ item.file }}</h3>
+          <div v-for="file in item.exports" :key="file">
+            <pre>[{{ file.type }}] {{ file.name }}</pre>
+        </div>
+      </div>
+    </div>
+
     <script>
-      fetch('/get-folder-data', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
+      const { createApp } = Vue
+
+      createApp({
+        data() {
+          return {
+            data: {},
+          }
         },
-        body: JSON.stringify({
-          path: new URL(location.href).searchParams.get('path') || './helpers',
-        }),
-      }).then((response) => {
-        response.json().then((data) => {
-          data.data.map((item) => {
-            const title = document.createElement('h2')
-            title.innerHTML = item.file
-            document.getElementById('app').appendChild(title)
-
-            item.exports.map((exported) => {
-              const div = document.createElement('div')
-              div.innerHTML = `[${exported.type}] - <strong>${exported.name}</strong>`
-              document.getElementById('app').appendChild(div)
+        mounted() {
+          this.getData()
+        },
+        methods: {
+          getData() {
+            fetch('/get-folder-data', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({
+                path: new URL(location.href).searchParams.get('path') || './helpers',
+              }),
             })
-          })
-
-          document.getElementById('pre').innerHTML = JSON.stringify(data, null, 2)
-        })
-      })
+              .then((res) => res.json())
+              .then((data) => {
+                this.data = data
+              })
+          },
+        },
+      }).mount('#app')
     </script>
   </body>
 </html>
