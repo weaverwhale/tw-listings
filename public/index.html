@@ -81,7 +81,7 @@
       computed: {
         filteredData() {
           return this.data?.data?.filter((item) => {
-            return JSON.stringify(item).includes(this.search)
+            return JSON.stringify(item).toLowerCase().includes(this.search.trim().toLowerCase())
           }) || []
         },
       },
