@@ -11,6 +11,7 @@ body {
   padding: 1em;
   font-family: sans-serif;
   background: #fafafa;
+  overflow: hidden;
 }
 
 h1,
@@ -89,8 +90,6 @@ nav h1 {
   padding: 1em;
   background: white;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
-  max-width: 100%;
-  overflow: auto;
 }
 
 .results {
