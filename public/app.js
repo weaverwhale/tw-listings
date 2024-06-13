@@ -31,6 +31,9 @@ createApp({
         }
         return acc
       }, [])
+    },
+    hasFilterOrSearch() {
+      return this.search.trim().length > 0 || this.folderFilter !== ''
     }
   },
   mounted() {
@@ -55,5 +58,9 @@ createApp({
           this.loading = false
         })
     },
+    reset() {
+      this.search = ''
+      this.folderFilter = ''
+    }
   },
 }).mount('#app')

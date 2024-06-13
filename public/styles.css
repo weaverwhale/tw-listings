@@ -40,13 +40,19 @@ pre {
 }
 
 input,
-select {
+select,
+button {
   display: block;
   width: 100%;
   padding: 0.5em;
   border: 1px solid gray;
   border-radius: 5px;
   margin-bottom: 2em;
+  background: white;
+}
+
+button {
+  cursor: pointer;
 }
 
 .inputs {
@@ -54,7 +60,8 @@ select {
   gap: 1em;
 }
 
-.inputs select {
+.inputs select,
+.inputs button {
   flex-basis: 150px;
 }
 

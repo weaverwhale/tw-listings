@@ -14,7 +14,7 @@
       <h3 class="results" v-if="loading">Loading...</h3>
       <h3 class="results" v-else>
         <span>{{ totalFiles }} Files – {{ totalExports }} Exports</span>
-        <span v-if="search.trim().length > 0 || folderFilter !== ''">{{ filteredData.length }} Results</span>
+        <span v-if="hasFilterOrSearch">{{ filteredData.length }} Results</span>
       </h3>
       <div class="inputs">
         <input type="text" v-model="search" placeholder="Search..." />
@@ -22,6 +22,7 @@
           <option selected value="">All Folders</option>
           <option v-for="folder in topLevelFolders" :value="folder">{{ folder }}</option>
         </select>
+        <button v-if="hasFilterOrSearch" @click="reset">Clear</button>
       </div>
       <div class="item-wrapper" v-if="loading">
         <div class="item"><h3 class="no-margin">Loading...</h3></div>
