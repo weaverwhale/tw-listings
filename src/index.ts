@@ -22,6 +22,8 @@ app.use(express.json())
 // -----------------------
 // routes
 // -----------------------
+// Since we only need to get the data once per deploy, we can cache the data in memory.
+const cachedData = new Map<string, any>()
 app.post('/get-folder-data', (req: Request, res: Response) => {
   try {
     if (!req.body.path) {
@@ -29,9 +31,14 @@ app.post('/get-folder-data', (req: Request, res: Response) => {
     }
 
     if (isProd) {
-      const { path } = req.body
-      const data = getFolderData(path)
-      res.json({ path, data })
+      if (!cachedData.has(req.body.path)) {
+        const { path } = req.body
+        const data = getFolderData(path)
+        cachedData.set(path, data)
+        res.json({ path, data })
+      } else {
+        res.json({ path: req.body.path, data: cachedData.get(req.body.path) })
+      }
     } else {
       res.json({ ...testData })
     }

@@ -16,7 +16,12 @@ const app = createApp({
     filteredData() {
       return (this.search.trim().length > 0 
         ? fuzzysort.go(this.search, this.data?.data, {
-          keys: ['file', obj => obj.exports?.map(e => e.name).join(), obj => obj.exports?.map(e => e.text).join(), obj => obj.exports?.map(e => e.type).join()],
+          keys: [
+            'file',
+            obj => obj.exports?.map(e => e.name).join(), 
+            obj => obj.exports?.map(e => e.text).join(), 
+            obj => obj.exports?.map(e => e.type).join()
+          ],
           threshold: 0.4
         }) 
         : this.data?.data ?? []
