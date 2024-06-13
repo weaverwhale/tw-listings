@@ -19,8 +19,13 @@
       <div class="inputs">
         <input type="text" v-model="search" placeholder="Search..." />
         <select v-model="folderFilter">
-          <option selected value="">All Folders</option>
+          <option value="">All Folders</option>
           <option v-for="folder in topLevelFolders" :value="folder">{{ folder }}</option>
+        </select>
+        <select v-model="sort">
+          <option value="">Sort</option>
+          <option value="asc">Ascending</option>
+          <option value="desc">Descending</option>
         </select>
         <button v-if="hasFilterOrSearch" @click="reset">Clear</button>
       </div>
@@ -31,8 +36,13 @@
         <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
-            <pre>[{{ file.type }}] {{ file.name }}</pre>
-        </div>
+            <p class="code">[{{ file.type }}] {{ file.name }}</p>
+            <ul v-if="file.parameters">
+              <li v-for="param in file.parameters" :key="param">
+                <p class="code">[{{ param.type }}] {{ param.name }}</p>
+              </li>
+            </ul>
+          </div>
         </div>
       <div class="item" v-if="!filteredData.length"><h3 class="no-margin">No data found</h3></div>
     </div>

@@ -1,51 +1,57 @@
 import * as ts from 'typescript'
 
 export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
-  const allExports: { type: string; name: string }[] = []
+  const allExports: { type: string; name: string; parameters?: any[] }[] = []
 
   visitNode(sourceFile)
 
   function visitNode(node: ts.Node) {
     if (ts.isExportSpecifier(node)) {
       const name = node.name.getText()
-      // console.log('export specifier', name);
       allExports.push({ type: 'specifier', name })
     } else if (node.kind === ts.SyntaxKind.ExportKeyword) {
       const parent = node.parent
       if (ts.isFunctionDeclaration(parent)) {
         const name = parent?.name?.getText() ?? ''
-        // console.log('export function', name);
-        allExports.push({ type: 'function', name })
+        const parameters = parent.parameters.map((param) => {
+          return {
+            name: param.name.getFullText().trim(),
+            type: param.type?.getFullText().trim() ?? 'any',
+          }
+        })
+        allExports.push({ type: 'function', name, parameters })
       } else if (ts.isVariableStatement(parent)) {
         parent.declarationList.declarations.forEach((declaration) => {
-          const name = declaration.name.getText()
-          // console.log('export var', name);
-          allExports.push({ type: 'var', name })
+          const name = declaration.name.getFullText()
+          const type = declaration.type?.getFullText().trim() ?? 'any'
+          allExports.push({ name, type })
         })
       } else if (ts.isClassDeclaration(parent)) {
         const name = parent.name?.getText() ?? ''
-        // console.log('export class', name);
-        allExports.push({ type: 'class', name })
+        const type =
+          parent.heritageClauses
+            ?.map((clause) => {
+              return clause.types.map((type) => type.expression.getText())
+            })
+            .toString() ?? 'any'
+        allExports.push({ name, type })
       } else if (ts.isTypeAliasDeclaration(parent)) {
         const name = parent.name?.getText() ?? ''
-        // console.log('export type alias', name);
-        allExports.push({ type: 'type', name })
+        const type = parent.type?.getFullText().trim() ?? 'alias'
+        allExports.push({ name, type })
       } else if (ts.isEnumDeclaration(parent)) {
         const name = parent.name?.getText() ?? ''
-        // console.log('export enum', name);
         allExports.push({ type: 'enum', name })
       } else if (ts.isModuleDeclaration(parent)) {
         const name = parent.name?.getText() ?? ''
-        // console.log('export module', name);
-        allExports.push({ type: 'module', name })
+        const type = parent.body?.getText() ?? 'module'
+        allExports.push({ name, type })
       } else if (ts.isInterfaceDeclaration(parent)) {
         const name = parent.name?.getText() ?? ''
-        // console.log('export interface', name);
-        allExports.push({ type: 'interface', name })
+        allExports.push({ name, type: 'interface' })
       } else if (ts.isNamespaceExportDeclaration(parent)) {
         const name = parent.name.getText()
-        // console.log('export namespace', name);
-        allExports.push({ type: 'namespace', name })
+        allExports.push({ name, type: 'namespace' })
       }
     }
 

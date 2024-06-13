@@ -8,13 +8,20 @@ createApp({
       loading: false,
       path: new URL(location.href).searchParams.get('path') || './@tw',
       folderFilter: '',
+      sort: 'desc'
     }
   },
   computed: {
     filteredData() {
-      return this.data?.data?.filter((item) => {
+      return (this.data?.data?.filter((item) => {
         return JSON.stringify(item).toLowerCase().includes(this.search.trim().toLowerCase()) && item.exports.length > 0 && item.file.includes(this.folderFilter)
-      }) || []
+      }) || []).sort((a, b) => {
+        if (this.sort === 'asc') {
+          return a.file.localeCompare(b.file)
+        } else if (this.sort === 'desc') {
+          return b.file.localeCompare(a.file)
+        }
+      })
     },
     totalFiles() {
       return this.data?.data?.length ?? 0

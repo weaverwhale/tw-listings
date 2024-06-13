@@ -10,7 +10,7 @@ body {
   margin: 0;
   padding: 1em;
   font-family: sans-serif;
-  background: #f8f6f6;
+  background: #fafafa;
 }
 
 h1,
@@ -26,6 +26,11 @@ h6 {
 pre {
   display: inline-block;
   line-height: 0;
+  white-space: normal;
+}
+
+.code {
+  font-family: monospace;
 }
 
 .item-wrapper {
@@ -41,6 +46,9 @@ pre {
   padding: 1em;
   background: white;
   box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.item pre {
 }
 
 input,
