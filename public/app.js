@@ -1,6 +1,6 @@
 const { createApp } = Vue
 
-createApp({
+const app = createApp({
   data() {
     return {
       data: {},
@@ -73,4 +73,8 @@ createApp({
       this.folderFilter = ''
     }
   },
-}).mount('#app')
+})
+
+document.addEventListener('DOMContentLoaded', () => {
+  app.mount('#app')
+})
