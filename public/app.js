@@ -20,9 +20,12 @@ const app = createApp({
             'file',
             obj => obj.exports?.map(e => e.name).join(), 
             obj => obj.exports?.map(e => e.text).join(), 
-            obj => obj.exports?.map(e => e.type).join()
+            obj => obj.exports?.map(e => e.type).join(),
+            obj => obj.exports?.map(e => e.parameters?.map(p => p.name).flat()).join(), 
+            obj => obj.exports?.map(e => e.parameters?.map(p => p.text).flat()).join(), 
+            obj => obj.exports?.map(e => e.parameters?.map(p => p.type).flat()).join(), 
           ],
-          threshold: 0.4
+          threshold: 0.3
         }) 
         : this.data?.data ?? []
       )

@@ -11,7 +11,7 @@ body {
   padding: 1em;
   font-family: sans-serif;
   background: #fafafa;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 h1,
