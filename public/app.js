@@ -10,7 +10,7 @@ const app = createApp({
       folderFilter: '',
       typeFilter: '',
       sort: '',
-      mode: window.matchMedia('(prefers-color-scheme: dark)') ? 'dark' : localStorage.getItem('mode') || 'light'
+      mode: localStorage.getItem('mode') || 'light'
     }
   },
   computed: {
@@ -80,10 +80,7 @@ const app = createApp({
   },
   mounted() {
     this.getData()
-    this.$nextTick(() => {
-      console.log(document.querySelector('html'))
-      this.setModeOnHTML()
-    })
+    this.setModeOnHTML()
   },
   methods: {
     getData() {
