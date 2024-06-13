@@ -26,8 +26,12 @@
           <option value="">All Folders</option>
           <option v-for="folder in topLevelFolders" :value="folder">{{ folder }}</option>
         </select>
+        <select v-model="typeFilter">
+          <option value="">All Types</option>
+          <option v-for="t in availableTypes" :value="t">{{ t }}</option>
+        </select>
         <select v-model="sort">
-          <option value="">Sort</option>
+          <option value="">Sort Initial</option>
           <option value="asc">Ascending</option>
           <option value="desc">Descending</option>
         </select>
@@ -40,10 +44,10 @@
         <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
-            <p class="code">[{{ file.type }}] {{ file.name }}</p>
+            <p class="code">[{{ file.type }}] <strong>{{ file.name }}</strong></p>
             <ul v-if="file.parameters">
               <li v-for="param in file.parameters" :key="param">
-                <p class="code">[{{ param.type }}] {{ param.name }}</p>
+                <p class="code">[{{ param.type }}] <strong>{{ param.name }}</strong></p>
               </li>
             </ul>
           </div>
