@@ -13,12 +13,15 @@ const app = createApp({
   },
   computed: {
     filteredData() {
-      return (this.hasFilterOrSearch 
-        ? fuzzysort.go(this.search + ' ' + this.folderFilter, this.data?.data, {
+      return (this.search.trim().length > 0 
+        ? fuzzysort.go(this.search, this.data?.data, {
           keys: ['file', obj => obj.exports?.map(e => e.name).join(), obj => obj.exports?.map(e => e.type).join()],
         }) 
         : this.data?.data ?? []
-      )?.map(d => d.obj ?? d)?.sort((a, b) => {
+      )
+        ?.map(d => d.obj ?? d)
+        ?.filter(i => i.file.includes(this.folderFilter) || this.folderFilter === '')
+        ?.sort((a, b) => {
         if (this.sort === 'asc') {
           return a.file.localeCompare(b.file)
         } else if (this.sort === 'desc') {

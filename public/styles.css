@@ -33,24 +33,6 @@ pre {
   font-family: monospace;
 }
 
-.item-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
-}
-
-.item {
-  flex-grow: 1;
-  border: 1px solid gray;
-  border-radius: 5px;
-  padding: 1em;
-  background: white;
-  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.1);
-}
-
-.item pre {
-}
-
 input,
 select,
 button {
@@ -67,6 +49,19 @@ button {
   cursor: pointer;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1em;
+}
+
+nav h1 {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
 .inputs {
   display: flex;
   gap: 1em;
@@ -77,12 +72,27 @@ button {
   flex-basis: 150px;
 }
 
+.no-margin {
+  margin: 0;
+}
+
+.item-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.item {
+  flex-grow: 1;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 1em;
+  background: white;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
 .results {
   display: flex;
   justify-content: space-between;
   margin-bottom: 1em;
-}
-
-.no-margin {
-  margin: 0;
 }

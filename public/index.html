@@ -11,8 +11,10 @@
   </head>
   <body>
     <div id="app" v-cloak>
-      <h1><img src="/whale-icon.svg" /> List Exports</h1>
-      <h2>Folder: <pre>{{ path?.replace('./', '') }}</pre></h2>
+      <nav>
+        <h1><img src="/whale-icon.svg" /> List Exports</h1>
+        <h2>Folder: <pre>{{ path?.replace('./', '') }}</pre></h2>
+      </nav>
       <h3 class="results" v-if="loading">Loading...</h3>
       <h3 class="results" v-else>
         <span>{{ totalFiles }} Files – {{ totalExports }} Exports</span>
@@ -34,7 +36,7 @@
       <div class="item-wrapper" v-if="loading">
         <div class="item"><h3 class="no-margin">Loading...</h3></div>
       </div>
-      <div class="item-wrapper" v-else-if="filteredData.length > 0">
+      <div class="item-wrapper" v-else>
         <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
