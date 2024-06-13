@@ -24,7 +24,7 @@
       </nav>
       <h3 class="results" v-if="loading">Loading...</h3>
       <h3 class="results" v-else>
-        <span>{{ totalFiles }} Files – {{ totalExports }} Exports – {{ filteredData.length }} Records</span>
+        <span>{{ totalFiles }} Files – {{ totalExports }} Exports</span>
         <span v-if="hasFilterOrSearch">{{ filteredData.length }} Results</span>
       </h3>
       <div class="inputs">
