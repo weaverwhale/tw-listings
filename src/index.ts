@@ -24,13 +24,15 @@ app.use(express.json())
 // -----------------------
 // Since we only need to get the data once per deploy, we can cache the data in memory.
 const cachedData = new Map<string, any>()
+// force use cache because slow
+const forceUseTestData = true
 app.post('/get-folder-data', (req: Request, res: Response) => {
   try {
     if (!req.body.path) {
       throw new Error('path is required')
     }
 
-    if (isProd) {
+    if (isProd && !forceUseTestData) {
       if (!cachedData.has(req.body.path)) {
         const { path } = req.body
         const data = getFolderData(path)
