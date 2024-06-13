@@ -21,11 +21,14 @@
   /* element specific styles */
   --body-text: var(--black);
   --body-background: #f6f6f7;
+  --header-background: var(--body-background);
   --item-background: var(--white);
   --item-text: var(--black);
   --item-text-hover: var(--blue);
   --code-color: var(--black);
   --link-color: var(--blue);
+  --placeholder-color: var(--dark-gray);
+  --border-gray: var(--light-gray);
 }
 
 /* 
@@ -41,6 +44,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
     --item-text-hover: var(--yellow);
     --link-color: var(--yellow);
     --code-color: var(--code-gray);
+    --placeholder-color: var(--gray);
+    --border-gray: var(--dark-gray);
   }
 }
 
@@ -53,6 +58,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
   --item-text-hover: var(--yellow);
   --link-color: var(--yellow);
   --code-color: var(--code-gray);
+  --placeholder-color: var(--gray);
+  --border-gray: var(--dark-gray);
 }
 
 * {
@@ -108,11 +115,15 @@ button {
   display: block;
   width: 100%;
   padding: 0.5em;
-  border: 1px solid var(--light-gray);
+  border: 1px solid var(--border-gray);
   color: var(--body-text);
   border-radius: 5px;
   margin-bottom: 1em;
   background: var(--item-background);
+}
+
+::placeholder {
+  color: var(--placeholder-color);
 }
 
 button {
@@ -146,6 +157,11 @@ nav i {
 .inputs {
   display: flex;
   gap: 1em;
+  background: var(--header-background);
+  position: sticky;
+  top: 0;
+  padding: 1em 0 0.25em;
+  z-index: 1;
 }
 
 .inputs select,
@@ -165,7 +181,7 @@ nav i {
 
 .item {
   flex-grow: 1;
-  border: 1px solid gray;
+  border: 1px solid var(--border-gray);
   border-radius: 5px;
   padding: 1em;
   background: var(--item-background);
