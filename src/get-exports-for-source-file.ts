@@ -34,6 +34,14 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
         const name = parent.name?.getText() ?? ''
         // console.log('export type alias', name);
         allExports.push({ type: 'type', name })
+      } else if (ts.isEnumDeclaration(parent)) {
+        const name = parent.name?.getText() ?? ''
+        // console.log('export enum', name);
+        allExports.push({ type: 'enum', name })
+      } else if (ts.isModuleDeclaration(parent)) {
+        const name = parent.name?.getText() ?? ''
+        // console.log('export module', name);
+        allExports.push({ type: 'module', name })
       }
     }
 
