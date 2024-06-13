@@ -24,7 +24,7 @@ const app = createApp({
         ?.map(d => d.obj ?? d)
         ?.filter(i => i.file.includes(this.folderFilter) || this.folderFilter === '')
         ?.filter(i => i.exports.some(e => e.type.includes(this.typeFilter)) || this.typeFilter === '')
-        ?.filter(i => i.exports.length > 0)
+        // ?.filter(i => i.exports.length > 0)
         ?.sort((a, b) => {
         if (this.sort === 'asc') {
           return a.file.localeCompare(b.file)

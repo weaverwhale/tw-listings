@@ -4,10 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>List Exports</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/tooltip.css" />
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="https://unpkg.com/fuzzysort@3.0.1/fuzzysort.min.js"></script>
-    <script src="./app.js"></script>
-    <link rel="stylesheet" href="/styles.css" />
+    <script src="/app.js"></script>
   </head>
   <body>
     <div id="app" v-cloak>
@@ -44,10 +45,10 @@
         <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
-            <p class="code">[{{ file.type }}] <strong>{{ file.name }}</strong></p>
+            <p class="code" :hover-tooltip="file.text.trim()">[{{ file.type }}] <strong>{{ file.name }}</strong></p>
             <ul v-if="file.parameters">
               <li v-for="param in file.parameters" :key="param">
-                <p class="code">[{{ param.type }}] <strong>{{ param.name }}</strong></p>
+                <p class="code" :hover-tooltip="file.text.trim()">[{{ param.type }}] <strong>{{ param.name }}</strong></p>
               </li>
             </ul>
           </div>
