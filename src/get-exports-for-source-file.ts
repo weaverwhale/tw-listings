@@ -26,6 +26,14 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
           // console.log('export var', name);
           allExports.push({ type: 'var', name })
         })
+      } else if (ts.isClassDeclaration(parent)) {
+        const name = parent.name?.getText() ?? ''
+        // console.log('export class', name);
+        allExports.push({ type: 'class', name })
+      } else if (ts.isTypeAliasDeclaration(parent)) {
+        const name = parent.name?.getText() ?? ''
+        // console.log('export type alias', name);
+        allExports.push({ type: 'type', name })
       }
     }
 

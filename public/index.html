@@ -10,13 +10,17 @@
   <body>
     <div id="app" v-cloak>
       <h1>List Exports</h1>
-      <h2>Folder: <pre>{{ data.path?.replace('./', '') }}</pre></h2>
-      <h3 class="results">
+      <h2>Folder: <pre>{{ path?.replace('./', '') }}</pre></h2>
+      <h3 class="results" v-if="loading">Loading...</h3>
+      <h3 class="results" v-else>
         <span>{{ totalFiles }} Files – {{ totalExports }} Exports</span>
         <span v-if="search.trim().length > 0">{{ filteredData.length }} Results</span>
       </h3>
       <input type="text" v-model="search" placeholder="Search..." />
-      <div class="item-wrapper">
+      <div class="item-wrapper" v-if="loading">
+        <div class="item"><h3 class="no-margin">Loading...</h3></div>
+      </div>
+      <div class="item-wrapper" v-else-if="filteredData.length > 0">
         <div class="item" v-for="item in filteredData" :key="item">
           <h3>{{ item.file }}</h3>
           <div v-for="file in item.exports" :key="file">
