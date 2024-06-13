@@ -9,6 +9,8 @@
 body {
   margin: 0;
   padding: 1em;
+  font-family: sans-serif;
+  background: #f8f6f6;
 }
 
 h1,
@@ -37,6 +39,8 @@ pre {
   border: 1px solid gray;
   border-radius: 5px;
   padding: 1em;
+  background: white;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
 }
 
 input,
@@ -47,7 +51,7 @@ button {
   padding: 0.5em;
   border: 1px solid gray;
   border-radius: 5px;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   background: white;
 }
 
