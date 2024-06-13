@@ -6,471 +6,471 @@ export default {
       exports: [
         {
           name: ' FACEBOOK_FEED_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_RIGHT_HAND_COLUMN_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_MARKETPLACE_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_VIDEO_FEEDS_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_STORY_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_SEARCH_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTREAM_VIDEO_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FACEBOOK_REELS_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_FEED_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STREAM_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_CONTEXTUAL_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PROFILE_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_REELS_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_SHOP_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STORY_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_GRID_HOME_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_IMMERSIVE_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PROFILE_FEED_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTANT_ARTICLES_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_STORY_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_CLASSIC_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_BANNER_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_REWARDED_VIDEO_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_HOME_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SPONSORED_MESSAGES_PLACEMENT_NAME',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FEED_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_RIGHT_HAND_COLUMN_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_MARKETPLACE_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_VIDEO_FEEDS_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_STORY_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_SEARCH_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTREAM_VIDEO_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FACEBOOK_REELS_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_FEED_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STREAM_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STORY_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_SHOP_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_HOME_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_REELS_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PROFILE_FEED_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_CLASSIC_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_REWARDED_VIDEO_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_HOME_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SPONSORED_MESSAGES_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_STORY_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTANT_ARTICLES_PLACEMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' placement_names_to_type',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' BRAND_AWARENESS_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' REACH_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' TRAFFIC_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' ENGAGEMENT_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PAGE_LIKES_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' EVENT_RESPONSES_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' APP_INSTALLS_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' VIDEO_VIEWS_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' LEAD_GENERATION_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSAGES_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' CONVERSIONS_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' CATALOG_SALES_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' STORE_VISITS_OBJECTIVE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PLACEMENT_SELECT_OPTIONS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' OBJECTIVES',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' OLD_PLACEMENT_MAPPINGS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DEVICE_PLATFORMS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PUBLISHER_PLATFORMS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_PLACEMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PLACEMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_PLACEMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_PLACEMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' CUSTOM_WEIRD_PLACEMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FEED_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FEED_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_RIGHT_HAND_COLUMN_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_RIGHT_HAND_COLUMN_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_MARKETPLACE_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_MARKETPLACE_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_VIDEO_FEEDS_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_VIDEO_FEEDS_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_STORY_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_STORY_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_SEARCH_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_SEARCH_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTREAM_VIDEO_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTREAM_VIDEO_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FACEBOOK_REELS_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_FACEBOOK_REELS_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTANT_ARTICLES_PLACEMENT_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' FACEBOOK_INSTANT_ARTICLES_PLACEMENT_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_FEED_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_FEED_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STREAM_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STREAM_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STORY_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_STORY_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_SHOP_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_SHOP_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_HOME_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_EXPLORE_HOME_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_REELS_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_REELS_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PROFILE_FEED_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' INSTAGRAM_PROFILE_FEED_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_CLASSIC_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_CLASSIC_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_REWARDED_VIDEO_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AUDIENCE_NETWORK_REWARDED_VIDEO_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_HOME_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_HOME_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SPONSORED_MESSAGES_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SPONSORED_MESSAGES_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_STORY_MOBILE_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' MESSENGER_STORY_DESKTOP_PREVIEW',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PLACEMENT_TO_PREVIEW_MAPPING',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' ALLOWED_PLACEMENTS_BY_OBJECTIVE',
@@ -482,7 +482,7 @@ export default {
         },
         {
           name: ' INSTAGRAM_AD_FORMATS',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -504,7 +504,7 @@ export default {
         },
         {
           name: ' colorsMetrics',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -566,15 +566,15 @@ export default {
       exports: [
         {
           name: ' sum',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' divide',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'safeDivide',
+          name: ' safeDivide',
           parameters: [
             {
               name: 'numerator',
@@ -588,7 +588,7 @@ export default {
         },
         {
           name: ' avg',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -597,7 +597,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'TranslationKey',
+          name: ' TranslationKey',
         },
         {
           name: ' tripleSurveyQuestionTranslation',
@@ -613,7 +613,7 @@ export default {
       file: '@tw/constants/activityFeed.ts',
       exports: [
         {
-          name: 'ActivityItem',
+          name: ' ActivityItem',
           type: '{\n  id: string;\n  type: ActivityType;\n  serviceId: ServicesIds;\n  entity: ActivityEntity;\n  sourceField?: string[];\n  field?: ActivityField;\n  fieldValue?: (value) => any;\n  to?: any[];\n  label: string;\n  url?: string;\n  description?: (from, to, entity, currency) => string;\n  entityName?: (entity) => string;\n}',
         },
         {
@@ -630,7 +630,7 @@ export default {
       file: '@tw/constants/benchmarks.ts',
       exports: [
         {
-          name: 'OptionDescriptor',
+          name: ' OptionDescriptor',
           type: 'interface',
         },
         {
@@ -643,11 +643,11 @@ export default {
         },
         {
           name: ' TW_BENCHMARKS_AOV_SEGMENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' TW_BENCHMARKS_SPEND_SEGMENT',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -656,23 +656,23 @@ export default {
       exports: [
         {
           name: ' DELETE_DATA_REQUEST_TOPIC',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DATA_DELETION_BEGIN_TOPIC',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DATA_DELETION_SUCCESS_TOPIC',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DATA_DELETION_FAILURE_TOPIC',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DATA_DELETION_COMPLETED_TOPIC',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -681,7 +681,7 @@ export default {
       exports: [
         {
           name: ' CountriesDataList',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -690,7 +690,7 @@ export default {
       exports: [
         {
           name: ' getCurrencySymbol',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -699,7 +699,7 @@ export default {
       exports: [
         {
           name: ' currecySymbolsMap',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -708,83 +708,83 @@ export default {
       exports: [
         {
           name: ' projectId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' serviceId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' providerId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isProd',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isStaging',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isLocal',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isK8s',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isDocker',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' serviceAccountFile',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' localHost',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' projectIds',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' projectIdToHostMap',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' projectIdToAppDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' projectIdToAdminDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' projectIdToDevPortalDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' appDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' adminDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' devPortalDomain',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' appLink',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getProjectSubDomain',
+          name: ' getProjectSubDomain',
           parameters: [
             {
               name: 'projectId',
@@ -794,7 +794,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'projectIdAsSubDomain',
+          name: ' projectIdAsSubDomain',
           parameters: [
             {
               name: 'projectId',
@@ -813,71 +813,71 @@ export default {
         },
         {
           name: ' adsServices',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' otherChannels',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' returningCustomerSegmentTypes',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' segmentedSegmentTypes',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' returingCustomerSegmentType',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' allSegementTypes',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' allSegementWithCustomTypes',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' allSourcesTrafficSources',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' allSourcesMetricNames',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' shopTrafficSources',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' shopMetricNames',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' paidTrafficSources',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' paidMetricNames',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' organicTrafficSources',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' otherTrafficSources',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' organicOtherMetricNames',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' trafficSourceTypes',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -886,15 +886,15 @@ export default {
       exports: [
         {
           name: ' TZ',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' AnalyticsTableKeyDelimiter',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' TW_SHOP_ID_HEADER',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -907,18 +907,18 @@ export default {
       exports: [
         {
           name: ' IndustryTypeArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'IndustryTypes',
+          name: ' IndustryTypes',
           type: '(typeof IndustryTypeArr)[number]',
         },
         {
-          name: 'IndustryElement',
+          name: ' IndustryElement',
           type: '{\n  id: I;\n  label: string;\n  color: string;\n}',
         },
         {
-          name: 'IndustryDictionary',
+          name: ' IndustryDictionary',
           type: '{\n  [industry in IndustryTypes]: IndustryElement<industry>;\n}',
         },
       ],
@@ -928,7 +928,7 @@ export default {
       exports: [
         {
           name: ' iapClientId',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -941,7 +941,7 @@ export default {
       exports: [
         {
           name: ' notificationEvents',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -950,39 +950,39 @@ export default {
       exports: [
         {
           name: ' PIXEL_REGULAR_EVENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_ORDER_EVENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_REGULAR_EVENT_FOR_ATTRIBUTION',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_ORDER_EVENT_FOR_ATTRIBUTION',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_CHECKOUT_EVENT_FOR_ATTRIBUTION',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_CUSTOM_EVENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_IDENTIFY_EVENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_CHECKOUT_EVENT',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PIXEL_CAPI_CORRELATIONS',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1004,11 +1004,11 @@ export default {
       exports: [
         {
           name: ' integrationConnectedRedirectUrl',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' trendsIntegrationConnectedRedirectUrl',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1021,7 +1021,7 @@ export default {
       exports: [
         {
           name: ' vatIds',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1030,11 +1030,11 @@ export default {
       exports: [
         {
           name: ' isProdFunc',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isStagingFunc',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1051,7 +1051,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'uploadAPIConfig',
+          name: ' uploadAPIConfig',
           parameters: [
             {
               name: 'filePath',
@@ -1069,7 +1069,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'configureForEndpoints',
+          name: ' configureForEndpoints',
           parameters: [
             {
               name: 'rawConfig',
@@ -1092,7 +1092,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createBackupJob',
+          name: ' createBackupJob',
           parameters: [
             {
               name: 'args',
@@ -1107,7 +1107,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createClickCatInstance',
+          name: ' createClickCatInstance',
           parameters: [
             {
               name: 'args',
@@ -1122,7 +1122,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDb',
+          name: ' createDb',
           parameters: [
             {
               name: 'dbArgs',
@@ -1140,12 +1140,12 @@ export default {
       file: '@tw/pulumi/clickhouse/installation.ts',
       exports: [
         {
-          name: 'ClusterInfo',
+          name: ' ClusterInfo',
           type: '{\n  name: string;\n  username: string;\n  password: pulumi.Input<string>;\n  clickCatDomain: string;\n  clickhouseTcpDomain: string;\n  clickhouseHttpDomain: string;\n  replicas: { ip: pulumi.Input<string>; name: string; domain: pulumi.Input<string> }[];\n}',
         },
         {
           type: 'function',
-          name: 'createClickhouseInstallation',
+          name: ' createClickhouseInstallation',
           parameters: [
             {
               name: 'args',
@@ -1160,7 +1160,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createClickhouseKeeper',
+          name: ' createClickhouseKeeper',
           parameters: [
             {
               name: 'args',
@@ -1179,7 +1179,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createLevel',
+          name: ' createLevel',
           parameters: [
             {
               name: 'args',
@@ -1193,20 +1193,20 @@ export default {
       file: '@tw/pulumi/clickhouse/pipeline.ts',
       exports: [
         {
-          name: 'PipelineArgs',
+          name: ' PipelineArgs',
           type: "Partial<KafkaArgs> & {\n  splitNumDays: number;\n  interval?: IntervalSpec['every'];\n  streamEngine?: 'kafka-connect' | 'clickhouse-table' | 'saber';\n}",
         },
         {
-          name: 'Mode',
+          name: ' Mode',
           type: "'DIRECT' | 'STREAM' | 'STREAM_SPLIT' | 'LEVEL' | 'LEVEL_SPLIT'",
         },
         {
-          name: 'ClickhousePipelineArgs',
+          name: ' ClickhousePipelineArgs',
           type: "{\n  name: string;\n  mode?: Mode;\n  tableArgs: Omit<Partial<ClickhouseTableArgs>, 'name'>;\n  pipelineArgs?: Partial<PipelineArgs>;\n  loading?: boolean;\n}",
         },
         {
           type: 'function',
-          name: 'createClickhousePipeline',
+          name: ' createClickhousePipeline',
           parameters: [
             {
               name: 'args',
@@ -1221,7 +1221,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getClickhouseProvider',
+          name: ' getClickhouseProvider',
           parameters: [
             {
               name: 'args',
@@ -1236,7 +1236,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createStream',
+          name: ' createStream',
           parameters: [
             {
               name: 'args',
@@ -1250,16 +1250,16 @@ export default {
       file: '@tw/pulumi/clickhouse/table.ts',
       exports: [
         {
-          name: 'ClickhouseTableArgs',
+          name: ' ClickhouseTableArgs',
           type: '{\n  name: string;\n  database: Input<string>;\n  cluster?: Input<string>;\n  engine: ClickhouseTableEngines;\n  engineParams?: Input<Input<string>[]>;\n  orderBies?: string[];\n  metadata?: {\n    dateField: string;\n    providerIdField: Input<string>;\n    providerAccountField: Input<string>;\n  };\n  indices?: Input<Input<ClickhouseIndex>[]>;\n  partitionBies?: types.input.TablePartitionBy[];\n  columns?: ClickhouseColumn[];\n  settings?: { [key: string]: any };\n  comment?: Input<string>;\n  protect?: boolean;\n}',
         },
         {
-          name: 'KafkaArgs',
+          name: ' KafkaArgs',
           type: '{\n  name: string;\n  topic?: string;\n  columns: ClickhouseColumn[];\n  consumerGroup?: string;\n  kafkaFormat?: string;\n  kafkaThreadPerConsumer?: number;\n  kafkaNumConsumers?: number;\n}',
         },
         {
           type: 'function',
-          name: 'createKafkaTable',
+          name: ' createKafkaTable',
           parameters: [
             {
               name: 'args',
@@ -1269,7 +1269,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createClickhouseTable',
+          name: ' createClickhouseTable',
           parameters: [
             {
               name: 'tableArgs',
@@ -1284,19 +1284,19 @@ export default {
       exports: [
         {
           name: ' clickhouseSystemDatabase',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' clickhousePublicDatabase',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' sonicUpdatedAtColumn',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'useCluster',
+          name: ' useCluster',
           parameters: [
             {
               name: 'engine',
@@ -1306,7 +1306,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getPartitionBies',
+          name: ' getPartitionBies',
           parameters: [
             {
               name: 'args',
@@ -1321,7 +1321,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createClickhouseView',
+          name: ' createClickhouseView',
           parameters: [
             {
               name: 'tableArgs',
@@ -1335,12 +1335,12 @@ export default {
       file: '@tw/pulumi/cloud-build/buildNumber.ts',
       exports: [
         {
-          name: 'BuildNumber',
-          type: 'pulumi.dynamic.Resource',
+          name: ' BuildNumber',
+          type: ' pulumi.dynamic.Resource',
         },
         {
           type: 'function',
-          name: 'getBuildVersion',
+          name: ' getBuildVersion',
           parameters: [],
         },
       ],
@@ -1350,7 +1350,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createBuildTrigger',
+          name: ' createBuildTrigger',
           parameters: [
             {
               name: 'args',
@@ -1368,7 +1368,7 @@ export default {
       file: '@tw/pulumi/cloud-build/types.ts',
       exports: [
         {
-          name: 'CreateBuildTriggerArgs',
+          name: ' CreateBuildTriggerArgs',
           type: "{\n  name?: string;\n  workerPool?: string;\n  runtime?: 'node' | 'python' | 'clojure' | 'beam-python';\n  moreSteps?: gcp.types.input.cloudbuild.TriggerBuildStep[];\n  k8s?: { clusters?: { name: string; location: string }[]; gpu?: boolean };\n  dockerfileRun?: string;\n  dockerfileCacheRun?: string;\n  dockerBuildEnvs?: pulumi.Input<string>[];\n  machineType?: 'E2_HIGHCPU_8' | 'E2_HIGHCPU_32';\n  baseDir?: string;\n  downloadFilesFromGcs?: { bucket: string; filename: string }[];\n  runtimeBaseImage?: pulumi.Input<string>;\n}",
         },
       ],
@@ -1378,7 +1378,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDevopsImage',
+          name: ' getDevopsImage',
           parameters: [
             {
               name: 'imageName',
@@ -1392,7 +1392,7 @@ export default {
         },
         {
           name: ' defaultCmd',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1401,7 +1401,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCloudRunAlert',
+          name: ' createCloudRunAlert',
           parameters: [
             {
               name: 'args',
@@ -1416,7 +1416,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCloudRunService',
+          name: ' createCloudRunService',
           parameters: [
             {
               name: 'serviceId',
@@ -1451,7 +1451,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getCloudRunUrl',
+          name: ' getCloudRunUrl',
           parameters: [
             {
               name: 'cloudRunService',
@@ -1466,7 +1466,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createQueue',
+          name: ' createQueue',
           parameters: [
             {
               name: 'name',
@@ -1489,11 +1489,11 @@ export default {
       exports: [
         {
           name: ' cloudFlareDomainMap',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getCloudFlareZone',
+          name: ' getCloudFlareZone',
           parameters: [
             {
               name: 'domainName',
@@ -1503,7 +1503,7 @@ export default {
         },
         {
           name: ' cloudFlareAccountId',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1512,7 +1512,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'addDnsRecord',
+          name: ' addDnsRecord',
           parameters: [
             {
               name: 'args',
@@ -1522,7 +1522,7 @@ export default {
         },
         {
           name: ' dnsUrl',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1535,7 +1535,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getCloudFlareProvider',
+          name: ' getCloudFlareProvider',
           parameters: [],
         },
       ],
@@ -1545,7 +1545,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCloudflarePageRule',
+          name: ' createCloudflarePageRule',
           parameters: [
             {
               name: 'args',
@@ -1560,7 +1560,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCloudFlareWorkerRoute',
+          name: ' createCloudFlareWorkerRoute',
           parameters: [
             {
               name: 'args',
@@ -1575,7 +1575,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDataDeletionSubscription',
+          name: ' createDataDeletionSubscription',
           parameters: [
             {
               name: '{\n  endpoint,\n  service,\n}',
@@ -1590,27 +1590,27 @@ export default {
       exports: [
         {
           name: ' projectId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' stackName',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isProduction',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isStaging',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isLocal',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' defaultDomain',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -1623,7 +1623,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCronJobAlert',
+          name: ' createCronJobAlert',
           parameters: [
             {
               name: 'name',
@@ -1638,7 +1638,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCronJob',
+          name: ' createCronJob',
           parameters: [
             {
               name: 'args',
@@ -1657,12 +1657,12 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getNewPos',
+          name: ' getNewPos',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createDefaultDatadogDashboard',
+          name: ' createDefaultDatadogDashboard',
           parameters: [
             {
               name: 'thisPos',
@@ -1672,7 +1672,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getLinks',
+          name: ' getLinks',
           parameters: [
             {
               name: 'linkTypes',
@@ -1686,7 +1686,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getDatadogWidgets',
+          name: ' getDatadogWidgets',
           parameters: [
             {
               name: 'type',
@@ -1709,7 +1709,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDDEnvs',
+          name: ' getDDEnvs',
           parameters: [],
         },
       ],
@@ -1723,7 +1723,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDatadogMonitorMessage',
+          name: ' createDatadogMonitorMessage',
           parameters: [
             {
               name: 'args',
@@ -1733,12 +1733,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'getDatadogMonitorDefaultSettings',
+          name: ' getDatadogMonitorDefaultSettings',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createDefaultDatadogMonitors',
+          name: ' createDefaultDatadogMonitors',
           parameters: [
             {
               name: 'args',
@@ -1748,7 +1748,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDatadogMonitor',
+          name: ' createDatadogMonitor',
           parameters: [
             {
               name: '{\n  id,\n  contacts,\n  datadogDashboard,\n  sendOnAlert,\n  sendOnWarning,\n  settings,\n  message,\n  slackChannelError,\n  slackChannelWarning,\n  includeOpsGenie,\n}',
@@ -1763,7 +1763,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDatadogProvider',
+          name: ' getDatadogProvider',
           parameters: [],
         },
       ],
@@ -1773,7 +1773,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDatadogService',
+          name: ' createDatadogService',
           parameters: [
             {
               name: 'args',
@@ -1788,7 +1788,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDatadogSqlMonitor',
+          name: ' createDatadogSqlMonitor',
           parameters: [
             {
               name: 'args',
@@ -1798,7 +1798,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDatadogPostgresqlSchema',
+          name: ' createDatadogPostgresqlSchema',
           parameters: [
             {
               name: 'args',
@@ -1812,11 +1812,11 @@ export default {
       file: '@tw/pulumi/datadog/types.ts',
       exports: [
         {
-          name: 'DatadogService',
+          name: ' DatadogService',
           type: 'interface',
         },
         {
-          name: 'DatadogResources',
+          name: ' DatadogResources',
           type: "| 'apmHttp'\n  | 'pubsub'\n  | 'pubsubPull'\n  | 'pubsubPush'\n  | 'saber'\n  | 'bigtable'\n  | 'redis'\n  | 'k8s'\n  | 'sql'\n  | 'cloudTasks'\n  | 'storage'\n  | 'mongo'\n  | 'cloudRun'\n  | 'temporal'\n  | 'temporalDetailed'\n  | 'temporalServer'\n  | 'chronos'\n  | 'logging'",
         },
       ],
@@ -1826,7 +1826,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'setPos',
+          name: ' setPos',
           parameters: [
             {
               name: 'pos',
@@ -1845,7 +1845,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'callApi',
+          name: ' callApi',
           parameters: [
             {
               name: 'url',
@@ -1855,12 +1855,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'getMostRecentJob',
+          name: ' getMostRecentJob',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'isJobActive',
+          name: ' isJobActive',
           parameters: [
             {
               name: 'job',
@@ -1870,12 +1870,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'getPipeline',
+          name: ' getPipeline',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getCurrentNumWorkers',
+          name: ' getCurrentNumWorkers',
           parameters: [
             {
               name: 'jobId',
@@ -1890,7 +1890,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDataFlowClassic',
+          name: ' createDataFlowClassic',
           parameters: [
             {
               name: 'args',
@@ -1900,7 +1900,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDataFlowClassicBuild',
+          name: ' createDataFlowClassicBuild',
           parameters: [
             {
               name: 'args',
@@ -1915,12 +1915,12 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDataFlowTemplate',
+          name: ' createDataFlowTemplate',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createDataFlowFlex',
+          name: ' createDataFlowFlex',
           parameters: [
             {
               name: 'args',
@@ -1930,7 +1930,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDataFlowFlexBuild',
+          name: ' createDataFlowFlexBuild',
           parameters: [],
         },
       ],
@@ -1944,7 +1944,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDataFlowPipeline',
+          name: ' createDataFlowPipeline',
           parameters: [
             {
               name: 'args',
@@ -1958,11 +1958,11 @@ export default {
       file: '@tw/pulumi/dataflow/types.ts',
       exports: [
         {
-          name: 'dataflowParameters',
+          name: ' dataflowParameters',
           type: 'Record<string, pulumi.Input<string>>',
         },
         {
-          name: 'EnvironmentArgs',
+          name: ' EnvironmentArgs',
           type: '| gcp.types.input.dataflow.PipelineWorkloadDataflowFlexTemplateRequestLaunchParameterEnvironment\n  | gcp.types.input.dataflow.PipelineWorkloadDataflowLaunchTemplateRequestLaunchParametersEnvironment',
         },
       ],
@@ -1972,7 +1972,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'dataflowParametersToCMDArgs',
+          name: ' dataflowParametersToCMDArgs',
           parameters: [
             {
               name: 'parameters',
@@ -1987,7 +1987,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDataformDefaultServiceAccountEmail',
+          name: ' getDataformDefaultServiceAccountEmail',
           parameters: [
             {
               name: 'projectNumber',
@@ -2002,7 +2002,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'buildRoutine',
+          name: ' buildRoutine',
           parameters: [
             {
               name: 'buildRoutineArgs',
@@ -2017,7 +2017,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'buildView',
+          name: ' buildView',
           parameters: [
             {
               name: 'buildViewArgs',
@@ -2032,7 +2032,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createRecentCdcPipeline',
+          name: ' createRecentCdcPipeline',
           parameters: [
             {
               name: '{\n  pipelineProperties, // Params with a pipeline-wide effect (name, labels)\n  schedulerConfig, // Scheduling configuration for the pipeline and its subruns\n  schema,\n  partitioning,\n  clusterings, // Output data model schema and datasets\n  inputDataModel, // Configuration for input datasets, used in pipelines with an upstream pipeline.\n  testConfig, // Output data model schema and datasets\n}',
@@ -2046,11 +2046,11 @@ export default {
       file: '@tw/pulumi/dataland/cdc-pipeline.ts',
       exports: [
         {
-          name: 'SubRunConfig',
-          type: 'any',
+          name: ' SubRunConfig',
+          type: 'class',
         },
         {
-          name: 'schedulerConfigArgs',
+          name: ' schedulerConfigArgs',
           type: 'interface',
         },
         {
@@ -2058,11 +2058,11 @@ export default {
           type: 'schedulerConfigArgs',
         },
         {
-          name: 'JobDetailsDep',
+          name: ' JobDetailsDep',
           type: 'interface',
         },
         {
-          name: 'inputDataModelArgs',
+          name: ' inputDataModelArgs',
           type: 'interface',
         },
         {
@@ -2070,7 +2070,7 @@ export default {
           type: 'inputDataModelArgs',
         },
         {
-          name: 'testConfigArgs',
+          name: ' testConfigArgs',
           type: 'interface',
         },
         {
@@ -2078,7 +2078,7 @@ export default {
           type: 'testConfigArgs',
         },
         {
-          name: 'pipelinePropertiesArgs',
+          name: ' pipelinePropertiesArgs',
           type: 'interface',
         },
         {
@@ -2086,7 +2086,7 @@ export default {
           type: 'pipelinePropertiesArgs',
         },
         {
-          name: 'rootTableConfig',
+          name: ' rootTableConfig',
           type: 'interface',
         },
         {
@@ -2095,7 +2095,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createCdcPipeline',
+          name: ' createCdcPipeline',
           parameters: [
             {
               name: '{\n  pipelineProperties, // Params with a pipeline-wide effect (name, labels)\n  schedulerConfig, // Scheduling configuration for the pipeline and its subruns\n  outputDataModel, // Output data model schema and datasets\n  ingestSubscriptionConfig, // Configuration for subscriptions to ingest data into dataland-raw\n  inputDataModel, // Configuration for input datasets, used in pipelines with an upstream pipeline.\n  rootTableConfig, // Output root table\n  testConfig, // Output data model schema and datasets\n  currentConfig,\n}',
@@ -2117,7 +2117,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'buildTables',
+          name: ' buildTables',
           parameters: [
             {
               name: '{\n    latestConfig,\n    viewPublicConfig,\n    changesetConfig,\n    rootConfig,\n    currentConfig,\n    table,\n    tableArgs,\n    schema,\n    labels,\n    dependencies = []\n  }',
@@ -2127,7 +2127,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'sleep',
+          name: ' sleep',
           parameters: [
             {
               name: 'ms',
@@ -2146,7 +2146,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'mkDeadLetter',
+          name: ' mkDeadLetter',
           parameters: [
             {
               name: 'datasetId',
@@ -2165,59 +2165,59 @@ export default {
       exports: [
         {
           name: ' publicDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' rawDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' rootDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' latestDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' compactedDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' functionsDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' changesetDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' recentDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' errorsDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' dataQualityDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' scdpHelpersDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' archiveDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' currentDatasetId',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getDataformRepositoryNameForProject',
+          name: ' getDataformRepositoryNameForProject',
           parameters: [
             {
               name: 'projectId',
@@ -2227,7 +2227,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getDataformRepositoryIdForProject',
+          name: ' getDataformRepositoryIdForProject',
           parameters: [
             {
               name: 'stack',
@@ -2241,15 +2241,15 @@ export default {
         },
         {
           name: ' deadLetterTopicName',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' deadLetterTopicId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' chronosIngestServiceId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' chronosIngestService',
@@ -2257,19 +2257,19 @@ export default {
         },
         {
           name: ' workflowServiceAccountId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' workflowServiceAccountEmail',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' schedulerServiceAccountId',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' schedulerServiceAccountEmail',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -2278,7 +2278,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createChronosServiceAccount',
+          name: ' createChronosServiceAccount',
           parameters: [],
         },
       ],
@@ -2287,16 +2287,16 @@ export default {
       file: '@tw/pulumi/dataland/subscription-notification.ts',
       exports: [
         {
-          name: 'BucketSubscriptionAndNotificationConfig',
-          type: 'any',
+          name: ' BucketSubscriptionAndNotificationConfig',
+          type: 'class',
         },
         {
-          name: 'SubscriptionExistingTopicConfig',
-          type: 'any',
+          name: ' SubscriptionExistingTopicConfig',
+          type: 'class',
         },
         {
           type: 'function',
-          name: 'createTopicSubscriptionNotification',
+          name: ' createTopicSubscriptionNotification',
           parameters: [
             {
               name: 'bucketName',
@@ -2322,7 +2322,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createSubscriptionForIngest',
+          name: ' createSubscriptionForIngest',
           parameters: [
             {
               name: 'topicName',
@@ -2344,7 +2344,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createSubscriptionToExistingTopic',
+          name: ' createSubscriptionToExistingTopic',
           parameters: [
             {
               name: 'topicName',
@@ -2387,7 +2387,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createChronosSchedule',
+          name: ' createChronosSchedule',
           parameters: [
             {
               name: 'args',
@@ -2402,7 +2402,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deployChronosTemporalWorker',
+          name: ' deployChronosTemporalWorker',
           parameters: [
             {
               name: 'args',
@@ -2417,29 +2417,29 @@ export default {
       exports: [
         {
           name: ' Projects',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' getDlcpTagByStack',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SchedulePolicies',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'isCanonicalStack',
+          name: ' isCanonicalStack',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'setDefaultLabelsForAllResources',
+          name: ' setDefaultLabelsForAllResources',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createUniqueServiceAccountName',
+          name: ' createUniqueServiceAccountName',
           parameters: [
             {
               name: 'type',
@@ -2453,7 +2453,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'asBqSchema',
+          name: ' asBqSchema',
           parameters: [
             {
               name: 'schema',
@@ -2467,7 +2467,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'buildTableArgs',
+          name: ' buildTableArgs',
           parameters: [
             {
               name: 'args',
@@ -2477,7 +2477,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDataformReposOnProject',
+          name: ' createDataformReposOnProject',
           parameters: [
             {
               name: 'dfProject',
@@ -2487,7 +2487,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'overridePartitioning',
+          name: ' overridePartitioning',
           parameters: [
             {
               name: 'tableArgs',
@@ -2497,7 +2497,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createRoot',
+          name: ' createRoot',
           parameters: [
             {
               name: 'table',
@@ -2524,7 +2524,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDockerProvider',
+          name: ' getDockerProvider',
           parameters: [],
         },
       ],
@@ -2538,7 +2538,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getECProvider',
+          name: ' getECProvider',
           parameters: [],
         },
       ],
@@ -2552,7 +2552,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createTriggerFromTopicToWorkflow',
+          name: ' createTriggerFromTopicToWorkflow',
           parameters: [
             {
               name: 'args',
@@ -2567,7 +2567,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createFlinkDeployment',
+          name: ' createFlinkDeployment',
           parameters: [
             {
               name: 'args',
@@ -2586,7 +2586,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDiskFromImage',
+          name: ' createDiskFromImage',
           parameters: [
             {
               name: 'args',
@@ -2601,7 +2601,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createImageFromGcs',
+          name: ' createImageFromGcs',
           parameters: [
             {
               name: 'args',
@@ -2620,7 +2620,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createGrafanaDataSource',
+          name: ' createGrafanaDataSource',
           parameters: [
             {
               name: 'args',
@@ -2639,7 +2639,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getGrafanaProvider',
+          name: ' getGrafanaProvider',
           parameters: [
             {
               name: 'name',
@@ -2654,7 +2654,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'bqAccess',
+          name: ' bqAccess',
           parameters: [
             {
               name: 'serviceAccount',
@@ -2677,7 +2677,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'addRolesToServiceAccount',
+          name: ' addRolesToServiceAccount',
           parameters: [
             {
               name: 'serviceAccount',
@@ -2699,7 +2699,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addRolesToServiceAccountEmail',
+          name: ' addRolesToServiceAccountEmail',
           parameters: [
             {
               name: 'serviceAccountEmail',
@@ -2725,7 +2725,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addRolesToServiceAccountOrg',
+          name: ' addRolesToServiceAccountOrg',
           parameters: [
             {
               name: 'args',
@@ -2735,7 +2735,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addRolesToServiceAccountEmailOrg',
+          name: ' addRolesToServiceAccountEmailOrg',
           parameters: [
             {
               name: 'args',
@@ -2749,12 +2749,12 @@ export default {
       file: '@tw/pulumi/iam/sa.ts',
       exports: [
         {
-          name: 'GCPServiceAccount',
+          name: ' GCPServiceAccount',
           type: 'gcp.serviceaccount.Account & {\n  account_id: string;\n  uuid: string;\n}',
         },
         {
           type: 'function',
-          name: 'createIamServiceAccount',
+          name: ' createIamServiceAccount',
           parameters: [
             {
               name: 'args',
@@ -2769,7 +2769,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getDefaultComputeServiceAccount',
+          name: ' getDefaultComputeServiceAccount',
           parameters: [],
         },
       ],
@@ -2783,11 +2783,11 @@ export default {
       exports: [
         {
           name: ' HOST',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DOMAIN',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -2796,7 +2796,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deployAirbyte',
+          name: ' deployAirbyte',
           parameters: [
             {
               name: 'args',
@@ -2811,7 +2811,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deployDatadog',
+          name: ' deployDatadog',
           parameters: [
             {
               name: 'args',
@@ -2826,7 +2826,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createElasticCluster',
+          name: ' createElasticCluster',
           parameters: [
             {
               name: 'args',
@@ -2845,7 +2845,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createJaegerCluster',
+          name: ' createJaegerCluster',
           parameters: [
             {
               name: 'args',
@@ -2860,7 +2860,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createKafkaExporter',
+          name: ' createKafkaExporter',
           parameters: [
             {
               name: 'args',
@@ -2875,7 +2875,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deployMetadataProxy',
+          name: ' deployMetadataProxy',
           parameters: [
             {
               name: 'args',
@@ -2889,12 +2889,12 @@ export default {
       file: '@tw/pulumi/k8s/autoscaling.ts',
       exports: [
         {
-          name: 'CreateHorizontalPodAutoscalerArgs',
+          name: ' CreateHorizontalPodAutoscalerArgs',
           type: '{\n  name: string;\n  kind?: string;\n  minReplicas?: number;\n  maxReplicas?: number;\n  apiVersion?: string;\n  provider?: K8sProvider;\n  averageCPUUtilization?: number;\n  averageMemoryUtilization?: number;\n  istioEnabled?: boolean;\n  scaleDownPolicies?: kubernetes.types.input.autoscaling.v2.HPAScalingPolicy[];\n  scaleUpPolicies?: kubernetes.types.input.autoscaling.v2.HPAScalingPolicy[];\n}',
         },
         {
           type: 'function',
-          name: 'createHorizontalPodAutoScaler',
+          name: ' createHorizontalPodAutoScaler',
           parameters: [
             {
               name: 'args',
@@ -2909,7 +2909,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createK8sManagedCertificate',
+          name: ' createK8sManagedCertificate',
           parameters: [
             {
               name: 'args',
@@ -2923,12 +2923,12 @@ export default {
       file: '@tw/pulumi/k8s/cluster/cluster.ts',
       exports: [
         {
-          name: 'K8sCluster',
+          name: ' K8sCluster',
           type: 'gcp.container.Cluster & {\n  name_str: string;\n  cluster_urn: string;\n  cluster_uuid: string;\n}',
         },
         {
           type: 'function',
-          name: 'createK8sCluster',
+          name: ' createK8sCluster',
           parameters: [
             {
               name: 'args',
@@ -2938,7 +2938,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'dependOnCluster',
+          name: ' dependOnCluster',
           parameters: [
             {
               name: 'provider',
@@ -2957,7 +2957,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createClusterRegion',
+          name: ' createClusterRegion',
           parameters: [
             {
               name: 'args',
@@ -2972,7 +2972,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'cuda',
+          name: ' cuda',
           parameters: [
             {
               name: 'provider',
@@ -2987,7 +2987,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'openFirewallPortsOnCluster',
+          name: ' openFirewallPortsOnCluster',
           parameters: [
             {
               name: 'args',
@@ -2997,7 +2997,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createClusterFirewallRule',
+          name: ' createClusterFirewallRule',
           parameters: [
             {
               name: 'args',
@@ -3012,7 +3012,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createGpuNodes',
+          name: ' createGpuNodes',
           parameters: [
             {
               name: 'args',
@@ -3062,15 +3062,15 @@ export default {
       file: '@tw/pulumi/k8s/cluster/nodePool.ts',
       exports: [
         {
-          name: 'NodePool',
+          name: ' NodePool',
           type: 'gcp.container.NodePool & {\n  taints?: gcp.types.input.container.NodePoolNodeConfigTaint[];\n  poolTarget?: pulumi.Input<string>;\n}',
         },
         {
           name: ' allNodeLocations',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'Ratios',
+          name: ' Ratios',
           type: "'1-1' | '1-2' | '1-4' | '1-8'",
         },
         {
@@ -3083,11 +3083,11 @@ export default {
         },
         {
           name: ' defaultOauthScopes',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'createNodePool',
+          name: ' createNodePool',
           parameters: [
             {
               name: 'args',
@@ -3097,7 +3097,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getSelectorsForNodePool',
+          name: ' getSelectorsForNodePool',
           parameters: [
             {
               name: 'nodePool',
@@ -3107,7 +3107,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getSelectorsForPrivatePoolParty',
+          name: ' getSelectorsForPrivatePoolParty',
           parameters: [
             {
               name: 'args',
@@ -3117,7 +3117,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getMachineTypeInfo',
+          name: ' getMachineTypeInfo',
           parameters: [
             {
               name: 'machineType',
@@ -3132,7 +3132,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'knativeServing',
+          name: ' knativeServing',
           parameters: [
             {
               name: 'args',
@@ -3142,7 +3142,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'kourier',
+          name: ' kourier',
           parameters: [
             {
               name: 'args',
@@ -3152,7 +3152,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'cudaDriver',
+          name: ' cudaDriver',
           parameters: [
             {
               name: 'args',
@@ -3162,7 +3162,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'contour',
+          name: ' contour',
           parameters: [
             {
               name: 'args',
@@ -3172,7 +3172,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'installK8sClusterOperator',
+          name: ' installK8sClusterOperator',
           parameters: [
             {
               name: 'name',
@@ -3186,7 +3186,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'dependOnK8sClusterOperators',
+          name: ' dependOnK8sClusterOperators',
           parameters: [
             {
               name: 'provider',
@@ -3205,7 +3205,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createK8sStorageClasses',
+          name: ' createK8sStorageClasses',
           parameters: [
             {
               name: 'args',
@@ -3220,7 +3220,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getClusterRoot',
+          name: ' getClusterRoot',
           parameters: [],
         },
       ],
@@ -3285,12 +3285,12 @@ export default {
       file: '@tw/pulumi/k8s/createLoadBalancer.ts',
       exports: [
         {
-          name: 'LoadBalancingScheme',
+          name: ' LoadBalancingScheme',
           type: "'EXTERNAL' | 'INTERNAL' | 'EXTERNAL_MANAGED' | 'INTERNAL_MANAGED'",
         },
         {
           type: 'function',
-          name: 'createBackendServiceForK8s',
+          name: ' createBackendServiceForK8s',
           parameters: [
             {
               name: 'args',
@@ -3300,7 +3300,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createUrlMapForK8s',
+          name: ' createUrlMapForK8s',
           parameters: [
             {
               name: 'args',
@@ -3310,7 +3310,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createAutoNegConfigEntry',
+          name: ' createAutoNegConfigEntry',
           parameters: [
             {
               name: 'args',
@@ -3320,7 +3320,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createLoadBalancerForK8s',
+          name: ' createLoadBalancerForK8s',
           parameters: [
             {
               name: 'args',
@@ -3334,12 +3334,12 @@ export default {
       file: '@tw/pulumi/k8s/deployment.ts',
       exports: [
         {
-          name: 'CreateK8sDeploymentArgs',
+          name: ' CreateK8sDeploymentArgs',
           type: "{\n  name: string;\n  podArgs: Omit<PodTemplateArgs, 'envs'>;\n  labels?: Record<string, string>;\n  annotations?: Record<string, pulumi.Input<string>>;\n  envs?: Record<string, any>;\n  minReplicas?: number;\n  maxReplicas?: number;\n  secretVersion?: gcp.secretmanager.SecretVersion;\n  rollingUpdate?: kubernetes.types.input.apps.v1.RollingUpdateDeployment;\n  averageCPUUtilization?: number;\n  averageMemoryUtilization?: number;\n  scaleUpPolicies?: kubernetes.types.input.autoscaling.v2.HPAScalingPolicy[];\n  scaleDownPolicies?: kubernetes.types.input.autoscaling.v2.HPAScalingPolicy[];\n  provider?: K8sProvider;\n  requestsPerSecond?: number;\n  tolerateSpotVM?: boolean;\n  datadogConfig?: TracerOptions | 'false';\n  kedaTriggers?: KedaTrigger[];\n  useKeda?: boolean;\n}",
         },
         {
           type: 'function',
-          name: 'createK8sDeployment',
+          name: ' createK8sDeployment',
           parameters: [
             {
               name: 'args',
@@ -3354,7 +3354,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'k8sDiscovery',
+          name: ' k8sDiscovery',
           parameters: [
             {
               name: 'args',
@@ -3372,16 +3372,16 @@ export default {
       file: '@tw/pulumi/k8s/gke/networking.ts',
       exports: [
         {
-          name: 'AffinityType',
+          name: ' AffinityType',
           type: "'CLIENT_IP' | 'GENERATED_COOKIE'",
         },
         {
-          name: 'BackendConfigArgs',
+          name: ' BackendConfigArgs',
           type: '{\n  cdn?: {\n    bypassCacheOnRequestHeaders?: {\n      headerName: string;\n    }[];\n    cacheMode?: string;\n    cachePolicy?: {\n      includeHost?: boolean;\n      includeProtocol?: boolean;\n      includeQueryString?: boolean;\n      queryStringBlacklist?: string[];\n      queryStringWhitelist?: string[];\n    };\n    clientTtl?: number;\n    defaultTtl?: number;\n    enabled: boolean;\n    maxTtl?: number;\n    negativeCaching?: boolean;\n    negativeCachingPolicy?: {\n      code: number;\n      ttl: number;\n    }[];\n    requestCoalescing?: boolean;\n    serveWhileStale?: number;\n    signedUrlCacheMaxAgeSec?: number;\n    signedUrlKeys?: {\n      keyName: string;\n      keyValue: string;\n      secretName: string;\n    }[];\n  };\n  connectionDraining?: {\n    drainingTimeoutSec?: number;\n  };\n  customRequestHeaders?: {\n    headers?: string[];\n  };\n  customResponseHeaders?: {\n    headers?: string[];\n  };\n  healthCheck?: {\n    checkIntervalSec?: number;\n    healthyThreshold?: number;\n    port?: pulumi.Input<string | number>;\n    requestPath?: string;\n    timeoutSec?: number;\n    type?: string;\n    unhealthyThreshold?: number;\n  };\n  iap?: {\n    enabled: boolean;\n    oauthclientCredentials: {\n      clientID?: string;\n      clientSecret?: string;\n      secretName: string;\n    };\n  };\n  logging?: {\n    enable?: boolean;\n    sampleRate?: number;\n  };\n  securityPolicy?: {\n    name: string;\n  };\n  sessionAffinity?: {\n    affinityCookieTtlSec?: number;\n    affinityType?: AffinityType;\n  };\n  timeoutSec?: number;\n}',
         },
         {
           type: 'function',
-          name: 'createK8sServiceBackendConfig',
+          name: ' createK8sServiceBackendConfig',
           parameters: [
             {
               name: 'args',
@@ -3391,7 +3391,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createK8sIngressFrontendConfig',
+          name: ' createK8sIngressFrontendConfig',
           parameters: [
             {
               name: 'args',
@@ -3406,7 +3406,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createHelmRelease',
+          name: ' createHelmRelease',
           parameters: [
             {
               name: 'args',
@@ -3420,12 +3420,12 @@ export default {
       file: '@tw/pulumi/k8s/helper.ts',
       exports: [
         {
-          name: 'DeployToK8sArgs',
+          name: ' DeployToK8sArgs',
           type: '{\n  name?: string;\n  serviceAccount?: GCPServiceAccount;\n  createK8sDeploymentArgs?: Partial<CreateK8sDeploymentArgs>;\n  secretVersion?: gcp.secretmanager.SecretVersion;\n  providers?: K8sProvider[];\n  domain?: TWDomain;\n  ingresses?: IngressesConfig[];\n  useTcpProbe?: boolean;\n  ports?: kubernetes.types.input.core.v1.ContainerPort[];\n}',
         },
         {
           type: 'function',
-          name: 'deployToK8s',
+          name: ' deployToK8s',
           parameters: [
             {
               name: 'args',
@@ -3435,7 +3435,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'deployToKnative',
+          name: ' deployToKnative',
           parameters: [
             {
               name: 'args',
@@ -3445,7 +3445,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createUfDeployment',
+          name: ' createUfDeployment',
           parameters: [
             {
               name: 'args',
@@ -3460,7 +3460,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createIapConfig',
+          name: ' createIapConfig',
           parameters: [
             {
               name: 'args',
@@ -3470,7 +3470,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getIapInfo',
+          name: ' getIapInfo',
           parameters: [],
         },
       ],
@@ -3484,7 +3484,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createK8sIngress',
+          name: ' createK8sIngress',
           parameters: [
             {
               name: 'args',
@@ -3494,7 +3494,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getIngressUrl',
+          name: ' getIngressUrl',
           parameters: [
             {
               name: 'k8sIngress',
@@ -3504,7 +3504,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createAllowAllNetworkPolicy',
+          name: ' createAllowAllNetworkPolicy',
           parameters: [
             {
               name: 'provider',
@@ -3518,12 +3518,12 @@ export default {
       file: '@tw/pulumi/k8s/job.ts',
       exports: [
         {
-          name: 'K8sJobArgs',
+          name: ' K8sJobArgs',
           type: '{\n  name: string;\n  serviceAccount: GCPServiceAccount;\n  provider?: K8sProvider;\n  podArgs?: PodTemplateArgs;\n  secretVersion?: gcp.secretmanager.SecretVersion;\n  parallelism?: number;\n}',
         },
         {
           type: 'function',
-          name: 'createK8sJobConfig',
+          name: ' createK8sJobConfig',
           parameters: [
             {
               name: 'args',
@@ -3537,12 +3537,12 @@ export default {
       file: '@tw/pulumi/k8s/keda.ts',
       exports: [
         {
-          name: 'KedaTrigger',
+          name: ' KedaTrigger',
           type: "{\n  type: 'cpu' | 'prometheus';\n  metricType?: 'Utilization';\n  metadata: {\n    serverAddress?: string;\n    query?: string;\n    threshold?: string;\n    value?: string;\n    queryParameters?: string;\n    activationThreshold?: string;\n    ignoreNullValues?: string;\n  };\n}",
         },
         {
           type: 'function',
-          name: 'createKedaPrometheusTrigger',
+          name: ' createKedaPrometheusTrigger',
           parameters: [
             {
               name: 'args',
@@ -3551,12 +3551,12 @@ export default {
           ],
         },
         {
-          name: 'CreateKedaScalerArgs',
+          name: ' CreateKedaScalerArgs',
           type: '{\n  name: string;\n  minReplicas?: number;\n  maxReplicas?: number;\n  provider: K8sProvider;\n  averageCPUUtilization?: number;\n  triggers?: KedaTrigger[];\n  scaleToZero?: boolean;\n}',
         },
         {
           type: 'function',
-          name: 'createKedaScaler',
+          name: ' createKedaScaler',
           parameters: [
             {
               name: 'args',
@@ -3571,11 +3571,11 @@ export default {
       exports: [
         {
           name: ' _k8sNamespaces',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'createK8sNamespace',
+          name: ' createK8sNamespace',
           parameters: [
             {
               name: 'args',
@@ -3585,7 +3585,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getNamespace',
+          name: ' getNamespace',
           parameters: [
             {
               name: 'provider',
@@ -3600,7 +3600,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createObservabilityStack',
+          name: ' createObservabilityStack',
           parameters: [
             {
               name: 'args',
@@ -3615,7 +3615,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createPdb',
+          name: ' createPdb',
           parameters: [
             {
               name: 'args',
@@ -3629,16 +3629,16 @@ export default {
       file: '@tw/pulumi/k8s/pod.ts',
       exports: [
         {
-          name: 'K8sNodeSelector',
+          name: ' K8sNodeSelector',
           type: "{\n  'node.kubernetes.io/instance-type'?: string;\n  'cloud.google.com/machine-family'?: 'e2' | 'c2' | 'c3';\n  'cloud.google.com/gke-accelerator'?: 'nvidia-tesla-a100' | 'nvidia-l4' | 'nvidia-tesla-v100';\n  'iam.gke.io/gke-metadata-server-enabled'?: string;\n  'addon.gke.io/node-local-dns-ds-ready'?: string;\n  'topology.kubernetes.io/zone'?: pulumi.Input<string>;\n  'triplewhale.com/private-pool'?: pulumi.Input<string>;\n}",
         },
         {
-          name: 'PodTemplateArgs',
+          name: ' PodTemplateArgs',
           type: '{\n  image?: pulumi.Input<string>;\n  appName?: string;\n  terminationGracePeriodSeconds?: number;\n  livenessProbe?: boolean;\n  readinessProbe?: boolean;\n  livenessProbeFailureThreshold?: number;\n  livenessProbePeriodSeconds?: number;\n  envs?: kubernetes.types.input.core.v1.EnvVar[];\n  k8sServiceAccountName?: pulumi.Input<string>;\n  k8sSecret?: kubernetes.apiextensions.CustomResource;\n  podInfo?: boolean;\n  nodeSelector?: K8sNodeSelector;\n  initialDelaySeconds?: number;\n  nodePool?: NodePool;\n  tolerations?: pulumi.Input<kubernetes.types.input.core.v1.Toleration>[];\n  useTcpProbe?: boolean;\n  persistentVolumeClaims?: {\n    claim: kubernetes.core.v1.PersistentVolumeClaim;\n    mountPath: string;\n  }[];\n  extraVolumes?: (kubernetes.types.input.core.v1.Volume & { path: string })[];\n  otel?: boolean;\n  allowSpot?: boolean;\n  readinessGates?: kubernetes.types.input.core.v1.PodReadinessGate[];\n  labels?: Record<string, string>;\n  annotations?: Record<string, pulumi.Input<string>>;\n  command?: string[];\n  args?: pulumi.Input<string>[];\n  ports?: kubernetes.types.input.core.v1.ContainerPort[];\n  scalesOnMemory?: boolean;\n  hostNetwork?: boolean;\n} & K8sResources',
         },
         {
           type: 'function',
-          name: 'createPodTemplate',
+          name: ' createPodTemplate',
           parameters: [
             {
               name: 'args',
@@ -3648,7 +3648,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'resourceCalc',
+          name: ' resourceCalc',
           parameters: [
             {
               name: 'args',
@@ -3666,16 +3666,16 @@ export default {
           type: 'Record<string, { location: string; name: string }>',
         },
         {
-          name: 'ClusterName',
+          name: ' ClusterName',
           type: "| 'backend-cluster'\n  | 'knative-cluster'\n  | 'temporal-cluster'\n  | 'sonic-cluster'\n  | 'rceaas-cluster'\n  | 'pipelines-cluster'",
         },
         {
-          name: 'K8sProvider',
+          name: ' K8sProvider',
           type: 'kubernetes.Provider & {\n  namespace: string;\n  location: string;\n  uuid: string;\n  cluster_uuid: string;\n  cluster_name: ClusterName;\n  cluster_urn: string;\n  dependsOn: pulumi.Resource[];\n  dependOn: (resource: pulumi.Resource | pulumi.Resource[]) => K8sProvider;\n}',
         },
         {
           type: 'function',
-          name: 'getK8sProvider',
+          name: ' getK8sProvider',
           parameters: [
             {
               name: 'args',
@@ -3690,7 +3690,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'renderToYaml',
+          name: ' renderToYaml',
           parameters: [
             {
               name: 'args',
@@ -3705,7 +3705,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createK8sServiceAccount',
+          name: ' createK8sServiceAccount',
           parameters: [
             {
               name: 'args',
@@ -3715,7 +3715,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addWorkloadIdentityUserToSa',
+          name: ' addWorkloadIdentityUserToSa',
           parameters: [
             {
               name: 'args',
@@ -3730,7 +3730,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createK8sSecret',
+          name: ' createK8sSecret',
           parameters: [
             {
               name: 'args',
@@ -3740,7 +3740,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getK8sSecretValue',
+          name: ' getK8sSecretValue',
           parameters: [
             {
               name: 'args',
@@ -3754,16 +3754,16 @@ export default {
       file: '@tw/pulumi/k8s/service.ts',
       exports: [
         {
-          name: 'AutoNegConfigEntry',
+          name: ' AutoNegConfigEntry',
           type: '{\n  name: pulumi.Output<string>;\n  region?: string;\n  max_rate_per_endpoint?: number;\n  max_connections_per_endpoint?: number;\n}',
         },
         {
-          name: 'AutoNegConfig',
+          name: ' AutoNegConfig',
           type: '{\n  backend_services: Record<string, AutoNegConfigEntry[]>;\n}',
         },
         {
           type: 'function',
-          name: 'createK8sService',
+          name: ' createK8sService',
           parameters: [
             {
               name: 'args',
@@ -3777,31 +3777,31 @@ export default {
       file: '@tw/pulumi/k8s/types.ts',
       exports: [
         {
-          name: 'K8sMemory',
+          name: ' K8sMemory',
           type: '`${number}Mi` | `${number}Gi`',
         },
         {
-          name: 'K8sCPU',
+          name: ' K8sCPU',
           type: '`${number}m` | number',
         },
         {
-          name: 'K8sResources',
+          name: ' K8sResources',
           type: 'interface',
         },
         {
-          name: 'LoadBalancerConfig',
+          name: ' LoadBalancerConfig',
           type: '{\n  ipv6?: boolean;\n  loadBalancingScheme?: LoadBalancingScheme;\n  logSampleRate?: number;\n  whiteList?: string[];\n  securityPolicy?: gcp.compute.SecurityPolicy;\n}',
         },
         {
-          name: 'IngressesConfig',
+          name: ' IngressesConfig',
           type: '{\n  ingressMode?: IngressMode;\n  ingressType?: IngressType;\n  loadBalancerConfig?: LoadBalancerConfig;\n}',
         },
         {
-          name: 'IngressMode',
+          name: ' IngressMode',
           type: "'open' | 'iap' | 'internal' | 'cluster-local'",
         },
         {
-          name: 'IngressType',
+          name: ' IngressType',
           type: "'ingress' | 'load-balancer' | 'service'",
         },
       ],
@@ -3811,7 +3811,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getK8sDeploymentEnvs',
+          name: ' getK8sDeploymentEnvs',
           parameters: [
             {
               name: 'args',
@@ -3821,7 +3821,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sCpuMToString',
+          name: ' k8sCpuMToString',
           parameters: [
             {
               name: 'CPU',
@@ -3831,7 +3831,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sCpuToNumber',
+          name: ' k8sCpuToNumber',
           parameters: [
             {
               name: 'CPU',
@@ -3841,7 +3841,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sMemoryToNumberGi',
+          name: ' k8sMemoryToNumberGi',
           parameters: [
             {
               name: 'memory',
@@ -3851,7 +3851,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sMemoryToNumberMi',
+          name: ' k8sMemoryToNumberMi',
           parameters: [
             {
               name: 'memory',
@@ -3861,7 +3861,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sMemoryMiToStringGi',
+          name: ' k8sMemoryMiToStringGi',
           parameters: [
             {
               name: 'memoryMi',
@@ -3871,7 +3871,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createClusterLocalDnsName',
+          name: ' createClusterLocalDnsName',
           parameters: [
             {
               name: 'name',
@@ -3885,7 +3885,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sUniqueName',
+          name: ' k8sUniqueName',
           parameters: [
             {
               name: 'name',
@@ -3899,7 +3899,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createConfigMap',
+          name: ' createConfigMap',
           parameters: [
             {
               name: 'args',
@@ -3914,7 +3914,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createReadOnlyManyVolumeFromDisk',
+          name: ' createReadOnlyManyVolumeFromDisk',
           parameters: [
             {
               name: 'args',
@@ -3929,7 +3929,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createKafkaCluster',
+          name: ' createKafkaCluster',
           parameters: [
             {
               name: 'args',
@@ -3944,7 +3944,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createKafkaConnectCluster',
+          name: ' createKafkaConnectCluster',
           parameters: [
             {
               name: 'args',
@@ -3954,7 +3954,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createKafkaConnector',
+          name: ' createKafkaConnector',
           parameters: [
             {
               name: 'args',
@@ -3964,7 +3964,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createKafkaConnectorClickhouse',
+          name: ' createKafkaConnectorClickhouse',
           parameters: [
             {
               name: 'args',
@@ -3983,7 +3983,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getKafkaProvider',
+          name: ' getKafkaProvider',
           parameters: [
             {
               name: 'name',
@@ -3998,7 +3998,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createKafkaTopic',
+          name: ' createKafkaTopic',
           parameters: [
             {
               name: 'args',
@@ -4013,7 +4013,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createKnativeDomainMapping',
+          name: ' createKnativeDomainMapping',
           parameters: [
             {
               name: 'args',
@@ -4032,7 +4032,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getKnativeProvider',
+          name: ' getKnativeProvider',
           parameters: [
             {
               name: 'args',
@@ -4046,12 +4046,12 @@ export default {
       file: '@tw/pulumi/knative/serving.ts',
       exports: [
         {
-          name: 'CreateKnativeServingArgs',
+          name: ' CreateKnativeServingArgs',
           type: "{\n  name: string;\n  podArgs: Omit<PodTemplateArgs, 'envs'>;\n  envs?: Record<string, any>;\n  minReplicas?: number;\n  maxReplicas?: number;\n  targetBurstCapacity?: number;\n  targetUtilizationPercentage?: number;\n  timeoutSeconds?: number;\n  windowSeconds?: number;\n  secretVersion?: gcp.secretmanager.SecretVersion;\n  concurrencyLimit?: number;\n  provider?: K8sProvider;\n  datadogConfig?: TracerOptions | 'false';\n  subDomain?: string;\n  metricType?: 'rps' | 'concurrency' | 'cpu' | 'memory';\n  target?: number;\n  rolloutDuration?: number;\n  labels?: Record<string, string>;\n  annotations?: Record<string, string>;\n}",
         },
         {
           type: 'function',
-          name: 'createKnativeServing',
+          name: ' createKnativeServing',
           parameters: [
             {
               name: 'args',
@@ -4070,7 +4070,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createMongoCluster',
+          name: ' createMongoCluster',
           parameters: [
             {
               name: 'args',
@@ -4085,7 +4085,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createMongoSearchIndex',
+          name: ' createMongoSearchIndex',
           parameters: [
             {
               name: 'args',
@@ -4100,7 +4100,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createMongoDbUser',
+          name: ' createMongoDbUser',
           parameters: [],
         },
       ],
@@ -4114,7 +4114,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getMongoAtlasProvider',
+          name: ' getMongoAtlasProvider',
           parameters: [],
         },
       ],
@@ -4123,7 +4123,7 @@ export default {
       file: '@tw/pulumi/mongodb/tiers.ts',
       exports: [
         {
-          name: 'AtlasTier',
+          name: ' AtlasTier',
           type: "| 'M10'\n  | 'M20'\n  | 'M30'\n  | 'M40'\n  | 'M50'\n  | 'M60'\n  | 'M80'\n  | 'M140'\n  | 'M200'\n  | 'M250'\n  | 'M300'\n  | 'M400'\n  | 'M600'",
         },
         {
@@ -4132,7 +4132,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getRelativeTier',
+          name: ' getRelativeTier',
           parameters: [
             {
               name: 'tier',
@@ -4151,7 +4151,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getMongoDbConnectionString',
+          name: ' getMongoDbConnectionString',
           parameters: [
             {
               name: 'mongoDbUser',
@@ -4169,12 +4169,12 @@ export default {
       file: '@tw/pulumi/monitoring/alerts.ts',
       exports: [
         {
-          name: 'BaseAlertArgs',
+          name: ' BaseAlertArgs',
           type: '{\n  name: string;\n  sendEverySeconds?: number;\n  autoCloseSeconds?: number;\n  slack?: boolean;\n  slackChannel?: string;\n}',
         },
         {
           type: 'function',
-          name: 'createLogBasedAlertWithThreshold',
+          name: ' createLogBasedAlertWithThreshold',
           parameters: [
             {
               name: 'args',
@@ -4184,7 +4184,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createLogBasedAlert',
+          name: ' createLogBasedAlert',
           parameters: [
             {
               name: 'args',
@@ -4194,7 +4194,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createAlert',
+          name: ' createAlert',
           parameters: [
             {
               name: 'args',
@@ -4204,12 +4204,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'getAlertEmails',
+          name: ' getAlertEmails',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getAuthor',
+          name: ' getAuthor',
           parameters: [],
         },
       ],
@@ -4223,7 +4223,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createDefaultDashboard',
+          name: ' createDefaultDashboard',
           parameters: [],
         },
       ],
@@ -4233,7 +4233,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDefaultServiceDashboards',
+          name: ' createDefaultServiceDashboards',
           parameters: [
             {
               name: 'args',
@@ -4261,15 +4261,15 @@ export default {
       exports: [
         {
           name: ' slackNotificationChannels',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' pubsubNotificationChannel',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' defaultSlackChannelName',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -4278,7 +4278,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createRedisAlert',
+          name: ' createRedisAlert',
           parameters: [
             {
               name: 'args',
@@ -4302,7 +4302,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getTileForMetric',
+          name: ' getTileForMetric',
           parameters: [
             {
               name: 'args',
@@ -4312,7 +4312,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'cloudRunFilter',
+          name: ' cloudRunFilter',
           parameters: [
             {
               name: 'serviceId',
@@ -4322,7 +4322,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'labelFilter',
+          name: ' labelFilter',
           parameters: [
             {
               name: 'serviceId',
@@ -4332,12 +4332,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'cloudRunAggregation',
+          name: ' cloudRunAggregation',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createDataSet',
+          name: ' createDataSet',
           parameters: [
             {
               name: 'args',
@@ -4356,7 +4356,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createLoadBalancer',
+          name: ' createLoadBalancer',
           parameters: [
             {
               name: 'args',
@@ -4371,7 +4371,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createOtelCollector',
+          name: ' createOtelCollector',
           parameters: [
             {
               name: 'args',
@@ -4394,7 +4394,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getPostgresqlProvider',
+          name: ' getPostgresqlProvider',
           parameters: [
             {
               name: 'args',
@@ -4409,7 +4409,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createPrometheusDeployment',
+          name: ' createPrometheusDeployment',
           parameters: [
             {
               name: 'args',
@@ -4427,12 +4427,12 @@ export default {
       file: '@tw/pulumi/prometheus/monitor.ts',
       exports: [
         {
-          name: 'PrometheusReleaseName',
+          name: ' PrometheusReleaseName',
           type: "'devops' | 'workloads' | 'kube-prometheus-stack'",
         },
         {
           type: 'function',
-          name: 'createPrometheusMonitor',
+          name: ' createPrometheusMonitor',
           parameters: [
             {
               name: 'args',
@@ -4447,7 +4447,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDefaultPubsubAlerts',
+          name: ' createDefaultPubsubAlerts',
           parameters: [
             {
               name: 'excludePubsubSubs',
@@ -4462,7 +4462,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createPushConfig',
+          name: ' createPushConfig',
           parameters: [
             {
               name: 'endpoint',
@@ -4481,7 +4481,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDeadLetterPolicy',
+          name: ' createDeadLetterPolicy',
           parameters: [
             {
               name: 'args',
@@ -4500,7 +4500,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'localPullSub',
+          name: ' localPullSub',
           parameters: [
             {
               name: 'args',
@@ -4515,7 +4515,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createSubscription',
+          name: ' createSubscription',
           parameters: [
             {
               name: 'args',
@@ -4530,7 +4530,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createTopic',
+          name: ' createTopic',
           parameters: [
             {
               name: 'name',
@@ -4553,7 +4553,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'appendToOutput',
+          name: ' appendToOutput',
           parameters: [
             {
               name: 'o',
@@ -4575,8 +4575,8 @@ export default {
       file: '@tw/pulumi/pulumi-utils/stack.ts',
       exports: [
         {
-          name: 'TwPulumiStack',
-          type: 'pulumi.dynamic.Resource',
+          name: ' TwPulumiStack',
+          type: ' pulumi.dynamic.Resource',
         },
       ],
     },
@@ -4585,7 +4585,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'toJSONOutput',
+          name: ' toJSONOutput',
           parameters: [
             {
               name: 'value',
@@ -4599,7 +4599,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'toYamlOutput',
+          name: ' toYamlOutput',
           parameters: [
             {
               name: 'value',
@@ -4609,7 +4609,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'toBase64Output',
+          name: ' toBase64Output',
           parameters: [
             {
               name: 'value',
@@ -4619,7 +4619,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'fromBase64',
+          name: ' fromBase64',
           parameters: [
             {
               name: 'value',
@@ -4633,7 +4633,7 @@ export default {
       file: '@tw/pulumi/pulumi-utils/types.ts',
       exports: [
         {
-          name: 'DependsOn',
+          name: ' DependsOn',
           type: 'pulumi.Input<pulumi.Resource>[]',
         },
       ],
@@ -4643,7 +4643,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createRabbitMQCluster',
+          name: ' createRabbitMQCluster',
           parameters: [
             {
               name: 'args',
@@ -4658,7 +4658,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createRabbitMQExchange',
+          name: ' createRabbitMQExchange',
           parameters: [
             {
               name: 'args',
@@ -4677,7 +4677,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getRabbitMQProvider',
+          name: ' getRabbitMQProvider',
           parameters: [
             {
               name: 'name',
@@ -4692,7 +4692,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createRabbitMQQueue',
+          name: ' createRabbitMQQueue',
           parameters: [
             {
               name: 'args',
@@ -4707,7 +4707,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createSecret',
+          name: ' createSecret',
           parameters: [
             {
               name: 'secretValue',
@@ -4726,7 +4726,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getSecretValue',
+          name: ' getSecretValue',
           parameters: [
             {
               name: 'secret',
@@ -4749,7 +4749,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createPassword',
+          name: ' createPassword',
           parameters: [
             {
               name: 'args',
@@ -4759,7 +4759,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'urlEscapePassword',
+          name: ' urlEscapePassword',
           parameters: [
             {
               name: 'password',
@@ -4774,7 +4774,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createServiceAccount',
+          name: ' createServiceAccount',
           parameters: [
             {
               name: 'args',
@@ -4784,7 +4784,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'k8sGetGCPServiceAccount',
+          name: ' k8sGetGCPServiceAccount',
           parameters: [],
         },
       ],
@@ -4794,11 +4794,11 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'createServiceEnvs',
+          name: ' createServiceEnvs',
         },
         {
           type: 'specifier',
-          name: 'getServiceDefaultEnvs',
+          name: ' getServiceDefaultEnvs',
         },
       ],
     },
@@ -4807,7 +4807,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'loadPackageJson',
+          name: ' loadPackageJson',
           parameters: [],
         },
       ],
@@ -4817,12 +4817,12 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'loadServiceConfig',
+          name: ' loadServiceConfig',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'updateServiceConfig',
+          name: ' updateServiceConfig',
           parameters: [
             {
               name: 'serviceConfig',
@@ -4837,7 +4837,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'updateServiceEntry',
+          name: ' updateServiceEntry',
           parameters: [
             {
               name: 'args',
@@ -4847,7 +4847,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addServiceEntryDeployment',
+          name: ' addServiceEntryDeployment',
           parameters: [
             {
               name: 'args',
@@ -4857,7 +4857,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getDeployments',
+          name: ' getDeployments',
           parameters: [
             {
               name: 'type',
@@ -4876,7 +4876,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createServiceEnvs',
+          name: ' createServiceEnvs',
           parameters: [
             {
               name: 'envs',
@@ -4886,7 +4886,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getServiceDefaultEnvs',
+          name: ' getServiceDefaultEnvs',
           parameters: [],
         },
       ],
@@ -4896,11 +4896,11 @@ export default {
       exports: [
         {
           name: ' deployedToK8s',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'serviceInfraConfig',
+          name: ' serviceInfraConfig',
           parameters: [
             {
               name: 'args',
@@ -4919,7 +4919,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getSlackProvider',
+          name: ' getSlackProvider',
           parameters: [],
         },
       ],
@@ -4929,7 +4929,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getSlackUserByEmail',
+          name: ' getSlackUserByEmail',
           parameters: [
             {
               name: 'email',
@@ -4947,12 +4947,12 @@ export default {
       file: '@tw/pulumi/sonic/k8s.ts',
       exports: [
         {
-          name: 'SaberArgs',
+          name: ' SaberArgs',
           type: '{\n  saberPipelines?: string[];\n  main?: string;\n  concurrencyLimit?: number;\n  concurrencyTarget?: number;\n}',
         },
         {
           type: 'function',
-          name: 'createSaberK8sPodArgs',
+          name: ' createSaberK8sPodArgs',
           parameters: [
             {
               name: 'args',
@@ -4967,7 +4967,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deploySaber',
+          name: ' deploySaber',
           parameters: [
             {
               name: 'args',
@@ -4982,7 +4982,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createSaberK8sJobConfig',
+          name: ' createSaberK8sJobConfig',
           parameters: [
             {
               name: 'args',
@@ -4997,7 +4997,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDefaultSqlAlerts',
+          name: ' createDefaultSqlAlerts',
           parameters: [],
         },
       ],
@@ -5010,12 +5010,12 @@ export default {
       file: '@tw/pulumi/sql/postgres.ts',
       exports: [
         {
-          name: 'SqlDatabaseInstance',
+          name: ' SqlDatabaseInstance',
           type: 'gcp.sql.DatabaseInstance & {\n  instance_name: string;\n}',
         },
         {
           type: 'function',
-          name: 'createPostgresInstance',
+          name: ' createPostgresInstance',
           parameters: [
             {
               name: 'args',
@@ -5030,7 +5030,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createStorageBucket',
+          name: ' createStorageBucket',
           parameters: [
             {
               name: 'name',
@@ -5049,7 +5049,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createDataLakeAndNotification',
+          name: ' createDataLakeAndNotification',
           parameters: [
             {
               name: 'bucketName',
@@ -5068,7 +5068,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createStorageNotification',
+          name: ' createStorageNotification',
           parameters: [
             {
               name: 'bucketName',
@@ -5095,7 +5095,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'uploadDir',
+          name: ' uploadDir',
           parameters: [
             {
               name: 'args',
@@ -5110,19 +5110,19 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'createTemporalNamespace',
+          name: ' createTemporalNamespace',
         },
         {
           type: 'specifier',
-          name: 'TemporalNamespace',
+          name: ' TemporalNamespace',
         },
         {
           type: 'specifier',
-          name: 'createTemporalSchedule',
+          name: ' createTemporalSchedule',
         },
         {
           type: 'specifier',
-          name: 'TemporalSchedule',
+          name: ' TemporalSchedule',
         },
       ],
     },
@@ -5131,7 +5131,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deployTemporalWorker',
+          name: ' deployTemporalWorker',
           parameters: [
             {
               name: 'args',
@@ -5145,12 +5145,12 @@ export default {
       file: '@tw/pulumi/temporal/temporalNamespace.ts',
       exports: [
         {
-          name: 'TemporalNamespace',
-          type: 'pulumi.dynamic.Resource',
+          name: ' TemporalNamespace',
+          type: ' pulumi.dynamic.Resource',
         },
         {
           type: 'function',
-          name: 'createTemporalNamespace',
+          name: ' createTemporalNamespace',
           parameters: [
             {
               name: 'name',
@@ -5172,12 +5172,12 @@ export default {
       file: '@tw/pulumi/temporal/temporalSchedule.ts',
       exports: [
         {
-          name: 'TemporalSchedule',
-          type: 'pulumi.dynamic.Resource',
+          name: ' TemporalSchedule',
+          type: ' pulumi.dynamic.Resource',
         },
         {
           type: 'function',
-          name: 'createTemporalSchedule',
+          name: ' createTemporalSchedule',
           parameters: [
             {
               name: 'name',
@@ -5200,7 +5200,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getTemporalAddress',
+          name: ' getTemporalAddress',
           parameters: [
             {
               name: 'args',
@@ -5210,7 +5210,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getTemporalNamespace',
+          name: ' getTemporalNamespace',
           parameters: [
             {
               name: 'args',
@@ -5220,7 +5220,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getTemporalClient',
+          name: ' getTemporalClient',
           parameters: [
             {
               name: 'args',
@@ -5230,7 +5230,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getSchedule',
+          name: ' getSchedule',
           parameters: [
             {
               name: 'args',
@@ -5245,7 +5245,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'runTransformations',
+          name: ' runTransformations',
           parameters: [],
         },
       ],
@@ -5254,12 +5254,12 @@ export default {
       file: '@tw/pulumi/tw-gateway/index.ts',
       exports: [
         {
-          name: 'TwGatewayResourceInputs',
+          name: ' TwGatewayResourceInputs',
           type: 'interface',
         },
         {
-          name: 'TwGateway',
-          type: 'pulumi.dynamic.Resource',
+          name: ' TwGateway',
+          type: ' pulumi.dynamic.Resource',
         },
       ],
     },
@@ -5268,26 +5268,26 @@ export default {
       exports: [
         {
           name: ' CloudRun',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' K8sIngress',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' K8sService',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' K8sDeployment',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'authProxyConfig',
+          name: ' authProxyConfig',
           type: '{ serviceId: string; projectId?: string }',
         },
         {
-          name: 'serviceTarget',
+          name: ' serviceTarget',
           type: '| gcp.cloudrun.Service\n  | kubernetes.networking.v1.Ingress\n  | kubernetes.core.v1.Service\n  | ServiceEntryDeployment',
         },
       ],
@@ -5297,7 +5297,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'objectBool',
+          name: ' objectBool',
           parameters: [
             {
               name: 'obj',
@@ -5312,7 +5312,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createLabels',
+          name: ' createLabels',
           parameters: [
             {
               name: 'asArray',
@@ -5322,16 +5322,16 @@ export default {
         },
         {
           name: ' OMIT_LABELS',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'omitLabels',
+          name: ' omitLabels',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'shouldOmitLabels',
+          name: ' shouldOmitLabels',
           parameters: [
             {
               name: 'labels',
@@ -5345,16 +5345,16 @@ export default {
       file: '@tw/pulumi/utils/domain.ts',
       exports: [
         {
-          name: 'Domain',
+          name: ' Domain',
           type: 'keyof typeof cloudFlareDomainMap',
         },
         {
-          name: 'TWDomain',
-          type: 'any',
+          name: ' TWDomain',
+          type: 'class',
         },
         {
           type: 'function',
-          name: 'createTWDomain',
+          name: ' createTWDomain',
           parameters: [
             {
               name: 'args',
@@ -5364,7 +5364,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getFQDN',
+          name: ' getFQDN',
           parameters: [
             {
               name: 'subDomain',
@@ -5378,7 +5378,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getLabelSafeDomain',
+          name: ' getLabelSafeDomain',
           parameters: [
             {
               name: 'twDomain',
@@ -5393,7 +5393,7 @@ export default {
       exports: [
         {
           name: ' enumerateNumber',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -5402,7 +5402,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'sortEnvs',
+          name: ' sortEnvs',
           parameters: [
             {
               name: 'envs',
@@ -5412,7 +5412,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addEnvIfNotExists',
+          name: ' addEnvIfNotExists',
           parameters: [
             {
               name: 'envs',
@@ -5431,7 +5431,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'exportTopicToBigquery',
+          name: ' exportTopicToBigquery',
           parameters: [
             {
               name: 'args',
@@ -5441,7 +5441,7 @@ export default {
         },
         {
           name: ' bigqueryBaseSchema',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -5450,7 +5450,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'generateEndpoint',
+          name: ' generateEndpoint',
           parameters: [
             {
               name: 'endpoint',
@@ -5469,7 +5469,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getAllServices',
+          name: ' getAllServices',
           parameters: [],
         },
       ],
@@ -5479,7 +5479,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getBaseUrl',
+          name: ' getBaseUrl',
           parameters: [
             {
               name: 'service',
@@ -5489,7 +5489,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getFullUrl',
+          name: ' getFullUrl',
           parameters: [
             {
               name: 'service',
@@ -5503,7 +5503,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getTriggerUrl',
+          name: ' getTriggerUrl',
           parameters: [
             {
               name: 'triggerId',
@@ -5513,7 +5513,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getAudience',
+          name: ' getAudience',
           parameters: [
             {
               name: 'service',
@@ -5523,7 +5523,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createAuthProxyUrl',
+          name: ' createAuthProxyUrl',
           parameters: [
             {
               name: 'subDomain',
@@ -5542,11 +5542,11 @@ export default {
       exports: [
         {
           name: ' serviceConfigFile',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getConfigs',
+          name: ' getConfigs',
           parameters: [],
         },
       ],
@@ -5556,7 +5556,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getPubsubTopicId',
+          name: ' getPubsubTopicId',
           parameters: [
             {
               name: 'topicName',
@@ -5566,7 +5566,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getSecretId',
+          name: ' getSecretId',
           parameters: [
             {
               name: 'secretName',
@@ -5576,7 +5576,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getServiceAccountId',
+          name: ' getServiceAccountId',
           parameters: [
             {
               name: 'ServiceAccountName',
@@ -5586,7 +5586,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getCloudRunServiceId',
+          name: ' getCloudRunServiceId',
           parameters: [
             {
               name: 'serviceName',
@@ -5596,7 +5596,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getDataformRepoId',
+          name: ' getDataformRepoId',
           parameters: [
             {
               name: 'projectId',
@@ -5610,7 +5610,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getWorkflowId',
+          name: ' getWorkflowId',
           parameters: [
             {
               name: 'workflowName',
@@ -5620,7 +5620,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getNetworkId',
+          name: ' getNetworkId',
           parameters: [
             {
               name: 'networkName',
@@ -5630,7 +5630,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getSubnetworkId',
+          name: ' getSubnetworkId',
           parameters: [
             {
               name: 'subnetworkName',
@@ -5649,7 +5649,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getServiceAccountForService',
+          name: ' getServiceAccountForService',
           parameters: [],
         },
       ],
@@ -5659,7 +5659,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getServiceImage',
+          name: ' getServiceImage',
           parameters: [
             {
               name: 'args',
@@ -5674,7 +5674,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getStackReference',
+          name: ' getStackReference',
           parameters: [
             {
               name: 'pulumiProject',
@@ -5693,7 +5693,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getUniqueNameInProject',
+          name: ' getUniqueNameInProject',
           parameters: [
             {
               name: 'name',
@@ -5716,7 +5716,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getGitFullUrl',
+          name: ' getGitFullUrl',
           parameters: [],
         },
       ],
@@ -5735,7 +5735,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'convertEnvs',
+          name: ' convertEnvs',
           parameters: [
             {
               name: 'envs',
@@ -5750,7 +5750,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'storeHostedServiceInfo',
+          name: ' storeHostedServiceInfo',
           parameters: [
             {
               name: 'args',
@@ -5769,7 +5769,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'protect',
+          name: ' protect',
           parameters: [
             {
               name: 'name',
@@ -5788,7 +5788,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'pythonWorkers',
+          name: ' pythonWorkers',
           parameters: [
             {
               name: 'args',
@@ -5803,7 +5803,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'readFile',
+          name: ' readFile',
           parameters: [
             {
               name: 'path',
@@ -5822,7 +5822,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'setOutput',
+          name: ' setOutput',
           parameters: [
             {
               name: 'key',
@@ -5841,7 +5841,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createUUID',
+          name: ' createUUID',
           parameters: [
             {
               name: 'name',
@@ -5856,7 +5856,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'bigQueryQuery',
+          name: ' bigQueryQuery',
           parameters: [
             {
               name: 'args',
@@ -5871,15 +5871,15 @@ export default {
       exports: [
         {
           name: ' CHILD_WORKFLOW_PREDICATE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' DATAFORM_PREDICATE',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'createWorkflow',
+          name: ' createWorkflow',
           parameters: [
             {
               name: 'args',
@@ -5894,7 +5894,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'dataformJob',
+          name: ' dataformJob',
           parameters: [
             {
               name: 'args',
@@ -5909,7 +5909,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'decodeArgsFromTrigger',
+          name: ' decodeArgsFromTrigger',
           parameters: [
             {
               name: 'args',
@@ -5928,7 +5928,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'k8Jobs',
+          name: ' k8Jobs',
           parameters: [
             {
               name: 'args',
@@ -5943,7 +5943,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'sendPubSub',
+          name: ' sendPubSub',
           parameters: [
             {
               name: 'args',
@@ -5966,7 +5966,7 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'GoogleCloudWorkflows',
+          name: ' GoogleCloudWorkflows',
         },
       ],
     },
@@ -5974,119 +5974,119 @@ export default {
       file: '@tw/pulumi/workflows/schema/workflows.d.ts',
       exports: [
         {
-          name: 'GoogleCloudWorkflows',
+          name: ' GoogleCloudWorkflows',
           type: '| {\n      main: {\n        /**\n         * The name of the parameter variable.\n         *\n         * @minItems 0\n         * @maxItems 1\n         */\n        params?: [] | [string];\n        steps?: StepArray;\n      };\n      [k: string]: Subworkflow;\n    }\n  | StepArray6',
         },
         {
-          name: 'StepArray',
+          name: ' StepArray',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'Assign',
+          name: ' Assign',
           type: '[\n  {\n    [k: string]: unknown;\n  },\n  ...{\n    [k: string]: unknown;\n  }[]\n]',
         },
         {
-          name: 'Call',
+          name: ' Call',
           type: "| ('http.get' | 'http.post' | 'http.put' | 'http.patch' | 'http.delete' | 'http.request')\n  | ('sys.sleep' | 'sys.sleep_until' | 'sys.log')\n  | ('events.await_callback' | 'events.create_callback_endpoint')\n  | string\n  | string",
         },
         {
-          name: 'Next',
+          name: ' Next',
           type: "string | 'end' | 'continue' | 'break'",
         },
         {
-          name: 'Switch',
+          name: ' Switch',
           type: '[Condition, ...Condition[]]',
         },
         {
-          name: 'StepArray1',
+          name: ' StepArray1',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'For',
+          name: ' For',
           type: "{\n  /**\n   * A loop variable name. Contains the value of the currently iterated element.\n   */\n  value: string;\n  /**\n   * An index variable name. Contains the value to the current offset of the iteration.\n   */\n  index?: string;\n  /**\n   * An expression that evaluates into a list or a list definition. Required, if not using 'range'.\n   */\n  in?: unknown[] | string;\n  /**\n   * A list of two expressions, specifying the beginning and end of the range, both inclusive. Required, if not using 'in'.\n   */\n  range?: [number, number] | string;\n  steps: StepArray2;\n} & For1",
         },
         {
-          name: 'StepArray2',
+          name: ' StepArray2',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'For1',
+          name: ' For1',
           type: '| {\n      [k: string]: unknown;\n    }\n  | {\n      [k: string]: unknown;\n    }',
         },
         {
-          name: 'Parallel',
+          name: ' Parallel',
           type: "{\n  /**\n   * The action for other branches when an exception occurs. Optional. The default policy, 'continueAll', results in no further action, and all other branches will attempt to run.\n   */\n  exception_policy?: 'continueAll';\n  /**\n   * A list of writable variables with parent scope that allow assignments within the 'parallel' step.\n   */\n  shared?: string[];\n  /**\n   * The maximum number of branches and iterations that can concurrently execute within a single workflow execution before further branches and iterations are queued to wait. This applies to a single 'parallel' step only and does not cascade. Must be a positive integer and can be either a literal value or an expression.\n   */\n  concurrency_limit?: number;\n  branches?: Branches;\n  for?: For2;\n} & Parallel1",
         },
         {
-          name: 'Branches',
+          name: ' Branches',
           type: '| [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]\n  | [\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      },\n      {\n        [k: string]: Step;\n      }\n    ]',
         },
         {
-          name: 'For2',
+          name: ' For2',
           type: "{\n  /**\n   * A loop variable name. Contains the value of the currently iterated element.\n   */\n  value: string;\n  /**\n   * An index variable name. Contains the value to the current offset of the iteration.\n   */\n  index?: string;\n  /**\n   * An expression that evaluates into a list or a list definition. Required, if not using 'range'.\n   */\n  in?: unknown[] | string;\n  /**\n   * A list of two expressions, specifying the beginning and end of the range, both inclusive. Required, if not using 'in'.\n   */\n  range?: [number, number] | string;\n  steps: StepArray2;\n} & (\n  | {\n      [k: string]: unknown;\n    }\n  | {\n      [k: string]: unknown;\n    }\n)",
         },
         {
-          name: 'Parallel1',
+          name: ' Parallel1',
           type: '| {\n      [k: string]: unknown;\n    }\n  | {\n      [k: string]: unknown;\n    }',
         },
         {
-          name: 'Raise',
+          name: ' Raise',
           type: '| string\n  | {\n      /**\n       * Error code.\n       */\n      code?: number;\n      /**\n       * Error message string.\n       */\n      message?: string;\n      [k: string]: unknown;\n    }',
         },
         {
-          name: 'Try',
+          name: ' Try',
           type: 'Step1 | StepArray4',
         },
         {
-          name: 'Retry',
+          name: ' Retry',
           type: '| {\n      /**\n       * Defines which error codes will be retried. Options include ${http.default_retry_predicate}, ${http.default_retry_predicate_non_idempotent}, or a custom predicate defined as a subworkflow.\n       */\n      predicate?: string;\n      /**\n       * Maximum number of times a step will be retried, not counting the initial step execution attempt.\n       */\n      max_retries?: number;\n      /**\n       * Block that controls how retries occur.\n       */\n      backoff?: {\n        /**\n         * Delay in seconds between the initial failure and the first retry.\n         */\n        initial_delay?: number;\n        /**\n         * Maximum delay in seconds between retries.\n         */\n        max_delay?: number;\n        /**\n         * Multiplier applied to the previous delay to calculate the delay for the subsequent retry.\n         */\n        multiplier?: number;\n      };\n    }\n  | string',
         },
         {
-          name: 'StepArray3',
+          name: ' StepArray3',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'StepArray4',
+          name: ' StepArray4',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'StepArray5',
+          name: ' StepArray5',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'StepArray6',
+          name: ' StepArray6',
           type: '[\n  {\n    [k: string]: Step;\n  },\n  ...{\n    [k: string]: Step;\n  }[]\n]',
         },
         {
-          name: 'Step',
+          name: ' Step',
           type: 'interface',
         },
         {
-          name: 'Args',
+          name: ' Args',
           type: 'interface',
         },
         {
-          name: 'Result',
+          name: ' Result',
           type: 'interface',
         },
         {
-          name: 'Condition',
+          name: ' Condition',
           type: 'interface',
         },
         {
-          name: 'Step1',
+          name: ' Step1',
           type: 'interface',
         },
         {
-          name: 'Except',
+          name: ' Except',
           type: 'interface',
         },
         {
-          name: 'Return',
+          name: ' Return',
           type: 'interface',
         },
         {
-          name: 'Subworkflow',
+          name: ' Subworkflow',
           type: 'interface',
         },
       ],
@@ -6099,12 +6099,12 @@ export default {
       file: '@tw/pulumi/workflows/workflow.ts',
       exports: [
         {
-          name: 'WorkflowInvocation',
+          name: ' WorkflowInvocation',
           type: '{\n  name: string;\n  workflowId: pulumi.Input<string>;\n  workflowArgs?: any;\n  resultKey?: string;\n  exceptionKey?: string;\n  failOnChildFailure?: boolean;\n  maxRetries?: number;\n  timeout?: number; // seconds\n}',
         },
         {
           type: 'function',
-          name: 'invokeWorkflows',
+          name: ' invokeWorkflows',
           parameters: [
             {
               name: 'args',
@@ -6114,7 +6114,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'invokeWorkflow',
+          name: ' invokeWorkflow',
           parameters: [
             {
               name: 'args',
@@ -6128,7 +6128,7 @@ export default {
       file: '@tw/types/ApiResponses/ApiErrorResponse.ts',
       exports: [
         {
-          name: 'ApiErrorResponse',
+          name: ' ApiErrorResponse',
           type: '{\n  error: string;\n} & BooleanResponse',
         },
       ],
@@ -6137,8 +6137,8 @@ export default {
       file: '@tw/types/ApiResponses/AttributesResponse.ts',
       exports: [
         {
-          name: 'ApiAttributesResponse',
-          type: 'BaseApiResponse',
+          name: ' ApiAttributesResponse',
+          type: ' BaseApiResponse',
         },
       ],
     },
@@ -6146,8 +6146,8 @@ export default {
       file: '@tw/types/ApiResponses/BaseApiResponse.ts',
       exports: [
         {
-          name: 'BaseApiResponse',
-          type: 'any',
+          name: ' BaseApiResponse',
+          type: 'class',
         },
       ],
     },
@@ -6155,8 +6155,8 @@ export default {
       file: '@tw/types/ApiResponses/BenchmarksResponse.ts',
       exports: [
         {
-          name: 'ApiBenchmarksResponse',
-          type: 'BaseApiResponse',
+          name: ' ApiBenchmarksResponse',
+          type: ' BaseApiResponse',
         },
       ],
     },
@@ -6164,8 +6164,8 @@ export default {
       file: '@tw/types/ApiResponses/BooleanResponse.ts',
       exports: [
         {
-          name: 'BooleanResponse',
-          type: 'any',
+          name: ' BooleanResponse',
+          type: 'class',
         },
       ],
     },
@@ -6173,27 +6173,27 @@ export default {
       file: '@tw/types/ApiResponses/CreativeResponse.ts',
       exports: [
         {
-          name: 'CreativeResponse',
+          name: ' CreativeResponse',
           type: 'interface',
         },
         {
-          name: 'Creative',
+          name: ' Creative',
           type: 'interface',
         },
         {
-          name: 'HighlightCreative',
+          name: ' HighlightCreative',
           type: '{\n  id: string;\n  assetType: CreativeTypes;\n  name: string;\n  metric: HighlightMetrics;\n  thumbnail?: string;\n  image?: string;\n  body?: string;\n  value: number;\n  prevValue: number;\n  delta: number;\n}',
         },
         {
-          name: 'CreativeSegment',
+          name: ' CreativeSegment',
           type: '{\n  id: string;\n  metrics: AllMetricsAndPixelMetricsKeys;\n  metricsBreakdown: MetricsBreakdown[];\n  numberOfAds: number;\n  thumbnails: string[];\n  segmentTitle: string;\n  segmentDescription: string;\n}',
         },
         {
-          name: 'CreativeHighlightsResponse',
+          name: ' CreativeHighlightsResponse',
           type: '{\n  creatives: HighlightCreative[];\n}',
         },
         {
-          name: 'CreativeSegmentsResponse',
+          name: ' CreativeSegmentsResponse',
           type: '{\n  segments: CreativeSegment[];\n}',
         },
       ],
@@ -6202,8 +6202,8 @@ export default {
       file: '@tw/types/ApiResponses/InfluencersSummaryResponse.ts',
       exports: [
         {
-          name: 'InfluencersSummaryResponse',
-          type: 'BaseApiResponse',
+          name: ' InfluencersSummaryResponse',
+          type: ' BaseApiResponse',
         },
       ],
     },
@@ -6211,16 +6211,16 @@ export default {
       file: '@tw/types/ApiResponses/MetricsResponse.ts',
       exports: [
         {
-          name: 'MetricsBreakdown',
+          name: ' MetricsBreakdown',
           type: '{\n  date: string;\n  metrics: M;\n}',
         },
         {
-          name: 'MetricsResponseData',
+          name: ' MetricsResponseData',
           type: '{\n  id: string;\n  metricsBreakdown: MetricsBreakdown<M>[];\n} & Partial<AnalyticsAttributes>',
         },
         {
-          name: 'ApiMetricsResponse',
-          type: 'BaseApiResponse',
+          name: ' ApiMetricsResponse',
+          type: ' BaseApiResponse',
         },
       ],
     },
@@ -6228,23 +6228,23 @@ export default {
       file: '@tw/types/ApiResponses/PostPurchaseSurvey.ts',
       exports: [
         {
-          name: 'Language',
+          name: ' Language',
           type: "'en' | 'fr' | 'es' | 'de' | 'he' | 'nn' | 'da' | 'sv' | 'it' | 'nl' | 'pt'",
         },
         {
-          name: 'PostPurchaseSurveyQuestionConfig',
+          name: ' PostPurchaseSurveyQuestionConfig',
           type: 'interface',
         },
         {
-          name: 'PostPurchaseSurveyConfigResponse',
+          name: ' PostPurchaseSurveyConfigResponse',
           type: 'interface',
         },
         {
-          name: 'SurveyQuestion',
+          name: ' SurveyQuestion',
           type: 'interface',
         },
         {
-          name: 'SurveyQuestionsResponse',
+          name: ' SurveyQuestionsResponse',
           type: 'interface',
         },
       ],
@@ -6257,23 +6257,23 @@ export default {
       file: '@tw/types/FinanceTypes.ts',
       exports: [
         {
-          name: 'CodatDataConnection',
+          name: ' CodatDataConnection',
           type: 'interface',
         },
         {
-          name: 'CodatBankAccount',
+          name: ' CodatBankAccount',
           type: 'interface',
         },
         {
-          name: 'AccountingProvider',
+          name: ' AccountingProvider',
           type: "'custom' | 'codat.Quickbooks' | 'codat.Xero'",
         },
         {
-          name: 'CodatData',
+          name: ' CodatData',
           type: 'interface',
         },
         {
-          name: 'AccounntingData',
+          name: ' AccounntingData',
           type: 'interface',
         },
       ],
@@ -6282,11 +6282,11 @@ export default {
       file: '@tw/types/Shop.ts',
       exports: [
         {
-          name: 'Shop',
+          name: ' Shop',
           type: 'interface',
         },
         {
-          name: 'ShopWithSensory',
+          name: ' ShopWithSensory',
           type: 'interface',
         },
       ],
@@ -6305,7 +6305,7 @@ export default {
       exports: [
         {
           name: ' SummaryMetricsChartsSelectors',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6314,7 +6314,7 @@ export default {
       exports: [
         {
           name: ' SummaryMetricsIcons',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6323,7 +6323,7 @@ export default {
       exports: [
         {
           name: ' SummaryMetricIds',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6332,7 +6332,7 @@ export default {
       exports: [
         {
           name: ' SummaryMetricsStatsSelectors',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6345,54 +6345,54 @@ export default {
         },
         {
           name: ' DOLLAR_TYPE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' PERCENT_TYPE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' NUMBER_TYPE',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' customMetric',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' willyMetric',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' orderTagsMetric',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' shopifySourcesMetric',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'SummaryMetricsDictionary',
+          name: ' SummaryMetricsDictionary',
           type: '{\n  [id in SummaryMetricIdsTypes]: BaseSummaryMetric<id>;\n}',
         },
         {
-          name: 'BaseSummaryMetric',
+          name: ' BaseSummaryMetric',
           type: "{\n  id: ID;\n  metricId: SummaryMetricsStatsSelectorsNames;\n  reportTitle?: string; // used for report header when we don't have the icon indication\n  title: string;\n  shortTitle?: string;\n  features?: FeatureFlag[];\n  chart?: SummaryMetricsChartsSelectorsNames;\n  color: string;\n  valueToFixed?: number;\n  type: valueFormats;\n  tip?: string;\n  isNotRealTime?: boolean;\n  positiveComparison?: number;\n  isShow?: (stats: any) => boolean;\n  isShowLoadWhenImport?: ServicesIds;\n  services: (ServicesIds | string)[];\n  relatedMetrics?: SummaryMetricIdsTypes[];\n  isMinutes?: boolean;\n  specificStat?: string;\n  isDynamicMetric?: boolean;\n  isCustomMetric?: boolean;\n  providerId?: ServicesIds;\n  metric?: MetricsKeys;\n  statObjectKey?: SummaryMetricIdsTypes;\n  icon: SummaryMetricsIconKeys | ((rootState?: any) => SummaryMetricsIconKeys | React.ReactNode);\n  showOnlyForToday?: boolean;\n  hasTarget?: boolean;\n  hasBackgroundByDefault?: boolean;\n  customMetricPopup?: string;\n  metricPopupWidget?: boolean;\n  additionalMarketplaceBadge?: boolean;\n  dependOnCostSettings?: boolean;\n  isCumulativeMetric?: boolean;\n  isSupportCumulative?: boolean;\n  isChartStartsWithMinValue?: boolean;\n  willyMetricId?: string;\n  willyConfig?: {\n    id: string;\n    relatedProvider?: ServicesIds;\n    aggFunction?: AggregationFunction;\n  } & (\n    | {\n        isCustomMetric: false;\n        tableId: string;\n        columnId: string;\n        filter?: FilterRow[][] | any[][];\n      }\n    | {\n        isCustomMetric: true;\n        expression: ExpressionElement[];\n      }\n  );\n}",
         },
         {
-          name: 'SummaryMetricsStatsSelectorsNames',
+          name: ' SummaryMetricsStatsSelectorsNames',
           type: '(typeof SummaryMetricsStatsSelectors)[number]',
         },
         {
-          name: 'SummaryMetricIdsTypes',
+          name: ' SummaryMetricIdsTypes',
           type: '(typeof SummaryMetricIds)[number]',
         },
         {
-          name: 'SummaryMetricsChartsSelectorsNames',
+          name: ' SummaryMetricsChartsSelectorsNames',
           type: '(typeof SummaryMetricsChartsSelectors)[number]',
         },
         {
-          name: 'SummaryMetricsIconKeys',
+          name: ' SummaryMetricsIconKeys',
           type: '(typeof SummaryMetricsIcons)[number]',
         },
       ],
@@ -6406,18 +6406,18 @@ export default {
       exports: [
         {
           name: ' sensoryIntegrationService',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' sensoryCredentialService',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' sensoryMaster',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CheckAuthRequest',
+          name: ' CheckAuthRequest',
           type: '{\n  id?: string;\n  serviceId: ServicesIds | typeof sensoryIntegrationService | typeof sensoryCredentialService | typeof sensoryMaster;\n  accountIds: string | string[];\n  type?: AuthType;\n  userId?: string;\n  fromAccountId?: string;\n}',
         },
       ],
@@ -6426,7 +6426,7 @@ export default {
       file: '@tw/types/auth/CheckAuthResponse.ts',
       exports: [
         {
-          name: 'CheckAuthResponse',
+          name: ' CheckAuthResponse',
           type: '{ result: boolean; message?: string; code?: number }',
         },
       ],
@@ -6436,7 +6436,7 @@ export default {
       exports: [
         {
           name: ' TWSpiceResources',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6444,27 +6444,27 @@ export default {
       file: '@tw/types/auth/index.ts',
       exports: [
         {
-          name: 'AuthType',
+          name: ' AuthType',
           type: "'user' | 'app' | 'key'",
         },
         {
-          name: 'FirebaseClaim',
+          name: ' FirebaseClaim',
           type: "'admin' | 'superadmin' | 'twDev' | 'twDashboardCreator' | 'twFF' | 'twSuperAdmin'",
         },
         {
-          name: 'FirebaseUser',
+          name: ' FirebaseUser',
           type: '{\n  admin?: boolean;\n  iss: string;\n  auth_time: number;\n  user_id: string;\n  email: string;\n  email_verified: boolean;\n  firebase: any;\n} & JwtBase',
         },
         {
-          name: 'Auth0App',
+          name: ' Auth0App',
           type: '{\n  azp: string;\n  gty: string;\n} & JwtBase',
         },
         {
-          name: 'HydraApp',
+          name: ' HydraApp',
           type: '{\n  client_id: string;\n  ext?: {\n    claims?: {\n      accountId?: string;\n    };\n  };\n  iss: string;\n  jti: string;\n  nbf: string;\n  scp: string[];\n} & JwtBase',
         },
         {
-          name: 'JwtBase',
+          name: ' JwtBase',
           type: '{\n  sub: string;\n  aud: string | string[];\n  iat: number;\n  exp: number;\n}',
         },
       ],
@@ -6473,7 +6473,7 @@ export default {
       file: '@tw/types/customSpend/CustomSpend.ts',
       exports: [
         {
-          name: 'CustomSpendsUpdateMessage',
+          name: ' CustomSpendsUpdateMessage',
           type: '{\n  shopId: string;\n  customSpendList: any[];\n  customSpendAttributionType: string;\n}',
         },
       ],
@@ -6482,11 +6482,11 @@ export default {
       file: '@tw/types/datePicker/datePicker.ts',
       exports: [
         {
-          name: 'PreviousPeriodIds',
+          name: ' PreviousPeriodIds',
           type: "| 'none'\n  | 'default'\n  | 'previousPeriod'\n  | 'previousWeek'\n  | 'previousMonth'\n  | 'previousQuarter'\n  | 'previousYear'\n  | 'custom'",
         },
         {
-          name: 'Period',
+          name: ' Period',
           type: "'week' | 'month' | 'quarter' | 'year'",
         },
         {
@@ -6499,7 +6499,7 @@ export default {
       file: '@tw/types/devops/RateLimitConfig.ts',
       exports: [
         {
-          name: 'RateLimitConfig',
+          name: ' RateLimitConfig',
           type: "{\n  window: number; // in seconds\n  quota: number; // per api key user\n\n  // called with req object to determine if this rate limit should be applied\n  // this function cannot rely on any other values in scope, must be expressed\n  // only in terms of the request object\n  condition?: (req: Req) => boolean;\n\n  // called with req object to determine the 'user' for this rate limit (overrides req.user or header or query)\n  // this function cannot rely on any other values in scope, must be expressed\n  // only in terms of the request object\n  user?: (req: Req) => string;\n}[]",
         },
       ],
@@ -6508,15 +6508,15 @@ export default {
       file: '@tw/types/devops/ServiceConfig.ts',
       exports: [
         {
-          name: 'endpointType',
+          name: ' endpointType',
           type: "'open' | 'internal' | 'authenticated' | 'cluster-local'",
         },
         {
-          name: 'ServiceEntryDeployment',
+          name: ' ServiceEntryDeployment',
           type: '{\n  name: string;\n  endpoints: {\n    [e in endpointType]?: {\n      url: string;\n      type: e;\n      audience?: string;\n      cluster?: string;\n    };\n  };\n}',
         },
         {
-          name: 'ServiceConfig',
+          name: ' ServiceConfig',
           type: "{\n  env?: any;\n  color: string;\n  dependencies?: string[];\n  runtime?: 'node' | 'python';\n  tags?: string[];\n  serviceId?: string;\n  maintainers: string[];\n  contacts?: string[];\n  k8s?: boolean;\n  gitRepo?: string;\n  version?: number;\n  deployments: Record<\n    string, // deployment name\n    ServiceEntryDeployment\n  >;\n  sensory?: {\n    provider: SensoryProvider;\n    policies: SensoryPolicy<PolicyJobDefinition>[];\n  };\n}",
         },
       ],
@@ -6525,19 +6525,19 @@ export default {
       file: '@tw/types/devops/datadog.ts',
       exports: [
         {
-          name: 'TracerOptions',
+          name: ' TracerOptions',
           type: 'interface',
         },
         {
-          name: 'SamplingRule',
+          name: ' SamplingRule',
           type: 'interface',
         },
         {
-          name: 'PropagationStyle',
+          name: ' PropagationStyle',
           type: 'interface',
         },
         {
-          name: 'SpanSamplingRule',
+          name: ' SpanSamplingRule',
           type: 'interface',
         },
       ],
@@ -6550,8 +6550,8 @@ export default {
       file: '@tw/types/errorResponse/bad-gateway.exception.ts',
       exports: [
         {
-          name: 'BadGatewayException',
-          type: 'HttpException',
+          name: ' BadGatewayException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6559,8 +6559,8 @@ export default {
       file: '@tw/types/errorResponse/bad-request.exception.ts',
       exports: [
         {
-          name: 'BadRequestException',
-          type: 'HttpException',
+          name: ' BadRequestException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6568,8 +6568,8 @@ export default {
       file: '@tw/types/errorResponse/conflict.exception.ts',
       exports: [
         {
-          name: 'ConflictException',
-          type: 'HttpException',
+          name: ' ConflictException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6577,8 +6577,8 @@ export default {
       file: '@tw/types/errorResponse/forbidden.exception.ts',
       exports: [
         {
-          name: 'ForbiddenException',
-          type: 'HttpException',
+          name: ' ForbiddenException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6586,8 +6586,8 @@ export default {
       file: '@tw/types/errorResponse/gateway-timeout.exception.ts',
       exports: [
         {
-          name: 'GatewayTimeoutException',
-          type: 'HttpException',
+          name: ' GatewayTimeoutException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6595,8 +6595,8 @@ export default {
       file: '@tw/types/errorResponse/gone.exception.ts',
       exports: [
         {
-          name: 'GoneException',
-          type: 'HttpException',
+          name: ' GoneException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6605,7 +6605,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'HttpStatus',
+          name: ' HttpStatus',
         },
       ],
     },
@@ -6613,8 +6613,8 @@ export default {
       file: '@tw/types/errorResponse/http-version-not-supported.exception.ts',
       exports: [
         {
-          name: 'HttpVersionNotSupportedException',
-          type: 'HttpException',
+          name: ' HttpVersionNotSupportedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6622,8 +6622,8 @@ export default {
       file: '@tw/types/errorResponse/http.exception.ts',
       exports: [
         {
-          name: 'HttpException',
-          type: 'Error',
+          name: ' HttpException',
+          type: ' Error',
         },
       ],
     },
@@ -6631,8 +6631,8 @@ export default {
       file: '@tw/types/errorResponse/im-a-teapot.exception.ts',
       exports: [
         {
-          name: 'ImATeapotException',
-          type: 'HttpException',
+          name: ' ImATeapotException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6644,8 +6644,8 @@ export default {
       file: '@tw/types/errorResponse/internal-server-error.exception.ts',
       exports: [
         {
-          name: 'InternalServerErrorException',
-          type: 'HttpException',
+          name: ' InternalServerErrorException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6653,8 +6653,8 @@ export default {
       file: '@tw/types/errorResponse/method-not-allowed.exception.ts',
       exports: [
         {
-          name: 'MethodNotAllowedException',
-          type: 'HttpException',
+          name: ' MethodNotAllowedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6662,8 +6662,8 @@ export default {
       file: '@tw/types/errorResponse/misdirected.exception.ts',
       exports: [
         {
-          name: 'MisdirectedException',
-          type: 'HttpException',
+          name: ' MisdirectedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6671,8 +6671,8 @@ export default {
       file: '@tw/types/errorResponse/not-acceptable.exception.ts',
       exports: [
         {
-          name: 'NotAcceptableException',
-          type: 'HttpException',
+          name: ' NotAcceptableException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6680,8 +6680,8 @@ export default {
       file: '@tw/types/errorResponse/not-found.exception.ts',
       exports: [
         {
-          name: 'NotFoundException',
-          type: 'HttpException',
+          name: ' NotFoundException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6689,8 +6689,8 @@ export default {
       file: '@tw/types/errorResponse/not-implemented.exception.ts',
       exports: [
         {
-          name: 'NotImplementedException',
-          type: 'HttpException',
+          name: ' NotImplementedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6698,8 +6698,8 @@ export default {
       file: '@tw/types/errorResponse/payload-too-large.exception.ts',
       exports: [
         {
-          name: 'PayloadTooLargeException',
-          type: 'HttpException',
+          name: ' PayloadTooLargeException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6707,8 +6707,8 @@ export default {
       file: '@tw/types/errorResponse/precondition-failed.exception.ts',
       exports: [
         {
-          name: 'PreconditionFailedException',
-          type: 'HttpException',
+          name: ' PreconditionFailedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6716,8 +6716,8 @@ export default {
       file: '@tw/types/errorResponse/request-timeout.exception.ts',
       exports: [
         {
-          name: 'RequestTimeoutException',
-          type: 'HttpException',
+          name: ' RequestTimeoutException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6725,8 +6725,8 @@ export default {
       file: '@tw/types/errorResponse/service-unavailable.exception.ts',
       exports: [
         {
-          name: 'ServiceUnavailableException',
-          type: 'HttpException',
+          name: ' ServiceUnavailableException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6735,59 +6735,59 @@ export default {
       exports: [
         {
           name: ' isUndefined',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isObject',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isPlainObject',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' addLeadingSlash',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' validatePath',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' normalizePath',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' stripEndSlash',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isFunction',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isString',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isNumber',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isConstructor',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isNil',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isEmpty',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' isSymbol',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -6795,8 +6795,8 @@ export default {
       file: '@tw/types/errorResponse/unauthorized.exception.ts',
       exports: [
         {
-          name: 'UnauthorizedException',
-          type: 'HttpException',
+          name: ' UnauthorizedException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6804,8 +6804,8 @@ export default {
       file: '@tw/types/errorResponse/unprocessable-entity.exception.ts',
       exports: [
         {
-          name: 'UnprocessableEntityException',
-          type: 'HttpException',
+          name: ' UnprocessableEntityException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6813,8 +6813,8 @@ export default {
       file: '@tw/types/errorResponse/unsupported-media-type.exception.ts',
       exports: [
         {
-          name: 'UnsupportedMediaTypeException',
-          type: 'HttpException',
+          name: ' UnsupportedMediaTypeException',
+          type: ' HttpException',
         },
       ],
     },
@@ -6822,7 +6822,7 @@ export default {
       file: '@tw/types/fetchers/RawFileMetadata.ts',
       exports: [
         {
-          name: 'RawFileMetadata',
+          name: ' RawFileMetadata',
           type: '{\n  shopId: string;\n  serviceId: ServicesIds;\n  dataType: DataTypesIds;\n  jobType: JobType;\n  accountId?: string;\n  jobHour?: string;\n  jobDate?: string;\n  shopTimezone: string;\n  jobSlot?: number;\n  jobUTCDate: string;\n  reportDate?: string;\n  resourcesRequested?: string;\n  paginationIndex?: number;\n  paginationTotal?: number;\n  jobID?: string;\n  shopCurrency?: string;\n}',
         },
       ],
@@ -6832,14 +6832,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'CHECK_STATUS',
+          name: ' CHECK_STATUS',
         },
         {
-          name: 'importDay',
+          name: ' importDay',
           type: '{ day: string; status?: CHECK_STATUS }',
         },
         {
-          name: 'FetchChunkData',
+          name: ' FetchChunkData',
           type: '{\n  jobType: JobType;\n  shopData: Shop;\n  shopDomain: string;\n  jobDate: string;\n  jobHour: string;\n  jobSlot: number;\n  accountIds?: string[];\n  dataType?: DataTypesIds;\n  chunkSize?: number;\n  day?: string;\n  days?: importDay[]; // relevant if we are optimized initial before starting\n  index?: number;\n  total?: number;\n  jobID?: string;\n  forceExternalFetch?: boolean;\n  resetDataBefore?: boolean;\n  checkBefore?: boolean;\n  healthCheckType?: HealthCheckType;\n}',
         },
       ],
@@ -6852,15 +6852,15 @@ export default {
       file: '@tw/types/fetchers/startJob.ts',
       exports: [
         {
-          name: 'alternateEndpoint',
+          name: ' alternateEndpoint',
           type: '{\n  endpoint: string;\n  conditionField: string;\n  conditionString: string;\n}',
         },
         {
-          name: 'startJobOptions',
+          name: ' startJobOptions',
           type: '{\n  req: Request;\n  defaultEndpoint?: string;\n  queueName?: string;\n  endpoints?: alternateEndpoint[];\n}',
         },
         {
-          name: 'startJobResponse',
+          name: ' startJobResponse',
           type: '{\n  data: FetchChunkData;\n  queueName?: string;\n  endpoint?: string;\n}',
         },
       ],
@@ -6869,27 +6869,27 @@ export default {
       file: '@tw/types/forecasting/Forecasting.ts',
       exports: [
         {
-          name: 'ForecastingGroupByOption',
+          name: ' ForecastingGroupByOption',
           type: "{\n  id: string;\n  definition: 'month' | 'quarter' | 'year' | 'week' | 'isoWeek';\n  transformFrom: 'month' | 'day';\n  name: string;\n}",
         },
         {
-          name: 'ForecastingOptions',
+          name: ' ForecastingOptions',
           type: 'ForecastingGroupByOption[]',
         },
         {
-          name: 'ForecastingRow',
+          name: ' ForecastingRow',
           type: "{\n  name: string;\n  collapsable?: boolean;\n  level: number;\n  key: string;\n  type: 'money' | 'ratio' | 'count';\n  children?: ForecastingRow[];\n  customKey?: boolean;\n  customKeyFunction?: 'divide' | 'sum' | 'average' | 'subtract';\n  customKeyData?: any;\n  hidden?: boolean;\n  isParentProductRow?: boolean;\n  isAdServiceParentRow?: boolean;\n  adService?: string;\n  chartLabel?: string;\n}",
         },
         {
           type: 'enum',
-          name: 'ForecastingMetric',
+          name: ' ForecastingMetric',
         },
         {
-          name: 'ForecastingDataType',
+          name: ' ForecastingDataType',
           type: "'actual' | 'predicted'",
         },
         {
-          name: 'ForecastingSort',
+          name: ' ForecastingSort',
           type: '{\n  direction: SortDirection;\n  period: string;\n  dataType: ForecastingDataType;\n  metric: ForecastingMetric;\n}',
         },
       ],
@@ -6898,27 +6898,27 @@ export default {
       file: '@tw/types/idGraph/idGraphType.ts',
       exports: [
         {
-          name: 'idSource',
+          name: ' idSource',
           type: '{\n  source: string;\n  receivedAt: string;\n}',
         },
         {
-          name: 'idValue',
+          name: ' idValue',
           type: '{\n  value: string;\n  sources: idSource[];\n}',
         },
         {
-          name: 'idGraphType',
+          name: ' idGraphType',
           type: '{\n  _id?: string;\n  shop: string;\n  tripleIds?: idValue[];\n  thids?: idValue[];\n  emails?: idValue[];\n  phones?: idValue[];\n  customerIds?: idValue[];\n  klaviyoIds?: idValue[];\n  postscriptIds?: idValue[];\n  attentiveIds?: idValue[];\n  gid?: string;\n  createdAt?: string;\n}',
         },
         {
-          name: 'IdGraphEmails',
+          name: ' IdGraphEmails',
           type: '{\n  _id?: string;\n  value?: string;\n  sources?: idSource[];\n}',
         },
         {
-          name: 'IdGraphEmail',
+          name: ' IdGraphEmail',
           type: '{\n  shop: string;\n  email?: string;\n}',
         },
         {
-          name: 'ResolvedIdValue',
+          name: ' ResolvedIdValue',
           type: '{\n  key: string;\n  id: string;\n}',
         },
       ],
@@ -6927,11 +6927,11 @@ export default {
       file: '@tw/types/idGraph/index.ts',
       exports: [
         {
-          name: 'Source',
+          name: ' Source',
           type: "'klaviyo' | 'postscript' | 'attentive' | 'order' | 'page-load' | 'nip'",
         },
         {
-          name: 'AddExternalEmailsPayload',
+          name: ' AddExternalEmailsPayload',
           type: "Pick<idGraphType, '_id' | 'shop'> & {\n  source: Source;\n  sourceIds: string[];\n}",
         },
       ],
@@ -6940,15 +6940,15 @@ export default {
       file: '@tw/types/idGraph/requests.ts',
       exports: [
         {
-          name: 'mapIdsRequest',
+          name: ' mapIdsRequest',
           type: '{\n  shop: string;\n  tripleIds?: idValue[];\n  thids?: idValue[];\n  emails?: idValue[];\n  phones?: idValue[];\n  customerIds?: idValue[];\n  klaviyoIds?: idValue[];\n  postscriptIds?: idValue[];\n  attentiveIds?: idValue[];\n  hasKlaviyoError?: number;\n  isBackfill?: boolean;\n  gid?: string;\n}',
         },
         {
-          name: 'klaviyoTestRequest',
+          name: ' klaviyoTestRequest',
           type: '{\n  shop: string;\n  tripleId: string;\n}',
         },
         {
-          name: 'orderBackfillRequest',
+          name: ' orderBackfillRequest',
           type: '{\n  shop: string;\n  orderId: string;\n  tripleId?: string;\n  email?: string;\n  phone?: string;\n  customerId: string;\n  orderDate: string;\n}',
         },
       ],
@@ -6961,7 +6961,7 @@ export default {
       file: '@tw/types/integrationFetchers/integrationFetchChunkData.ts',
       exports: [
         {
-          name: 'IntegrationFetchChunkData',
+          name: ' IntegrationFetchChunkData',
           type: '{\n  jobType: JobType;\n  accountData: IntegrationAccountData;\n  serviceId: ServicesIds;\n  accountId: string;\n  jobDate: string;\n  jobHour: string;\n  jobSlot: number;\n  subAccountIds?: string[];\n  dataType?: DataTypesIds;\n  chunkSize?: number;\n  day?: string;\n  days?: importDay[]; // relevant if we are optimized initial before starting\n  index?: number;\n  total?: number;\n  jobID?: string;\n  forceExternalFetch?: boolean;\n  resetDataBefore?: boolean;\n  checkBefore?: boolean;\n}',
         },
       ],
@@ -6970,7 +6970,7 @@ export default {
       file: '@tw/types/integrationFetchers/integrationRawFileMetadata.ts',
       exports: [
         {
-          name: 'IntegrationRawFileMetadata',
+          name: ' IntegrationRawFileMetadata',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  dataType: DataTypesIds;\n  jobType: JobType;\n  jobHour?: string;\n  jobDate?: string;\n  timezone: string;\n  currency?: string;\n  jobSlot?: number;\n  jobUTCDate: string;\n  reportDate?: string;\n  resourcesRequested?: string;\n  paginationIndex?: number;\n  paginationTotal?: number;\n  jobID?: string;\n}',
         },
       ],
@@ -6979,7 +6979,7 @@ export default {
       file: '@tw/types/integrationFetchers/integrationStartJob.ts',
       exports: [
         {
-          name: 'IntegrationStartJobResponse',
+          name: ' IntegrationStartJobResponse',
           type: '{\n  data: IntegrationFetchChunkData;\n  queueName?: string;\n  endpoint?: string;\n}',
         },
       ],
@@ -6988,23 +6988,23 @@ export default {
       file: '@tw/types/metrics/benchmarkMetrics.ts',
       exports: [
         {
-          name: 'Provider',
+          name: ' Provider',
           type: '"facebook-ads" | "google-ads" | "tiktok-ads" | "triple-whale"',
         },
         {
-          name: 'MetricSelector',
+          name: ' MetricSelector',
           type: "| 'totalShopCount'\n  | 'totalBenchmarksCPC'\n  | 'totalBenchmarksCTR'\n  | 'benchmarksFacebookRoas'\n  | 'totalBenchmarksFBAdsSpendAvg'\n  | 'totalBenchmarksCTRGoogle'\n  | 'totalBenchmarksCPCGoogle'\n  | 'benchmarksGoogleRoas'\n  | 'totalBenchmarksGoogleAdsSpendAvg'\n  | 'totalBenchmarksCTRTiktok'\n  | 'totalBenchmarksCPCTiktok'\n  | 'benchmarksTiktokRoas'\n  | 'totalBenchmarksTiktokAdsSpendAvg'\n  | 'totalBenchmarksBlendedCTR'\n  | 'totalBenchmarksBlendedROAS'\n  | 'totalBenchmarksBlendedSpendAvg'\n  | 'totalBenchmarksBlendedCpc'\n  | 'blendedCpaBenchmarksTotal'\n  | 'blendedCpcBenchmarksTotal'\n  | 'blendedCpmBenchmarksTotal'\n  | 'blendedRoasBenchmarksTotal'\n  | 'facebookCpaBenchmarksTotal'\n  | 'facebookCpcBenchmarksTotal'\n  | 'facebookCpmBenchmarksTotal'\n  | 'facebookRoasBenchmarksTotal'\n  | 'googleCpaBenchmarksTotal'\n  | 'googleCpcBenchmarksTotal'\n  | 'googleCpmBenchmarksTotal'\n  | 'googleRoasBenchmarksTotal'\n  | 'tiktokCpaBenchmarksTotal'\n  | 'tiktokCpcBenchmarksTotal'\n  | 'tiktokCpmBenchmarksTotal'\n  | 'tiktokRoasBenchmarksTotal'",
         },
         {
-          name: 'MetricChart',
+          name: ' MetricChart',
           type: "| 'chartBenchmarksCPC'\n  | 'chartBenchmarksCTR'\n  | 'chartBenchmarksFacebookRoas'\n  | 'chartBenchmarksFBAdsSpendAvg'\n  | 'chartBenchmarksCPCGoogle'\n  | 'chartBenchmarksCTRGoogle'\n  | 'chartBenchmarksGoogleRoas'\n  | 'chartBenchmarksGoogleAdsSpendAvg'\n  | 'chartBenchmarksCPCTiktok'\n  | 'chartBenchmarksCTRTiktok'\n  | 'chartBenchmarksTiktokRoas'\n  | 'chartBenchmarksTiktokAdsSpendAvg'\n  | 'chartBenchmarksBlendedCTR'\n  | 'chartBenchmarksBlendedROAS'\n  | 'chartBenchmarksTotalPriceUSDAvg'\n  | 'chartBenchmarksBlendedCpc'\n  | 'chartFacebookInsights'\n  | 'chartFacebookPurchaseRoas'\n  | 'chartFacebookCpc'\n  | 'chartFacebookCtr'\n  | 'totalGoogleAdsCtrChart'\n  | 'googleCpcChart'\n  | 'googleAdsRoasChart'\n  | 'chartGoogleAds'\n  | 'chartTiktokCtr'\n  | 'chartTiktokCpc'\n  | 'tiktokRoasChart'\n  | 'tiktokSpendChart'\n  | 'blendedCpaBenchmarksChart'\n  | 'blendedCpcBenchmarksChart'\n  | 'blendedCpmBenchmarksChart'\n  | 'blendedRoasBenchmarksChart'\n  | 'facebookCpaBenchmarksChart'\n  | 'facebookCpcBenchmarksChart'\n  | 'facebookCpmBenchmarksChart'\n  | 'facebookRoasBenchmarksChart'\n  | 'googleCpaBenchmarksChart'\n  | 'googleCpcBenchmarksChart'\n  | 'googleCpmBenchmarksChart'\n  | 'googleRoasBenchmarksChart'\n  | 'tiktokCpaBenchmarksChart'\n  | 'tiktokCpcBenchmarksChart'\n  | 'tiktokCpmBenchmarksChart'\n  | 'tiktokRoasBenchmarksChart'",
         },
         {
-          name: 'MetricsWithSelector',
+          name: ' MetricsWithSelector',
           type: '{\n    selector: MetricSelector;\n    chart: MetricChart;\n    provider: Provider;\n    tip: string\n    color?: string;\n    userSelector?: string;\n    userChart?: SummaryMetricsChartsSelectorsNames;\n  } & MetricData<M>',
         },
         {
-          name: 'MetricsDictionaryWithSelector',
+          name: ' MetricsDictionaryWithSelector',
           type: '{\n    [provider in ServicesIds]?: {\n      [metric in MetricsKeys]?: MetricsWithSelector<metric>;\n    };\n  }',
         },
       ],
@@ -7013,15 +7013,15 @@ export default {
       file: '@tw/types/metrics/metrics.ts',
       exports: [
         {
-          name: 'MetricsKeys',
+          name: ' MetricsKeys',
           type: 'keys',
         },
         {
-          name: 'MetricData',
+          name: ' MetricData',
           type: "{\n  key: M;\n  label: string;\n  shortLabel: string;\n  showInServices?: ServicesIds[];\n  showInCreativeCard: (CreativeTypes | 'all')[];\n  showInCreativeTable: (CreativeTypes | 'all')[];\n  showInInfluencersHub?: boolean;\n  format: valueFormats;\n  toFixed: number;\n  minimumFractionDigits?: number;\n  type: 'ads' | 'pixel' | 'shop' | 'analytics' | 'lifetimeValue' | 'postPurchaseSurvey' | 'budget';\n  showInCreativeByDefault: boolean;\n  showInPixelByDefault: boolean;\n  showInReport?: boolean;\n  showInRules?: string[];\n  allowOrderBy: boolean;\n  pixelIndex?: number;\n  valueIsNegative?: boolean;\n  hideInPixel?: boolean;\n  dependOnServices?: ServicesIds[];\n  dependOnActiveIntegrations?: ServicesIds[]; // Must Have At Least One Service\n  chart?: string;\n  icon?: string;\n  hideInActivities?: boolean;\n  calculateSum?: (itemsWithMetric: any[]) => number;\n}",
         },
         {
-          name: 'MetricsDictionary',
+          name: ' MetricsDictionary',
           type: '{\n  [metric in MetricsKeys]?: MetricData<metric>;\n}',
         },
       ],
@@ -7031,34 +7031,34 @@ export default {
       exports: [
         {
           name: ' _capiSources',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CapiSources',
+          name: ' CapiSources',
           type: 'typeof _capiSources[number]',
         },
         {
           name: ' _capiEvents',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CapiEvents',
+          name: ' CapiEvents',
           type: 'typeof _capiEvents[number]',
         },
         {
-          name: 'CapiEventsConfig',
+          name: ' CapiEventsConfig',
           type: '{\n  [key in PixelEventType]: { type: CapiEvents, condition: (e: PixelBaseEvent<any, any>) => boolean, sources: CapiSources[] }[]\n}',
         },
         {
-          name: 'CapiSettings',
+          name: ' CapiSettings',
           type: 'Partial<{\n  [key in CapiSources]: SourceCapiSettings\n}>',
         },
         {
-          name: 'SourceCapiSettings',
+          name: ' SourceCapiSettings',
           type: 'interface',
         },
         {
-          name: 'CapiEvent',
+          name: ' CapiEvent',
           type: '{\n  source: CapiSources,\n  type: CapiEvents,\n  event: PixelBaseEvent<any, any>\n}',
         },
       ],
@@ -7067,20 +7067,20 @@ export default {
       file: '@tw/types/pixel/PixelBaseEvent.ts',
       exports: [
         {
-          name: 'PixelBaseEvent',
+          name: ' PixelBaseEvent',
           type: '{\n  shopDomain: string;\n  __eid: string;\n  signalId?: string;\n  monkeyId: string;\n  timestamp: Date;\n  version: string;\n  source?: PixelEventSource,\n  type: U,\n  info: T\n}',
         },
         {
-          name: 'PixelEventAttributes',
+          name: ' PixelEventAttributes',
           type: '{\n  shopDomain: string;\n  version: string;\n  __eid?: string;\n  monkeyId: string;\n  type: PixelEventType,\n}',
         },
         {
           type: 'enum',
-          name: 'PixelEventType',
+          name: ' PixelEventType',
         },
         {
           type: 'enum',
-          name: 'PixelEventSource',
+          name: ' PixelEventSource',
         },
       ],
     },
@@ -7088,11 +7088,11 @@ export default {
       file: '@tw/types/pixel/PixelCartChangesEvent.ts',
       exports: [
         {
-          name: 'PixelCartChangesEvent',
+          name: ' PixelCartChangesEvent',
           type: 'PixelBaseEvent<CartChangesEvent, PixelEventType.CART_CHANGES>',
         },
         {
-          name: 'SimpleCartItem',
+          name: ' SimpleCartItem',
           type: '{\n    id: string;\n    q: number;\n    v?: string;\n}',
         },
       ],
@@ -7101,11 +7101,11 @@ export default {
       file: '@tw/types/pixel/PixelCheckoutEvent.ts',
       exports: [
         {
-          name: 'PixelCheckoutEvent',
+          name: ' PixelCheckoutEvent',
           type: 'PixelBaseEvent<CheckoutEvent, PixelEventType.CHECKOUT>',
         },
         {
-          name: 'CheckoutEventSubType',
+          name: ' CheckoutEventSubType',
           type: "'checkout_started' | 'payment_info_submitted' | 'checkout_completed'",
         },
       ],
@@ -7114,7 +7114,7 @@ export default {
       file: '@tw/types/pixel/PixelCustomEvent.ts',
       exports: [
         {
-          name: 'PixelCustomEvent',
+          name: ' PixelCustomEvent',
           type: 'PixelBaseEvent<CustomEvent, PixelEventType.CUSTOM>',
         },
       ],
@@ -7123,7 +7123,7 @@ export default {
       file: '@tw/types/pixel/PixelCustomerDetailsEvent.ts',
       exports: [
         {
-          name: 'PixelCustomerDetailsEvent',
+          name: ' PixelCustomerDetailsEvent',
           type: 'PixelBaseEvent<CustomerDetailsEvent, PixelEventType.CONTACT_DETAILS>',
         },
       ],
@@ -7132,7 +7132,7 @@ export default {
       file: '@tw/types/pixel/PixelIdentifyEvent.ts',
       exports: [
         {
-          name: 'PixelIdentifyEvent',
+          name: ' PixelIdentifyEvent',
           type: 'PixelBaseEvent<IdentifyEvent, PixelEventType.IDENTIFY>',
         },
       ],
@@ -7141,15 +7141,15 @@ export default {
       file: '@tw/types/pixel/PixelPageLoadEvent.ts',
       exports: [
         {
-          name: 'PixelPageLoadEvent',
+          name: ' PixelPageLoadEvent',
           type: 'PixelBaseEvent<PageLoadEvent, PixelEventType.PAGE_LOAD>',
         },
         {
-          name: 'CartActionDetails',
+          name: ' CartActionDetails',
           type: '{ timestamp: Date, a: string, p: string, q: string }',
         },
         {
-          name: 'ParsedURL',
+          name: ' ParsedURL',
           type: '{\n  path: string;\n  query?: { [key: string]: string };\n}',
         },
       ],
@@ -7158,12 +7158,12 @@ export default {
       file: '@tw/types/pixel/PixelPublishOrderEvent.ts',
       exports: [
         {
-          name: 'PixelPublishOrderEvent',
+          name: ' PixelPublishOrderEvent',
           type: 'PixelBaseEvent<PublishOrderEvent, PixelEventType.PUBLISH_ORDER> & {providerId: Platforms}',
         },
         {
           type: 'enum',
-          name: 'Platforms',
+          name: ' Platforms',
         },
       ],
     },
@@ -7171,7 +7171,7 @@ export default {
       file: '@tw/types/pixel/PixelPurchaseEvent.ts',
       exports: [
         {
-          name: 'PixelPurchaseEvent',
+          name: ' PixelPurchaseEvent',
           type: 'PixelBaseEvent<PurchaseDetailsEvent, PixelEventType.PURCHASE>',
         },
       ],
@@ -7180,139 +7180,139 @@ export default {
       file: '@tw/types/pixel/PixelTypes.ts',
       exports: [
         {
-          name: 'TouchKind',
+          name: ' TouchKind',
           type: '`start` | `move` | `end` | `cancel`',
         },
         {
-          name: 'Vec2',
+          name: ' Vec2',
           type: '{ x: number, y: number }',
         },
         {
-          name: 'Size',
+          name: ' Size',
           type: '{ w: number, h: number }',
         },
         {
-          name: 'AuxAlive',
+          name: ' AuxAlive',
           type: 'Deed[]',
         },
         {
-          name: 'BrowserScreenSize',
+          name: ' BrowserScreenSize',
           type: '{\n    w: number;\n    h: number;\n}',
         },
         {
-          name: 'BrowserAuxT',
+          name: ' BrowserAuxT',
           type: '{\n    "clr": string,\n    "cpuN": string,\n    "lang": string,\n    "mem": string,\n    "os": string,\n    "screen": BrowserScreenSize,\n    sys: string,\n    "tz": string,\n    "vendor": string,\n    "ua": string,\n    mob?: 1,// mobile or not\n\n}',
         },
         {
-          name: 'TrekGeo',
+          name: ' TrekGeo',
           type: '{\n    ip: string,\n    at: string,// 36 encoded timestamp\n    cont?: string,\n    cntr?: string,\n    cc: string,\n    city?: string,\n    lat?: number,\n    lon?: number\n}',
         },
         {
-          name: 'AuxPageURL',
+          name: ' AuxPageURL',
           type: '{\n    "path": string,\n    "query"?: { [varName: string]: string }\n}',
         },
         {
-          name: 'AuxPgBuzz',
+          name: ' AuxPgBuzz',
           type: '{\n    sec: number,/// the length of the session\n    deeds?: AuxPgLdHidden_deeds;\n}',
         },
         {
-          name: 'AuxPgLdHidden',
+          name: ' AuxPgLdHidden',
           type: 'AuxPgBuzz & {\n    m: number,/// original events "m"\n    eid: string,/// original events "a"\n}',
         },
         {
-          name: 'AuxPgLdHidden_deeds',
+          name: ' AuxPgLdHidden_deeds',
           type: '{\n    stir: { [key: string]: number },\n    mouse: number\n}',
         },
         {
-          name: 'AuxPageLoaded',
+          name: ' AuxPageLoaded',
           type: '{\n    "br": BrowserAuxT,\n    "ref": AuxPageURL,\n    "url": AuxPageURL,\n    "urr": string,\n    prev?: AuxPgLdHidden,// means "previous hidden" - contains session length info about previous session\n}',
         },
         {
-          name: 'AuxThankYou',
+          name: ' AuxThankYou',
           type: 'AuxPageLoaded & {\n    cart?: string,\n    checkout?: string,\n    thanks?: 1,\n}',
         },
         {
-          name: 'AuxAddToCart',
+          name: ' AuxAddToCart',
           type: '{\n    prod: string; /// id of the product added\n    q: number;\n}',
         },
         {
-          name: 'AuxCapToken',
+          name: ' AuxCapToken',
           type: '{\n    t: `p` | `e`;// phone or email\n    v: string;\n}',
         },
         {
-          name: 'AuxClosed',
+          name: ' AuxClosed',
           type: '{ sec: number }',
         },
         {
-          name: 'AuxPurchase',
+          name: ' AuxPurchase',
           type: '{\n    price: number,\n    currency: string,\n    email: string,\n    cart: AuxPurchaseProduct[];\n}',
         },
         {
-          name: 'AuxPurchaseProduct',
+          name: ' AuxPurchaseProduct',
           type: '{\n    id: number;\n    name: string;\n    price: number;\n}',
         },
         {
-          name: 'TrekAux',
+          name: ' TrekAux',
           type: 'AuxAlive | AuxPageLoaded | AuxThankYou | AuxCapToken | AuxAddToCart | AuxClosed | AuxPurchase | {}',
         },
         {
-          name: 'Act',
+          name: ' Act',
           type: "`page loaded`\n    | `add2c`\n    | `cart`\n    | `checkout`\n    | `nip` /// this happens when we capture candidates for email or phone, when people enter something, but never submit\n    | 'purchase'",
         },
         {
-          name: 'TrekParam',
+          name: ' TrekParam',
           type: '{\n    a: string,/// event id\n    extra?: any,/// some additional data that might be sent by any third party, like FB\n    act: Act,\n    aux: TrekAux,\n}',
         },
         {
-          name: 'ThirdPartiesAPI',
+          name: ' ThirdPartiesAPI',
           type: '{\n    fbp?: string,\n    fbc?: string,\n}',
         },
         {
-          name: 'TrekUserData',
+          name: ' TrekUserData',
           type: '{\n    shop: string, /// shop name\n    front: string, /// current shop front domain\n    shopDomain?: string,\n    loc?: string,\n    loc2?: string,\n    coo: string,\n    et: string,// etag cache id, taken from sound.txt\n    thid?: string,// thumb id, taken from FingerprintJs, if needed\n    usr?: ThidData | undefined,// thumb data, saved only on page loaded and only when thid is fetched \n}',
         },
         {
-          name: 'TrekParamSrv',
+          name: ' TrekParamSrv',
           type: 'TrekParamExt & {\n    serverTimestamp: number,\n    frameStamp: number,// the timestamp rounded by frame size\n}',
         },
         {
-          name: 'TrekTraceObj',
+          name: ' TrekTraceObj',
           type: '{\n    title: string,\n    log: string[],\n}',
         },
         {
-          name: 'TrekParamExt',
+          name: ' TrekParamExt',
           type: 'TrekParam &\n    TrekUserData &\n    {\n        traces?: TrekTraceObj[],\n        restoredWith?: string,/// debug info for frontend\n        m: number,\n        mm?: number,// server time, set ONCE - this timestamp won\'t change on every PubSub!!!\n        finger: string,/// our main (not anymore!)\n        shopifyUser?: string,\n        tab: string,/// this one is refreshed after each\n        s: string,/// this one is refreshed after each fingerprintJS\n        sessAt?: string,// 36 encoded time. if set - it means we created a new session at this point\n        foo?: 1,// if the cookie was not set before this load - the "foo" is 1 then\n        d?: 1,// is debug\n        bo?: 1,// is bot\n        nst?: 1,/// if 1 - means there is no local storage allowed in this browser,\n        crt: string,// jenkins(crtCont)\n        crtCont?: string,// cart contents encoded as string\n        ctkn: string,/// latest cart token, from /cart.js or /cart/update.js\n        diag?: { [metric: string]: number },/// diagnostics values\n        cAPI?: ThirdPartiesAPI,\n        missedURLs?: string[],/// list of missed urls\n        geo?: TrekGeo,\n        stg?: 1,/// if 1 - means we are in staging mode\n    }',
         },
         {
-          name: 'DeedKey',
+          name: ' DeedKey',
           type: '`travel` | `click` | `scroll` | `touch`',
         },
         {
-          name: 'Deed',
+          name: ' Deed',
           type: '{ sec?: number, k: DeedKey, v: DeedValue }',
         },
         {
-          name: 'DeedValue',
+          name: ' DeedValue',
           type: 'Deed_travelAndScroll\n    | Deed_clickAndTouch',
         },
         {
-          name: 'Deed_travelAndScroll',
+          name: ' Deed_travelAndScroll',
           type: 'number',
         },
         {
-          name: 'Deed_clickAndTouch',
+          name: ' Deed_clickAndTouch',
           type: 'Vec2\n    & { _: string/* contains HTML obj info, like so: "{TAG}#{ID}.{classes list}"*/ }',
         },
         {
-          name: 'TrekSoundTxt',
+          name: ' TrekSoundTxt',
           type: '{\n    "channels": 2,// yes, only 2 are allowed\n    "sampleRate": 44100, //yes, only 44100 are allowed\n    "type": "loop", //yes, only "loop" allowed\n    "data": number[]\n}',
         },
         {
-          name: 'BeaconNode',
+          name: ' BeaconNode',
           type: '{ id: string, url: string, data: { info: TrekParamExt } }',
         },
         {
-          name: 'ShopConfigData',
+          name: ' ShopConfigData',
           type: '{\n    capi: boolean,\n    staging: boolean\n    useNodeAttr: boolean,\n}',
         },
       ],
@@ -7321,7 +7321,7 @@ export default {
       file: '@tw/types/pixel/PixelUtmEvent.ts',
       exports: [
         {
-          name: 'PixelUtmEvent',
+          name: ' PixelUtmEvent',
           type: "{\n    shopDomain: string;\n    __eid: string;\n    monkeyId: string;\n    timestamp: Date;\n    version: string;\n    type: 'utm',\n    info: {\n        ref: ParsedURL,\n        url: ParsedURL\n    }\n}",
         },
       ],
@@ -7330,7 +7330,7 @@ export default {
       file: '@tw/types/pixel/ShopifyOrderForAttribution.ts',
       exports: [
         {
-          name: 'ShopifyOrderForAttribution',
+          name: ' ShopifyOrderForAttribution',
           type: 'interface',
         },
       ],
@@ -7339,11 +7339,11 @@ export default {
       file: '@tw/types/pixel/ThidTypes.ts',
       exports: [
         {
-          name: 'Window',
+          name: ' Window',
           type: 'interface',
         },
         {
-          name: 'ThidData',
+          name: ' ThidData',
           type: 'undefined | {\n    "requestId": string,\n    "visitorId": string,\n    "visitorFound"?: boolean,\n    "meta"?: {\n        "version": string\n    },\n    "confidence"?: number | {\n        "score": number\n    },\n    "incognito": boolean,\n    "browserName": string,\n    "browserVersion": string,\n    "device": string,\n    "ip": string,\n    "ipLocation": {\n        "accuracyRadius": number,\n        "latitude": number,\n        "longitude": number,\n        "postalCode": string,\n        "timezone": string,\n        "city": {\n            "name": string\n        },\n        "country": {\n            "code": string,\n            "name": string\n        },\n        "continent": {\n            "code": string,\n            "name": string\n        },\n        "subdivisions": [\n            {\n                "isoCode": string,\n                "name": string\n            }\n        ]\n    },\n    firstSeenAt?: any,\n    lastSeenAt?: any,\n    browser?: string,\n    "os": string,\n    "osVersion": string\n}',
         },
       ],
@@ -7356,31 +7356,31 @@ export default {
       file: '@tw/types/rawFiles/amazon.ts',
       exports: [
         {
-          name: 'AmazonAdsEntityProps',
+          name: ' AmazonAdsEntityProps',
           type: '{\n  id: number;\n  name: string;\n  resource_name: string;\n  status?: number;\n  tracking_url_template?: string;\n  final_url_suffix?: string;\n}',
         },
         {
-          name: 'AmazonAdsRawFile',
+          name: ' AmazonAdsRawFile',
           type: '{\n  report: AmazonAdsSpReportEntry[] | AmazonAdsSbReportEntry[] | AmazonAdsSdReportEntry[];\n  adAccount: AmazonAdAccount;\n}',
         },
         {
-          name: 'AmazonAdsReportType',
+          name: ' AmazonAdsReportType',
           type: "'sp' | 'sb' | 'sd'",
         },
         {
-          name: 'AmazonAdAccount',
+          name: ' AmazonAdAccount',
           type: '{\n  id: number;\n  marketplaceId: string;\n  sellerId: string;\n  reportType: AmazonAdsReportType;\n  timezone: string;\n  // name: string;\n  // currency: string;\n}',
         },
         {
-          name: 'AmazonAdsSpReportEntry',
+          name: ' AmazonAdsSpReportEntry',
           type: 'interface',
         },
         {
-          name: 'AmazonAdsSbReportEntry',
+          name: ' AmazonAdsSbReportEntry',
           type: 'interface',
         },
         {
-          name: 'AmazonAdsSdReportEntry',
+          name: ' AmazonAdsSdReportEntry',
           type: 'interface',
         },
       ],
@@ -7389,23 +7389,23 @@ export default {
       file: '@tw/types/rawFiles/bing.ts',
       exports: [
         {
-          name: 'BingReport',
+          name: ' BingReport',
           type: '{\n  AdId: string;\n  AdStatus: string;\n  AccountId: string;\n  AdGroupId: string;\n  AdGroupName: string;\n  AdGroupStatus: string;\n  CampaignId: string;\n  CampaignName: string;\n  CampaignStatus: string;\n  TimePeriod: string;\n  Conversions: string;\n  Impressions: string;\n  Spend: string;\n  AllRevenue: string;\n  Clicks: string;\n  date?: string;\n}',
         },
         {
-          name: 'BingRawFile',
+          name: ' BingRawFile',
           type: '{\n  report: { report_results: BingReport[] };\n  adAccount: {\n    accountId: string;\n    name: string;\n    currency: string;\n    timezone: string;\n  };\n}',
         },
         {
-          name: 'BingAdMetrics',
+          name: ' BingAdMetrics',
           type: '{\n  spend: number;\n  impressions: number;\n  clicks: number;\n  conversions: number;\n  conversionValue: number;\n  purchases: number;\n}',
         },
         {
-          name: 'BingAdData',
+          name: ' BingAdData',
           type: '{\n  adData: any;\n  dates: {\n    [date: string]: {\n      [hour: string]: BingAdMetrics;\n    };\n  };\n}',
         },
         {
-          name: 'BingAds',
+          name: ' BingAds',
           type: '{\n  [adId: string]: BingAdData;\n}',
         },
       ],
@@ -7414,87 +7414,87 @@ export default {
       file: '@tw/types/rawFiles/facebook-ads.ts',
       exports: [
         {
-          name: 'FacebookActionStat',
+          name: ' FacebookActionStat',
           type: "{\n  action_type: string;\n  value?: string;\n  ['1d_view']?: string;\n  ['7d_click']?: string;\n  ['1d_click']?: string;\n  ['28d_click']?: string;\n  ['28d_view']?: string;\n}",
         },
         {
-          name: 'FacebookReportDay',
+          name: ' FacebookReportDay',
           type: '{\n  spend: string;\n  ad_id: string;\n  purchase_roas?: FacebookActionStat[];\n  actions?: FacebookActionStat[];\n  video_play_actions?: FacebookActionStat[];\n  clicks: string;\n  three_second_video_view?: number; // this will be calculated by day\n  total_video_view?: number; // this will be calculated by day\n  purchases?: number; // this will be calculated by day\n  impressions: string;\n  outbound_clicks?: FacebookActionStat[];\n  action_values?: FacebookActionStat[];\n  reach?: number;\n  frequency_value?: number;\n  inline_post_engagement?: number;\n  shops_assisted_purchases?: number;\n  cost_per_thruplay?: FacebookActionStat[];\n  ad_name: string;\n  adset_id: string;\n  adset_name: string;\n  campaign_id: string;\n  campaign_name: string;\n  date_start: string;\n  date_stop: string;\n}',
         },
         {
-          name: 'FacebookReportHour',
+          name: ' FacebookReportHour',
           type: 'FacebookReportDay & {\n  hourly_stats_aggregated_by_advertiser_time_zone: string;\n}',
         },
         {
-          name: 'FacebookReportCountry',
+          name: ' FacebookReportCountry',
           type: 'FacebookReportDay & {\n  country: string;\n}',
         },
         {
-          name: 'FacebookReportPublisherPlatformPosition',
+          name: ' FacebookReportPublisherPlatformPosition',
           type: 'FacebookReportDay & {\n  publisher_platform: string;\n  platform_position: string;\n}',
         },
         {
-          name: 'FacebookReportAgeGender',
+          name: ' FacebookReportAgeGender',
           type: 'FacebookReportDay & {\n  age: string;\n  gender: string;\n}',
         },
         {
-          name: 'FacebookReportAge',
+          name: ' FacebookReportAge',
           type: 'FacebookReportDay & {\n  age: string;\n}',
         },
         {
-          name: 'FacebookReportGender',
+          name: ' FacebookReportGender',
           type: 'FacebookReportDay & {\n  gender: string;\n}',
         },
         {
-          name: 'FacebookReportFrequency',
+          name: ' FacebookReportFrequency',
           type: 'FacebookReportDay & {\n  frequency_value: string;\n}',
         },
         {
-          name: 'FacebookAdCampaign',
+          name: ' FacebookAdCampaign',
           type: '{\n  id: string;\n  name: string;\n  effective_status: AttributeStatus;\n  created_time: string;\n  objective?: string;\n}',
         },
         {
-          name: 'FacebookAdset',
+          name: ' FacebookAdset',
           type: '{\n  id: string;\n  name: string;\n  effective_status: AttributeStatus;\n  is_dynamic_creative: boolean;\n}',
         },
         {
-          name: 'FacebookDynamicCreative',
+          name: ' FacebookDynamicCreative',
           type: '{\n  [dynamic in FacebookDynamicTypes]?: FacebookDynamicTypesMapper[dynamic][];\n}',
         },
         {
-          name: 'FacebookCreative',
+          name: ' FacebookCreative',
           type: '{\n  id: string;\n  name: string;\n  thumbnail_url: string;\n  object_id: string;\n  actor_id: string;\n  object_type: string;\n  status: AttributeStatus;\n  title?: string;\n  body?: string;\n  image_hash?: string;\n  image_url?: string;\n  adlabels?: string;\n  asset_feed_spec?: FacebookDynamicCreative;\n  applink_treatment?: string;\n  playable_asset_id?: string;\n  link_og_id?: string;\n  link_url?: string;\n  link_destination_display_url?: string;\n  image_crops?: string;\n  call_to_action_type?: string;\n  video_id?: string;\n  url_tags?: string;\n  object_story_spec?: any;\n}',
         },
         {
-          name: 'FacebookAdData',
+          name: ' FacebookAdData',
           type: '{\n  campaign: FacebookAdCampaign;\n  adset: FacebookAdset;\n  creative: FacebookCreative;\n  effective_status: AttributeStatus;\n  name: string;\n  id: string;\n}',
         },
         {
-          name: 'Thumbnail',
+          name: ' Thumbnail',
           type: '{\n  thumbnail: string;\n  adId: string;\n  filename: string;\n  hostingUrl: string;\n  videoId?: string;\n  imageHash?: string;\n}',
         },
         {
-          name: 'FacebookMainReportEntry',
+          name: ' FacebookMainReportEntry',
           type: '{\n  hour: FacebookReportHour[];\n  day: FacebookReportDay[];\n  adsData: FacebookAdData[];\n  creativeBreakdowns: CreativeBreakdown[];\n  breakdowns: {\n    country: FacebookReportCountry[];\n    publisherPlatformPosition: FacebookReportPublisherPlatformPosition[];\n    ageGender: FacebookReportAgeGender[];\n    frequency: FacebookReportFrequency[];\n    age: FacebookReportAge[];\n    gender: FacebookReportGender[];\n  };\n  thumbnails: Thumbnail[];\n}',
         },
         {
-          name: 'FBAdAccount',
+          name: ' FBAdAccount',
           type: '{\n  id: string;\n  name: string;\n  currency: string;\n  timezone: string;\n  attributionWindow: string[];\n}',
         },
         {
-          name: 'FacebookRawFile',
+          name: ' FacebookRawFile',
           type: '{\n  report: FacebookMainReportEntry;\n  adAccount: FBAdAccount;\n}',
         },
         {
-          name: 'BreakdownType',
+          name: ' BreakdownType',
           type: "'video_asset' | 'image_asset' | 'body_asset'",
         },
         {
-          name: 'CreativeBreakdown',
+          name: ' CreativeBreakdown',
           type: 'interface',
         },
         {
-          name: 'Insight',
+          name: ' Insight',
           type: 'interface',
         },
       ],
@@ -7503,19 +7503,19 @@ export default {
       file: '@tw/types/rawFiles/google-ads.ts',
       exports: [
         {
-          name: 'GoogleAdsEntityProps',
+          name: ' GoogleAdsEntityProps',
           type: '{\n  id: number;\n  name: string;\n  resource_name: string;\n  status?: number;\n  tracking_url_template?: string;\n  final_url_suffix?: string;\n  advertising_channel_type?: number;\n}',
         },
         {
-          name: 'GoogleAdProps',
+          name: ' GoogleAdProps',
           type: '{\n  id: number;\n  name?: any;\n  type: number;\n  text_ad?: any;\n  expanded_text_ad?: any;\n  expanded_dynamic_search_ad?: any;\n  shopping_smart_ad?: any;\n  shopping_product_ad?: any;\n  video_ad?: any;\n  image_ad?: any;\n  responsive_search_ad: ResponsiveSearchAd;\n  responsive_display_ad?: any;\n  video_responsive_ad?: any;\n  resource_name: string;\n  tracking_url_template?: string;\n  final_url_suffix?: string;\n  final_urls?: string[];\n}',
         },
         {
-          name: 'GoogleAdsRawFile',
+          name: ' GoogleAdsRawFile',
           type: '{\n  report: GoogleAdsReportEntry[];\n  adAccount: {\n    id: string;\n    name: string;\n    currency: string;\n  };\n  breakdowns: {\n    gender: GoogleAdsReportEntry[];\n    geographic: GoogleAdsReportEntry[];\n    age_range: GoogleAdsReportEntry[];\n    device: GoogleAdsReportEntry[];\n    ad_network_type: GoogleAdsReportEntry[];\n    click_type: GoogleAdsReportEntry[];\n    slot: GoogleAdsReportEntry[];\n  };\n}',
         },
         {
-          name: 'GoogleAdsReportEntry',
+          name: ' GoogleAdsReportEntry',
           type: '{\n  campaign: GoogleAdsEntityProps;\n  ad_group: GoogleAdsEntityProps;\n  ad_group_ad: {\n    ad: GoogleAdProps;\n    status: number;\n    labels: any[];\n    resource_name: string;\n  };\n  metrics: {\n    cost_micros: number;\n    conversions_value: number;\n    all_conversions: number;\n    conversions: number;\n    clicks: number;\n    ctr: number;\n    all_conversions_value: number;\n    impressions: number;\n    video_quartile_p25_rate?: number;\n  };\n  segments: {\n    date: string;\n    device?: number; //relevant to breakdowns device\n    ad_network_type?: number; //relevant to breakdowns ad_network_type\n    click_type?: number; //relevant to breakdowns click_type\n    slot?: number; //relevant to breakdowns slot\n  };\n  customer?: {\n    resource_name: string;\n    tracking_url_template?: string;\n  };\n  video?: {\n    id: string;\n    channel_id: string;\n    title: string;\n    duration_millis: number;\n    resource_name: string;\n  };\n  asset?: {\n    id: string;\n    youtube_video_asset: {\n      youtube_video_id: string;\n    };\n    resource_name: string;\n  };\n  ad_group_criterion?: {\n    gender?: { type: number };\n    age_range?: { type: number };\n  }; // relevant to gender breakdown\n  geographic_view?: { country_criterion_id: number }; // relevant to geographic breakdown\n}',
         },
       ],
@@ -7529,14 +7529,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'PinterestEntityStatus',
+          name: ' PinterestEntityStatus',
         },
         {
-          name: 'PinterestReportEntry',
+          name: ' PinterestReportEntry',
           type: "{\n  CAMPAIGN_ID: number;\n  CAMPAIGN_NAME: string;\n  CAMPAIGN_ENTITY_STATUS: PinterestEntityStatus;\n  AD_GROUP_ID: number;\n  AD_GROUP_NAME: string;\n  AD_GROUP_ENTITY_STATUS: PinterestEntityStatus;\n  AD_ID: number;\n  NAME: string;\n  STATUS: 'ACTIVE' | 'PAUSED' | 'CANCELED';\n  DATE: string;\n  IMPRESSION_1: number;\n  IMPRESSION_2: number;\n  TOTAL_CLICKTHROUGH: number;\n  SPEND_IN_DOLLAR: number;\n  TOTAL_CHECKOUT: number; // purchases\n  TOTAL_CHECKOUT_VALUE_IN_MICRO_DOLLAR: number; // conversion value\n  URL_PARAMS: string;\n}",
         },
         {
-          name: 'PinterestRawFile',
+          name: ' PinterestRawFile',
           type: '{\n  report: PinterestReportEntry[];\n  adAccount: {\n    id: string;\n    name: string;\n    currency: string;\n  };\n}',
         },
       ],
@@ -7545,31 +7545,31 @@ export default {
       file: '@tw/types/rawFiles/snapchat.ts',
       exports: [
         {
-          name: 'SnapchatStatsPerHour',
+          name: ' SnapchatStatsPerHour',
           type: '{\n  impressions: number;\n  swipes: number;\n  spend: number;\n  conversion_purchases: number;\n  conversion_purchases_value: number;\n}',
         },
         {
-          name: 'SnapchatStatsPerDay',
+          name: ' SnapchatStatsPerDay',
           type: '{\n  conversion_purchases: number;\n  conversion_purchases_value: number;\n}',
         },
         {
-          name: 'SnapchatTimeSeries',
+          name: ' SnapchatTimeSeries',
           type: '{\n  start_time: string;\n  end_time: string;\n  stats: SnapchatStatsPerDay | SnapchatStatsPerHour;\n}',
         },
         {
-          name: 'SnapchatMetricsSeries',
+          name: ' SnapchatMetricsSeries',
           type: "{\n  id: string;\n  granularity: 'DAY' | 'HOUR';\n  start_time: string;\n  end_time: string;\n  timeseries: SnapchatTimeSeries[];\n}",
         },
         {
-          name: 'SnapchatAdsReportAds',
+          name: ' SnapchatAdsReportAds',
           type: '{\n  ad: {\n    campaign_id: string;\n    campaign_name: string;\n    campaign_status: string;\n\n    ad_squad_id: string;\n    ad_squad_name: string;\n    ad_squad_status: string;\n\n    id: string;\n    name: string;\n    status: string;\n\n    creative_id: string;\n  };\n  hourlyMetrics: SnapchatMetricsSeries;\n  dailyMetrics: SnapchatMetricsSeries;\n}',
         },
         {
-          name: 'SnapchatAdsReport',
+          name: ' SnapchatAdsReport',
           type: '{\n  ads: SnapchatAdsReportAds[];\n}',
         },
         {
-          name: 'SnapchatAdsRawFile',
+          name: ' SnapchatAdsRawFile',
           type: '{\n  report: SnapchatAdsReport;\n  adAccount: {\n    id: string;\n    name: string;\n    timezone: string;\n    currency: string;\n  };\n}',
         },
       ],
@@ -7578,11 +7578,11 @@ export default {
       file: '@tw/types/rawFiles/tiktok.ts',
       exports: [
         {
-          name: 'TiktokReportEntry',
+          name: ' TiktokReportEntry',
           type: '{\n  metrics: {\n    ad_format: TiktokAdFormat;\n    ad_id: number;\n    ad_name: string;\n    ad_text: string;\n    adgroup_id: number;\n    adgroup_name: string;\n    adgroup_status: string;\n    campaign_id: number;\n    campaign_name: string;\n    campaign_status: string;\n    clicks: string;\n    cpc: string;\n    cpm: string;\n    total_complete_payment_rate: string;\n    total_on_web_order_value: string;\n    complete_payment?: string;\n    on_web_order?: string;\n    video_watched_6s: string;\n    video_play_actions: string;\n    cta_conversion: string;\n    ctr: string;\n    image_ids: string[];\n    impressions: string;\n    purchase: string;\n    conversion: string;\n    spend: string;\n    video_id: string;\n    assetId: string | null;\n    assetUrl: string | null;\n  };\n  dimensions: {\n    stat_time_hour: string;\n    ad_id: number;\n  };\n}',
         },
         {
-          name: 'TiktokRawFile',
+          name: ' TiktokRawFile',
           type: '{\n  report: TiktokReportEntry[];\n  adAccount: {\n    id: string;\n    currency: string;\n  };\n}',
         },
       ],
@@ -7591,19 +7591,19 @@ export default {
       file: '@tw/types/rawFiles/twitter.ts',
       exports: [
         {
-          name: 'conversionPurchases',
+          name: ' conversionPurchases',
           type: '{\n  order_quantity: number[],\n  sale_amount: number[],\n  metric:number[]\n}',
         },
         {
-          name: 'TwitterAdsMetrics',
+          name: ' TwitterAdsMetrics',
           type: '{\n  video_views_50: number[],\n  impressions: number[],\n  engagements: number[],\n  tweets_send: number[],\n  conversion_purchases: conversionPurchases,\n  billed_charge_local_micro: number[],\n  qualified_impressions: number[],\n  video_views_75: number[],\n  conversion_sign_ups: any,\n  media_engagements: number[],\n  follows: number[],\n  video_3s100pct_views: number[],\n  app_clicks: number[],\n  retweets: number[],\n  video_cta_clicks: number[],\n  unfollows: number[],\n  auto_created_conversion_session: any,\n  likes: number[],\n  video_content_starts: number[],\n  video_views_25: number[],\n  video_views_100: number[],\n  clicks: number[],\n  auto_created_conversion_landing_page_view: number[],\n  media_views: number[],\n  card_engagements: number[],\n  video_6s_views: number[],\n  poll_card_vote: number[],\n  replies: number[],\n  video_15s_views: number[],\n  url_clicks: number[],\n  video_total_views: number[][],\n  carousel_swipes: number[]\n}',
         },
         {
-          name: 'TwitterAdsReport',
+          name: ' TwitterAdsReport',
           type: '{\n    ad_id: string,\n    ad_name: string,\n    ad_status: string,\n    line_item_id: string,\n    line_item_name: string,\n    line_item_status: string,\n    campaign_id: string,\n    campaign_name: string,\n    campaign_status: string,\n    segment: any,\n    metrics: TwitterAdsMetrics\n    date: string,\n  }',
         },
         {
-          name: 'TwitterRawFile',
+          name: ' TwitterRawFile',
           type: '{\n  report: TwitterAdsReport[];\n  adAccount: {\n    accountId: string;\n    name: string;\n    currency: string;\n    timezone: string;\n  };\n}',
         },
       ],
@@ -7612,39 +7612,39 @@ export default {
       file: '@tw/types/sensory/activityTypes.ts',
       exports: [
         {
-          name: 'ReportImportType',
+          name: ' ReportImportType',
           type: "'recurring' | 'backfill'",
         },
         {
-          name: 'ReportType',
+          name: ' ReportType',
           type: "'snapshots' | 'incremental' | 'singleCopy'",
         },
         {
-          name: 'ActivityJobDefinition',
+          name: ' ActivityJobDefinition',
           type: '{\n  fetchDate: string;\n  level: JobDefinitionLevel;\n  integrationId: string;\n  assetType: string;\n  filter: T;\n  reportType: ReportType;\n  reportProcTimestamp: number;\n  importType: ReportImportType;\n  currentIndex?: number;\n  total?: number;\n}',
         },
         {
-          name: 'Filter',
+          name: ' Filter',
           type: 'ActivityDateRangeFilter | ActivityStateFilter | ActivityGeneralFilter',
         },
         {
-          name: 'ActivityFilterBase',
+          name: ' ActivityFilterBase',
           type: '{\n  filterParams?: any;\n}',
         },
         {
-          name: 'ActivityGeneralFilter',
+          name: ' ActivityGeneralFilter',
           type: 'ActivityFilterBase & {\n  workflowState?: object | null;\n}',
         },
         {
-          name: 'ActivityStateFilter',
+          name: ' ActivityStateFilter',
           type: 'ActivityGeneralFilter & {\n  scheduleState?: object | null;\n}',
         },
         {
-          name: 'ActivityDateRangeFilter',
+          name: ' ActivityDateRangeFilter',
           type: 'ActivityFilterBase & {\n  start: string;\n  end: string;\n}',
         },
         {
-          name: 'ActivityMetadata',
+          name: ' ActivityMetadata',
           type: '{\n  report_meta_data: ReportMetaData;\n  file_path: string;\n  file_size_bytes: number;\n  records_count: number;\n}',
         },
       ],
@@ -7661,7 +7661,7 @@ export default {
           type: 'ServicesIds[]',
         },
         {
-          name: 'SensorySummaryRequest',
+          name: ' SensorySummaryRequest',
           type: '{\n  providerId: ServicesIds;\n  start: string;\n  end: string;\n  integrations: ShopIntegrationProperties[];\n}',
         },
       ],
@@ -7670,11 +7670,11 @@ export default {
       file: '@tw/types/sensory/bucket.ts',
       exports: [
         {
-          name: 'SaveReportToBucketArgs',
+          name: ' SaveReportToBucketArgs',
           type: '{\n  report: any;\n  reportMetaData: ReportMetaData & {\n    jobDefinition: ActivityJobDefinition<Filter>;\n    integration: FetcherIntegrationDetails;\n    workflowId: string;\n  };\n}',
         },
         {
-          name: 'SaveReportToBucketMetadata',
+          name: ' SaveReportToBucketMetadata',
           type: '{\n  sensoryVersion: string;\n  reportVersion: string;\n  providerId: string;\n  integrationId: string;\n  providerAccountId: string;\n  dataType: string; // To maintain compatibility with old versions, you need to delete in the future\n  assetType: string;\n  procTs: string;\n  eventDate?: string;\n  startEventDate?: string;\n  endEventDate?: string;\n  timezone: string;\n  currency: string;\n  granularity?: ReportGranularity;\n  workflowId: string;\n  importType: ReportImportType;\n  reportType: ReportType;\n  msp?: ReportMsp;\n  tw_account_id?: string;\n}',
         },
       ],
@@ -7683,31 +7683,31 @@ export default {
       file: '@tw/types/sensory/dataHealthTypes.ts',
       exports: [
         {
-          name: 'DataHealthParams',
+          name: ' DataHealthParams',
           type: '{\n  integrationId: string;\n  assetType: string;\n  start: string;\n  end: string;\n}',
         },
         {
-          name: 'DataHealthResponse',
+          name: ' DataHealthResponse',
           type: '{\n  fieldsComparison: DataHealthFieldsDiff;\n  integrationId: string;\n  assetType?: string;\n  providerId: string;\n  currency: string;\n  startDate: string;\n  endDate: string;\n  status: HealthCheckStatus;\n}',
         },
         {
-          name: 'DataHealthSetting',
+          name: ' DataHealthSetting',
           type: '{\n  fields: DataHealthSettingFields;\n}',
         },
         {
-          name: 'DataHealthSettingFields',
+          name: ' DataHealthSettingFields',
           type: '{\n  [key in MetricsKeys]?: {\n    isCritical?: boolean;\n    factor?: number;\n    minDelta?: number;\n  };\n}',
         },
         {
-          name: 'DataHealthFieldsDiff',
+          name: ' DataHealthFieldsDiff',
           type: '{\n  [Property in MetricsKeys]?: {\n    internal: number;\n    external: number;\n    delta: number;\n    status: HealthCheckStatus;\n  };\n}',
         },
         {
           type: 'enum',
-          name: 'HealthCheckStatus',
+          name: ' HealthCheckStatus',
         },
         {
-          name: 'MetricsHealthQueryParams',
+          name: ' MetricsHealthQueryParams',
           type: '{\n  start: string;\n  end: string;\n  integrationIds?: string[];\n  metrics: string[];\n}',
         },
       ],
@@ -7716,135 +7716,135 @@ export default {
       file: '@tw/types/sensory/endpointTypes.ts',
       exports: [
         {
-          name: 'AuthFunc',
+          name: ' AuthFunc',
           type: '({}: AuthParams) => Promise<any>',
         },
         {
-          name: 'DisconnectFunc',
+          name: ' DisconnectFunc',
           type: '({}: DisconnectParams) => Promise<any>',
         },
         {
-          name: 'AccountsFunc',
+          name: ' AccountsFunc',
           type: '({}: GetAccountParams) => Promise<ProviderAccount[]>',
         },
         {
-          name: 'GetDefaultBackfillRangeCountFunc',
+          name: ' GetDefaultBackfillRangeCountFunc',
           type: '({}: GetDefaultBackfillRangeCount) => Promise<number>',
         },
         {
-          name: 'GetDynamicFieldValueFunc',
+          name: ' GetDynamicFieldValueFunc',
           type: '({}: GetDynamicFieldValueParams) => Promise<DynamicFieldValue[]>',
         },
         {
-          name: 'GetDataFunc',
+          name: ' GetDataFunc',
           type: '({}: GetDataParams) => Promise<ReportData>',
         },
         {
-          name: 'HandleIncomingWebhookFunc',
+          name: ' HandleIncomingWebhookFunc',
           type: '({}: any) => Promise<any>',
         },
         {
-          name: 'ValidateCredentials',
+          name: ' ValidateCredentials',
           type: '({}: ValidateCredentialsParams) => Promise<ValidateCredentialsResponse>',
         },
         {
-          name: 'dataHealthFunc',
+          name: ' dataHealthFunc',
           type: '({}: DataHealthParams) => Promise<RawMetrics>',
         },
         {
-          name: 'CreateSegmentFunc',
+          name: ' CreateSegmentFunc',
           type: '({}: CreateSegmentParams) => Promise<{ segmentId: string }>',
         },
         {
-          name: 'UpdateSegmentFunc',
+          name: ' UpdateSegmentFunc',
           type: '({}: UpdateListParams) => Promise<{ success: boolean; deleted: number; added: number; }>',
         },
         {
-          name: 'WebhookFuncs',
+          name: ' WebhookFuncs',
           type: '{\n  get?: ({}: WebhooksDefaultRequestParams) => Promise<any>;\n  post: ({}: WebhooksPostParams) => Promise<boolean>;\n  delete: ({}: WebhooksDefaultRequestParams) => Promise<boolean>;\n}',
         },
         {
-          name: 'WebhooksDefaultRequestParams',
+          name: ' WebhooksDefaultRequestParams',
           type: '{\n  integrationId: string;\n}',
         },
         {
-          name: 'WebhooksPostParams',
+          name: ' WebhooksPostParams',
           type: 'WebhooksDefaultRequestParams & {\n  assetTypes?: string[];\n  topics?: string[];\n}',
         },
         {
-          name: 'GetAccountParams',
+          name: ' GetAccountParams',
           type: '{\n  credentialsId: string;\n  params?: object;\n}',
         },
         {
-          name: 'AuthParams',
+          name: ' AuthParams',
           type: '{\n  redirectUri: string;\n  query: any;\n  stateObj?: any;\n}',
         },
         {
-          name: 'DisconnectParams',
+          name: ' DisconnectParams',
           type: '{\n  credentialsId: string;\n}',
         },
         {
-          name: 'GetDefaultBackfillRangeCount',
+          name: ' GetDefaultBackfillRangeCount',
           type: '{\n  credentialsId: string;\n  providerAccountId: string;\n  assetType: string;\n}',
         },
         {
-          name: 'GetDynamicFieldValueParams',
+          name: ' GetDynamicFieldValueParams',
           type: '{\n  collectionName: string;\n  credentialsId: string;\n}',
         },
         {
-          name: 'ReportMsp',
+          name: ' ReportMsp',
           type: '{\n  provider: string;\n  id: string;\n}',
         },
         {
-          name: 'ReportGranularity',
+          name: ' ReportGranularity',
           type: "'hourly' | 'daily' | 'monthly' | 'yearly'",
         },
         {
-          name: 'ReportMetaDataRequired',
+          name: ' ReportMetaDataRequired',
           type: '{\n  timezone: string;\n  currency: string;\n  granularity?: ReportGranularity;\n  msp?: ReportMsp;\n  fetcherSchemaVersion: `${number}.${number}`; //allowing only major and minor and patch version x.x.x Or x.x\n}',
         },
         {
-          name: 'ReportCustomMetaData',
+          name: ' ReportCustomMetaData',
           type: 'Partial<ActivityStateFilter> & {\n  [key: string]: any;\n}',
         },
         {
-          name: 'StorageCustomSettings',
+          name: ' StorageCustomSettings',
           type: '{\n  fileName: string;\n}',
         },
         {
-          name: 'ReportMetaData',
+          name: ' ReportMetaData',
           type: 'ReportMetaDataRequired & {\n  customMetaData?: ReportCustomMetaData;\n  storageCustomSettings?: StorageCustomSettings;\n}',
         },
         {
-          name: 'ReportData',
+          name: ' ReportData',
           type: '{\n  report: Array<any>;\n  reportMetaData: ReportMetaData;\n}',
         },
         {
-          name: 'GetDataParams',
+          name: ' GetDataParams',
           type: 'FetcherParams',
         },
         {
-          name: 'ValidateCredentialsParams',
+          name: ' ValidateCredentialsParams',
           type: '{\n  credentials: object;\n}',
         },
         {
-          name: 'ValidateCredentialsResponse',
+          name: ' ValidateCredentialsResponse',
           type: '{\n  isValid: boolean;\n  credentials: object;\n  errorMessage?: string;\n}',
         },
         {
-          name: 'DynamicFieldValue',
+          name: ' DynamicFieldValue',
           type: '{\n  id: string;\n  label?: string;\n  description?: string;\n}',
         },
         {
-          name: 'SegmentCustomer',
+          name: ' SegmentCustomer',
           type: '{\n  email?: string;\n  phone?: string ;\n}',
         },
         {
-          name: 'CreateSegmentParams',
+          name: ' CreateSegmentParams',
           type: '{\n  credentialsId: string;\n  shopId: string;\n  segmentName: string;\n}',
         },
         {
-          name: 'UpdateListParams',
+          name: ' UpdateListParams',
           type: '{\n  credentialsId: string;\n  shopId: string;\n  segmentId: string;\n  newCustomers: SegmentCustomer[];\n}',
         },
       ],
@@ -7853,15 +7853,15 @@ export default {
       file: '@tw/types/sensory/fetcherTypes.ts',
       exports: [
         {
-          name: 'ProviderAccount',
+          name: ' ProviderAccount',
           type: '{\n  provider_id: string;\n  provider_account_id: string;\n  provider_account_name: string;\n  timezone: string;\n  currency: string;\n  extra_params?: object;\n}',
         },
         {
-          name: 'FetcherIntegrationDetails',
+          name: ' FetcherIntegrationDetails',
           type: "Pick<\n  WorkflowArgs<WorkflowJobDefinition>,\n  | 'providerId'\n  | 'providerAccountId'\n  | 'providerAccountName'\n  | 'currency'\n  | 'timezone'\n  | 'integrationId'\n  | 'customArgs'\n  | 'credentialsId'\n  | 'scheduleId'\n  | 'settings'\n  | 'tw_account_id'\n>",
         },
         {
-          name: 'FetcherParams',
+          name: ' FetcherParams',
           type: '{\n  jobDefinition: ActivityJobDefinition<Filter>;\n  integrationDetails: FetcherIntegrationDetails;\n}',
         },
       ],
@@ -7870,7 +7870,7 @@ export default {
       file: '@tw/types/sensory/index.ts',
       exports: [
         {
-          name: 'Overwrite',
+          name: ' Overwrite',
           type: 'Pick<T, Exclude<keyof T, keyof U>> & U',
         },
       ],
@@ -7880,126 +7880,126 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'providerAuthMethodEnum',
+          name: ' providerAuthMethodEnum',
         },
         {
-          name: 'ProviderAuthMethod',
+          name: ' ProviderAuthMethod',
           type: 'keyof typeof providerAuthMethodEnum',
         },
         {
           type: 'enum',
-          name: 'providerDomainEnum',
+          name: ' providerDomainEnum',
         },
         {
-          name: 'ProviderDomain',
+          name: ' ProviderDomain',
           type: 'keyof typeof providerDomainEnum',
         },
         {
           type: 'enum',
-          name: 'jobDefinitionUnitEnum',
+          name: ' jobDefinitionUnitEnum',
         },
         {
-          name: 'JobDefinitionUnit',
+          name: ' JobDefinitionUnit',
           type: 'keyof typeof jobDefinitionUnitEnum',
         },
         {
-          name: 'JobDefinitionLevel',
+          name: ' JobDefinitionLevel',
           type: "'full' | 'light'",
         },
         {
-          name: 'ProviderAuth',
+          name: ' ProviderAuth',
           type: '(ProviderAuth_oAuth | ProviderAuth_basicAuth) & {\n  generatedParams?: {\n    param: string;\n    generateUrl: string;\n  }[];\n}',
         },
         {
-          name: 'ProviderAuthFields',
+          name: ' ProviderAuthFields',
           type: '{\n  field: string;\n  label?: string;\n  valueType: (typeof basicAuth_valueType)[number];\n  note?: string;\n  validate?: {\n    regex?: string;\n    errorMessage?: string;\n  }\n}',
         },
         {
-          name: 'ProviderAuth_oAuth',
+          name: ' ProviderAuth_oAuth',
           type: '{\n  url: string;\n  params?: ProviderAuthFields[];\n}',
         },
         {
-          name: 'ProviderAuth_basicAuth',
+          name: ' ProviderAuth_basicAuth',
           type: '{\n  fields: ProviderAuthFields[];\n  note?: string;\n}',
         },
         {
-          name: 'ProviderSetting',
+          name: ' ProviderSetting',
           type: "{\n  field: string;\n  label?: string;\n  settingType: (typeof providerSettings_valueType)[number];\n  scope: 'fetcher' | 'nexus' | 'capi';\n  values?: string[];\n  defaultValue?: string | number | boolean;\n  mappingFields?: collectionInfo[];\n}",
         },
         {
-          name: 'collectionInfo',
+          name: ' collectionInfo',
           type: '{\n  collectionName: string;\n  fields: collectionField[];\n}',
         },
         {
-          name: 'collectionField',
+          name: ' collectionField',
           type: '{\n  fieldName: string;\n  default?: string;\n  hidden?: boolean;\n}',
         },
         {
           name: ' basicAuth_valueType',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' providerSettings_valueType',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'enum',
-          name: 'integrationStatusEnum',
+          name: ' integrationStatusEnum',
         },
         {
-          name: 'IntegrationStatus',
+          name: ' IntegrationStatus',
           type: 'keyof typeof integrationStatusEnum',
         },
         {
           type: 'enum',
-          name: 'policyEnum',
+          name: ' policyEnum',
         },
         {
-          name: 'Policy',
+          name: ' Policy',
           type: 'keyof typeof policyEnum',
         },
         {
-          name: 'PolicyJobType',
+          name: ' PolicyJobType',
           type: "'dateRange' | 'scheduleState' | 'general'",
         },
         {
-          name: 'PolicyJobDefinition',
+          name: ' PolicyJobDefinition',
           type: '| PolicyJobDefinitionGeneral\n  | PolicyJobDefinitionDateRange\n  | PolicyJobDefinitionState',
         },
         {
-          name: 'PolicyJobDefinitionBase',
+          name: ' PolicyJobDefinitionBase',
           type: '{\n  jobType: PolicyJobType;\n  level: JobDefinitionLevel;\n  filterParams?: any;\n}',
         },
         {
-          name: 'PolicyJobDefinitionGeneral',
+          name: ' PolicyJobDefinitionGeneral',
           type: "Overwrite<\n  PolicyJobDefinitionBase,\n  {\n    jobType: 'general';\n    reportType?: 'snapshots' | 'incremental' | 'singleCopy';\n  }\n>",
         },
         {
-          name: 'PolicyJobDefinitionDateRange',
+          name: ' PolicyJobDefinitionDateRange',
           type: "Overwrite<\n  PolicyJobDefinitionGeneral,\n  {\n    jobType: 'dateRange';\n    unit: JobDefinitionUnit;\n    count: number | null;\n  }\n>",
         },
         {
-          name: 'PolicyJobDefinitionState',
+          name: ' PolicyJobDefinitionState',
           type: "Overwrite<\n  PolicyJobDefinitionBase,\n  {\n    jobType: 'scheduleState';\n    scheduleState?: { [key in string]: any }; // ['last_updated_at', 'orderId', 'filename', ...]\n  }\n>",
         },
         {
-          name: 'SensoryProviderGetAccountsParams',
+          name: ' SensoryProviderGetAccountsParams',
           type: '{\n  dependent_provider_id: string;\n  fields: ProviderParam[];\n}',
         },
         {
-          name: 'ProviderParam',
+          name: ' ProviderParam',
           type: '{\n  name: string;\n  source: string;\n}',
         },
         {
-          name: 'PolicyAllowedFilter',
+          name: ' PolicyAllowedFilter',
           type: "{\n  type: 'date' | 'string' | 'number' | 'boolean';\n  field: string;\n  description: string;\n  maxHistoricalDays?: number;\n}",
         },
         {
-          name: 'WorkflowJobType',
+          name: ' WorkflowJobType',
           type: "PolicyJobType | 'dateList'",
         },
         {
-          name: 'ProviderAssetType',
+          name: ' ProviderAssetType',
           type: '{\n  id: string;\n  name: string;\n  description: string;\n  allowedJobTypes: WorkflowJobType[];\n  allowedFilters?: PolicyAllowedFilter[];\n  maxHistoricalDays?: number;\n  defaultLevel?: JobDefinitionLevel;\n  defaultFilterParams?: any;\n  defaultUnit?: JobDefinitionUnit;\n  dataHealth?: DataHealthSetting;\n}',
         },
       ],
@@ -8012,35 +8012,35 @@ export default {
       file: '@tw/types/sensory/integration/tables.ts',
       exports: [
         {
-          name: 'BaseTableProps',
+          name: ' BaseTableProps',
           type: 'interface',
         },
         {
-          name: 'credential',
+          name: ' credential',
           type: 'interface',
         },
         {
-          name: 'SensoryProvider',
+          name: ' SensoryProvider',
           type: 'interface',
         },
         {
-          name: 'Schedule',
+          name: ' Schedule',
           type: 'number | string',
         },
         {
-          name: 'SensoryPolicy',
+          name: ' SensoryPolicy',
           type: 'interface',
         },
         {
-          name: 'SensoryIntegration',
+          name: ' SensoryIntegration',
           type: 'interface',
         },
         {
-          name: 'WorkflowStatus',
+          name: ' WorkflowStatus',
           type: 'interface',
         },
         {
-          name: 'integration_db',
+          name: ' integration_db',
           type: 'interface',
         },
       ],
@@ -8049,23 +8049,23 @@ export default {
       file: '@tw/types/sensory/temporal.ts',
       exports: [
         {
-          name: 'IntegrationSearchAttributes',
+          name: ' IntegrationSearchAttributes',
           type: '{\n  provider_id: string[];\n  integration_id: string[];\n  integration_domain: ProviderDomain[];\n  integration_status: IntegrationStatus[];\n  asset_type: string[];\n  provider_account_id: string[];\n  credentials_id: string[];\n  policy_id: Policy[];\n  schedule: string[];\n  schedule_id: string[];\n}',
         },
         {
-          name: 'IntegrationSearchAttributesKeys',
+          name: ' IntegrationSearchAttributesKeys',
           type: 'keyof IntegrationSearchAttributes',
         },
         {
-          name: 'StartIntegrationWorkflow',
+          name: ' StartIntegrationWorkflow',
           type: '(args: WorkflowArgs<WorkflowJobDefinition>) => Promise<any>',
         },
         {
           type: 'enum',
-          name: 'workflowExecutionStatusEnum',
+          name: ' workflowExecutionStatusEnum',
         },
         {
-          name: 'WorkflowExecutionStatus',
+          name: ' WorkflowExecutionStatus',
           type: 'keyof typeof workflowExecutionStatusEnum',
         },
       ],
@@ -8074,35 +8074,35 @@ export default {
       file: '@tw/types/sensory/workflowTypes.ts',
       exports: [
         {
-          name: 'WorkflowArgs',
+          name: ' WorkflowArgs',
           type: '{\n  providerId: string;\n  integrationId: string;\n  providerAccountId: string;\n  currency: string;\n  timezone: string;\n  jobDefinition: T;\n  credentialsId: string;\n  providerAccountName: string;\n  assetType: string;\n  scheduleId?: string;\n  customArgs?: object;\n  settings?: object[];\n  tw_account_id?: string;\n}',
         },
         {
-          name: 'WorkflowJobDefinition',
+          name: ' WorkflowJobDefinition',
           type: '| WorkflowJobDefinitionGeneral\n  | WorkflowJobDefinitionDateRange\n  | WorkflowJobDefinitionDateList\n  | WorkflowJobDefinitionState',
         },
         {
-          name: 'WorkflowJobDefinitionGeneral',
+          name: ' WorkflowJobDefinitionGeneral',
           type: 'PolicyJobDefinitionGeneral',
         },
         {
-          name: 'WorkflowJobDefinitionDateList',
+          name: ' WorkflowJobDefinitionDateList',
           type: "Overwrite<\n  PolicyJobDefinitionBase,\n  {\n    jobType: 'dateList';\n    dates: [string, ...string[]];\n  }\n>",
         },
         {
-          name: 'WorkflowJobDefinitionDateRange',
+          name: ' WorkflowJobDefinitionDateRange',
           type: 'Overwrite<\n  PolicyJobDefinitionDateRange,\n  {\n    count: number;\n    endDate?: string;\n  }\n>',
         },
         {
-          name: 'WorkflowJobDefinitionState',
+          name: ' WorkflowJobDefinitionState',
           type: 'PolicyJobDefinitionState',
         },
         {
-          name: 'WorkflowStatusPayload',
+          name: ' WorkflowStatusPayload',
           type: "{\n  workflowId: string;\n  integrationId?: string;\n  assetType?: string;\n  total?: number;\n  currentIndex?: number;\n  activityJobDefinition?: any;\n  integrationDetails?: any;\n  workflowMetadata?: any;\n  errors?: any;\n  status?: 'running' | 'completed' | 'terminated' | 'completedWithError';\n  doneDate?: string;\n}",
         },
         {
-          name: 'WorkflowIntegrationStatus',
+          name: ' WorkflowIntegrationStatus',
           type: "| Omit<\n      WorkflowStatusPayload,\n      'activityJobDefinition' | 'integrationDetails' | 'workflowMetadata'\n    > & { integrationStatus?: IntegrationStatus }",
         },
       ],
@@ -8111,12 +8111,12 @@ export default {
       file: '@tw/types/services/IntegrationAccountData.ts',
       exports: [
         {
-          name: 'IntegrationAccountData',
+          name: ' IntegrationAccountData',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  token: any;\n  timezone: string;\n  currency: string;\n  shopifyShopIds: {\n    [key in string]: {\n      shopId: string;\n      subAccountIds?: {\n        [key in string]: { subAccountId: string; [prop: string]: any };\n      };\n      [prop: string]: any;\n    };\n  };\n  lastFetchTime?: string;\n  createdAt?: string;\n  [prop: string]: any;\n  accountName?: string;\n  status?: IntegrationAccountStatusEnum;\n  statusMessage?: string;\n}',
         },
         {
           type: 'enum',
-          name: 'IntegrationAccountStatusEnum',
+          name: ' IntegrationAccountStatusEnum',
         },
       ],
     },
@@ -8125,11 +8125,11 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'EmailContext',
+          name: ' EmailContext',
         },
         {
           type: 'enum',
-          name: 'OnboardingEmailContext',
+          name: ' OnboardingEmailContext',
         },
       ],
     },
@@ -8137,7 +8137,7 @@ export default {
       file: '@tw/types/services/account-manager/Integration.ts',
       exports: [
         {
-          name: 'Integration',
+          name: ' Integration',
           type: 'interface',
         },
       ],
@@ -8147,7 +8147,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'InvitationType',
+          name: ' InvitationType',
         },
       ],
     },
@@ -8155,7 +8155,7 @@ export default {
       file: '@tw/types/services/account-manager/Provider.ts',
       exports: [
         {
-          name: 'Provider',
+          name: ' Provider',
           type: 'interface',
         },
       ],
@@ -8164,7 +8164,7 @@ export default {
       file: '@tw/types/services/account-manager/ProviderCredential.ts',
       exports: [
         {
-          name: 'ProviderCredential',
+          name: ' ProviderCredential',
           type: 'interface',
         },
       ],
@@ -8178,7 +8178,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'events',
+          name: ' events',
         },
       ],
     },
@@ -8186,7 +8186,7 @@ export default {
       file: '@tw/types/services/amazon/AmazonAccount.ts',
       exports: [
         {
-          name: 'AmazonAccount',
+          name: ' AmazonAccount',
           type: '{\n  selling_partner_id: string;\n  refresh_token: string;\n  region: AmazonRegions;\n  ads_refresh_token: string;\n  // tw_account_ids: string[];\n  marketplace_ids: AmazonAccountMarketplaceIds;\n  marketplace_ids_to_import: string[];\n  tw_account_ids: {\n    [key in string]: {\n      tw_account_id: string;\n      marketplace_ids: string[];\n    };\n  };\n}',
         },
       ],
@@ -8195,11 +8195,11 @@ export default {
       file: '@tw/types/services/amazon/AmazonMarketplace.ts',
       exports: [
         {
-          name: 'AmazonMarketplace',
+          name: ' AmazonMarketplace',
           type: '{\n  id: string;\n  region: AmazonRegions;\n  marketplace?: {\n    countryCode: string;\n    defaultCurrencyCode: string;\n    defaultLanguageCode: string;\n    domainName: string;\n    id: string;\n    name: string;\n  } & any;\n  participation?: any;\n  profiles?: {\n    region: AmazonRegions;\n    countryCode: string;\n    currencyCode: string;\n    dailyBudget: number;\n    profileId: string;\n    timezone: string;\n  }[];\n}',
         },
         {
-          name: 'AmazonAccountMarketplaceIds',
+          name: ' AmazonAccountMarketplaceIds',
           type: '{\n  [key in string]: AmazonMarketplace;\n}',
         },
       ],
@@ -8208,27 +8208,27 @@ export default {
       file: '@tw/types/services/amazon/AmazonMarketplaces.ts',
       exports: [
         {
-          name: 'AmazonRegions',
+          name: ' AmazonRegions',
           type: "'na' | 'eu' | 'fe'",
         },
         {
           type: 'enum',
-          name: 'AMAZON_REGIONS_ADS_URLS',
+          name: ' AMAZON_REGIONS_ADS_URLS',
         },
         {
           type: 'enum',
-          name: 'AMAZON_REGIONS_LABELS',
+          name: ' AMAZON_REGIONS_LABELS',
         },
         {
           type: 'enum',
-          name: 'AMAZON_MARKETPLACE_IDS',
+          name: ' AMAZON_MARKETPLACE_IDS',
         },
         {
           type: 'enum',
-          name: 'AMAZON_MARKETPLACE_SELLER_TIMEZONES',
+          name: ' AMAZON_MARKETPLACE_SELLER_TIMEZONES',
         },
         {
-          name: 'AmazonMarketplaces',
+          name: ' AmazonMarketplaces',
           type: 'keyof typeof AMAZON_MARKETPLACE_IDS',
         },
       ],
@@ -8242,14 +8242,14 @@ export default {
       exports: [
         {
           name: ' benchmarksMetricsRoles',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'BenchmarksMetricsKeys',
+          name: ' BenchmarksMetricsKeys',
           type: 'typeof benchmarksMetricsRoles[number]',
         },
         {
-          name: 'BenchmarksMetrics',
+          name: ' BenchmarksMetrics',
           type: '{\n  [metric in BenchmarksMetricsKeys]: number;\n}',
         },
       ],
@@ -8259,30 +8259,30 @@ export default {
       exports: [
         {
           name: ' AOV_SEGMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' REVENUE_SEGMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' SPEND_SEGMENTS',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'aovSegmentTypes',
+          name: ' aovSegmentTypes',
           type: '(typeof AOV_SEGMENTS)[number]',
         },
         {
-          name: 'revenueSegmentTypes',
+          name: ' revenueSegmentTypes',
           type: '(typeof REVENUE_SEGMENTS)[number]',
         },
         {
-          name: 'spendSegmentTypes',
+          name: ' spendSegmentTypes',
           type: '(typeof SPEND_SEGMENTS)[number]',
         },
         {
-          name: 'BenchmarksRequest',
+          name: ' BenchmarksRequest',
           type: '{\n  shop_domain: string;\n  category: IndustryTypes;\n  aov_segment?: aovSegmentTypes;\n  revenue_segment?: revenueSegmentTypes;\n  spend_segment?: spendSegmentTypes;\n  start: string;\n  end: string;\n  user?: string;\n  compare_start?: string;\n  compare_end?: string;\n}',
         },
       ],
@@ -8295,7 +8295,7 @@ export default {
       file: '@tw/types/services/cdp/CdpCustomer.ts',
       exports: [
         {
-          name: 'CDPCustomer',
+          name: ' CDPCustomer',
           type: '{\n  shopifyCustomerId: number;\n  createdAt: string;\n  email: string;\n  name: string;\n  phone: string;\n  location: string;\n  totalOrders: number;\n  totalSpend: number;\n  AOV: number;\n}',
         },
       ],
@@ -8305,14 +8305,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'CDPSegmentInstanceStatus',
+          name: ' CDPSegmentInstanceStatus',
         },
         {
           type: 'enum',
-          name: 'SegmentMetric',
+          name: ' SegmentMetric',
         },
         {
-          name: 'SegmentInstance',
+          name: ' SegmentInstance',
           type: '{\n  id: string;\n  segmentId: string;\n  createdAt: Date;\n} & {\n  [metric in SegmentMetric]: number\n}',
         },
       ],
@@ -8322,14 +8322,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'SegmentScheduler',
+          name: ' SegmentScheduler',
         },
         {
-          name: 'CreateSegmentReq',
+          name: ' CreateSegmentReq',
           type: '{\n  schedule?: SegmentScheduler;\n  query: CDPSegmentQuery;\n  type?: SegmentType;\n  name: string;\n  description?: string;\n}',
         },
         {
-          name: 'EditSegmentReq',
+          name: ' EditSegmentReq',
           type: '{\n  schedule?: SegmentScheduler;\n  query?: CDPSegmentQuery;\n  type?: SegmentType;\n  name?: string;\n}',
         },
       ],
@@ -8338,11 +8338,11 @@ export default {
       file: '@tw/types/services/cdp/SegmentRes.ts',
       exports: [
         {
-          name: 'SegmentSync',
+          name: ' SegmentSync',
           type: '{\n  providerId: ServicesIds;\n  accountId: string;\n  isSynced: boolean;\n  providerAudienceId: string;\n  lastUpdatedAt: Date;\n  error?: {\n    errorDetail: string;\n    errorMessage: string;\n    createdAt: Date;\n  }\n}',
         },
         {
-          name: 'Segment',
+          name: ' Segment',
           type: '{\n  id: string;\n  createdAt: Date;\n  updatedAt: Date;\n  name: string;\n  description?: string;\n  shopDomain: string;\n  query: CDPSegmentQuery;\n  schedule: SegmentScheduler;\n  type: SegmentType;\n  FBAudienceId?: string;\n  FBAdAccountId?:string;\n  isFacebookSyncOn?: boolean;\n  lastRunAt?: Date;\n  lastInstance?: SegmentInstance;\n  isPaused?: boolean;\n  integrationsSyncDetails?: SegmentSync[];\n  predefinedSegment?: {\n    name: string;\n    description?: string;\n    schedule: SegmentScheduler;\n    type: SegmentType;\n    query: CDPSegmentQuery;\n  };\n}',
         },
       ],
@@ -8351,11 +8351,11 @@ export default {
       file: '@tw/types/services/cdp/SegmentSync.ts',
       exports: [
         {
-          name: 'SegmentSyncReq',
+          name: ' SegmentSyncReq',
           type: '{\n  shopDomain: string;\n  segmentId: string;\n  providerId: ServicesIds;\n  accountId?: string;\n  market?: string;\n  providerAudienceId?: string;\n}',
         },
         {
-          name: 'SegmentSyncRes',
+          name: ' SegmentSyncRes',
           type: '{\n  err: boolean;\n  msg: string;\n}',
         },
       ],
@@ -8365,7 +8365,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'SegmentType',
+          name: ' SegmentType',
         },
       ],
     },
@@ -8378,18 +8378,18 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'CDPActionFilterActions',
+          name: ' CDPActionFilterActions',
         },
         {
-          name: 'CDPActionProperty',
+          name: ' CDPActionProperty',
           type: '(typeof ACTION_PROPERTIES)[number]',
         },
         {
           type: 'enum',
-          name: 'CDPActionPrsoperty',
+          name: ' CDPActionPrsoperty',
         },
         {
-          name: 'CDPActionFilter',
+          name: ' CDPActionFilter',
           type: '{\n  type: CDPSegmentFilterType.ACTION;\n  definition: {\n    action: {\n      type: CDPActionFilterActions;\n      comparator: NumberComparator;\n      value: number;\n    };\n    time: TimeFilter;\n    property?: QueryFilterProperty<CDPActionProperty>;\n  };\n}',
         },
       ],
@@ -8398,7 +8398,7 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/LookalikeFilter.ts',
       exports: [
         {
-          name: 'CDPLookalikeFilter',
+          name: ' CDPLookalikeFilter',
           type: '{\n  type: CDPSegmentFilterType.LOOKALIKE;\n  definition: {\n    property: {\n      value: string;\n    };\n  };\n}',
         },
       ],
@@ -8407,7 +8407,7 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/PredictiveAnalyticsFilter.ts',
       exports: [
         {
-          name: 'CDPPredictiveAnalyticsFilter',
+          name: ' CDPPredictiveAnalyticsFilter',
           type: '{\n  type: CDPSegmentFilterType.PREDICTIVE_ANALYTICS,\n  definition: {\n    property: {} // TODO\n  }\n}',
         },
       ],
@@ -8417,14 +8417,14 @@ export default {
       exports: [
         {
           name: ' RFM_PROPERTIES',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CDPRFMProperty',
+          name: ' CDPRFMProperty',
           type: '(typeof RFM_PROPERTIES)[number]',
         },
         {
-          name: 'CDPRFMFilter',
+          name: ' CDPRFMFilter',
           type: '{\n  type: CDPSegmentFilterType.RFM_SEGMENT;\n  definition: {\n    properties: FilterListProperty<CDPRFMProperty>[];\n  };\n}',
         },
       ],
@@ -8434,30 +8434,30 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'CDPSegmentFilterType',
+          name: ' CDPSegmentFilterType',
         },
         {
-          name: 'FilterStringProperty',
+          name: ' FilterStringProperty',
           type: '{\n  property: T;\n  comparator: StringComparator;\n  value: string | string[];\n}',
         },
         {
-          name: 'FilterNumberProperty',
+          name: ' FilterNumberProperty',
           type: '{\n  property: T;\n  comparator: NumberComparator;\n  value: number;\n}',
         },
         {
-          name: 'FilterListProperty',
+          name: ' FilterListProperty',
           type: '{\n  property: T;\n  comparator: ListComparator;\n  value: (string | number)[];\n}',
         },
         {
-          name: 'FilterBooleanProperty',
+          name: ' FilterBooleanProperty',
           type: '{\n  property: T;\n  comparator: BooleanComparator;\n  value: string;\n}',
         },
         {
-          name: 'QueryFilterProperty',
+          name: ' QueryFilterProperty',
           type: 'FilterStringProperty<T> | FilterNumberProperty<T> | FilterListProperty<T> | FilterBooleanProperty<T>',
         },
         {
-          name: 'CDPSegmentFilter',
+          name: ' CDPSegmentFilter',
           type: '| CDPUserPropertyFilter\n  | CDPActionFilter\n  | CDPSegmentRelationFilter\n  | CDPPredictiveAnalyticsFilter\n  | CDPRFMFilter\n  | CDPLookalikeFilter\n  | CDPWhaleGPTFilter',
         },
       ],
@@ -8466,11 +8466,11 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/SegmentQuery.ts',
       exports: [
         {
-          name: 'CDPSegmentQuery',
+          name: ' CDPSegmentQuery',
           type: "{\n  type: 'AND'\n  filters: CDPSegmentQueryBlock[];\n}",
         },
         {
-          name: 'CDPSegmentQueryBlock',
+          name: ' CDPSegmentQueryBlock',
           type: "{\n  type: 'OR',\n  filters: CDPSegmentFilter[]\n}",
         },
       ],
@@ -8479,7 +8479,7 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/SegmentRelationFilter.ts',
       exports: [
         {
-          name: 'CDPSegmentRelationFilter',
+          name: ' CDPSegmentRelationFilter',
           type: '{\n  type: CDPSegmentFilterType.SEGMENT_RELATION,\n  definition: {\n    property: {\n      value: string,\n      comparator: FilterComparator.IS | FilterComparator.IS_NOT,\n    } \n  }\n}',
         },
       ],
@@ -8488,27 +8488,27 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/TimeFilter.ts',
       exports: [
         {
-          name: 'OverAllTimeFilter',
+          name: ' OverAllTimeFilter',
           type: '{\n  comparator: FilterComparator.OVER_ALL_TIME\n}',
         },
         {
-          name: 'AbsoluteTimeFilter',
+          name: ' AbsoluteTimeFilter',
           type: '{\n  comparator: FilterComparator.BEFORE | FilterComparator.AFTER,\n  value: Date,\n}',
         },
         {
-          name: 'RelativeUnitTimeFilter',
+          name: ' RelativeUnitTimeFilter',
           type: '{\n  comparator: FilterComparator.UNDER | FilterComparator.OVER,\n  value: number,\n  unit: FilterTimeUnit\n}',
         },
         {
-          name: 'BetweenTimeFilter',
+          name: ' BetweenTimeFilter',
           type: '{\n  comparator: FilterComparator.BETWEEN,\n  value1: Date,\n  value2: Date\n}',
         },
         {
-          name: 'WithinTimeFilter',
+          name: ' WithinTimeFilter',
           type: '{\n  comparator: FilterComparator.WITHIN,\n  value1: number,\n  value2: number,\n  unit: FilterTimeUnit\n}',
         },
         {
-          name: 'TimeFilter',
+          name: ' TimeFilter',
           type: 'OverAllTimeFilter | RelativeUnitTimeFilter | BetweenTimeFilter | WithinTimeFilter',
         },
       ],
@@ -8518,14 +8518,14 @@ export default {
       exports: [
         {
           name: ' USER_PROPERTIES',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CDPUserProperty',
+          name: ' CDPUserProperty',
           type: '(typeof USER_PROPERTIES)[number]',
         },
         {
-          name: 'CDPUserPropertyFilter',
+          name: ' CDPUserPropertyFilter',
           type: '{\n  type: CDPSegmentFilterType.USER_PROPERTY,\n  definition: {\n    property: QueryFilterProperty<CDPUserProperty>,\n  }\n}',
         },
       ],
@@ -8534,7 +8534,7 @@ export default {
       file: '@tw/types/services/cdp/queryBuilder/WhaleGPTFilter.ts',
       exports: [
         {
-          name: 'CDPWhaleGPTFilter',
+          name: ' CDPWhaleGPTFilter',
           type: '{\n  type: CDPSegmentFilterType.WHALE_GPT;\n  definition: {\n    id: string;\n    question: string;\n    query: string;\n  };\n}',
         },
       ],
@@ -8556,11 +8556,11 @@ export default {
         },
         {
           name: ' UN_SUPPORTED_PROPERTIES',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' UN_SUPPORTED_ACTIONS',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -8569,7 +8569,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'SegmentMembersMetrics',
+          name: ' SegmentMembersMetrics',
         },
       ],
     },
@@ -8577,11 +8577,11 @@ export default {
       file: '@tw/types/services/dal/dto/customerRequest.ts',
       exports: [
         {
-          name: 'customerByIdRequest',
+          name: ' customerByIdRequest',
           type: '{\n  shopDomain: string;\n  customerId: string;\n}',
         },
         {
-          name: 'customersCollectionRequest',
+          name: ' customersCollectionRequest',
           type: '{\n  shopDomain: string;\n}',
         },
       ],
@@ -8594,15 +8594,15 @@ export default {
       file: '@tw/types/services/dal/dto/orderRequest.ts',
       exports: [
         {
-          name: 'orderByIdRequest',
+          name: ' orderByIdRequest',
           type: '{\n  shopDomain: string;\n  orderId: string;\n}',
         },
         {
-          name: 'ordersByDateRequest',
+          name: ' ordersByDateRequest',
           type: '{\n  shopDomain: string;\n  dateStart: string;\n  dateEnd: string;\n}',
         },
         {
-          name: 'ordersByDayRequest',
+          name: ' ordersByDayRequest',
           type: '{\n  shopDomain: string;\n  dayDate: string;\n}',
         },
       ],
@@ -8611,11 +8611,11 @@ export default {
       file: '@tw/types/services/dal/dto/productRequest.ts',
       exports: [
         {
-          name: 'productByIdRequest',
+          name: ' productByIdRequest',
           type: '{\n  shopDomain: string;\n  productId: string;\n}',
         },
         {
-          name: 'productCollectionRequest',
+          name: ' productCollectionRequest',
           type: '{\n  shopDomain: string;\n}',
         },
       ],
@@ -8624,7 +8624,7 @@ export default {
       file: '@tw/types/services/dal/dto/shopRequest.ts',
       exports: [
         {
-          name: 'shopRequest',
+          name: ' shopRequest',
           type: '{\n  shopDomain: string;\n}',
         },
       ],
@@ -8633,7 +8633,7 @@ export default {
       file: '@tw/types/services/dal/entities/base.ts',
       exports: [
         {
-          name: 'Base',
+          name: ' Base',
           type: '{\n  json_object?: Object;\n  tw_last_updated_at?: Date;\n  tw_deleted_at?: Date;\n}',
         },
       ],
@@ -8654,19 +8654,19 @@ export default {
       file: '@tw/types/services/dal/entities/product.ts',
       exports: [
         {
-          name: 'Product',
+          name: ' Product',
           type: '{\n  id: number;\n  shop_id: number;\n  body_html: string;\n  title: string;\n  handle: string;\n  product_type: string;\n  created_at: Date;\n  updated_at: Date;\n  published_at: Date;\n  published_scope: string;\n  status: string;\n  template_suffix: string;\n  // tags: string;\n  vendor: string;\n} & Base',
         },
         {
-          name: 'Image',
+          name: ' Image',
           type: '{\n  id: number;\n  shop_id: number;\n  product_id: number;\n  position: number;\n  created_at: string;\n  updated_at: string;\n  width: number;\n  height: number;\n  src: string;\n} & Base',
         },
         {
-          name: 'Options',
+          name: ' Options',
           type: '{\n  id: number;\n  product_id: number;\n  name: string;\n  position: number;\n  values: string[];\n}',
         },
         {
-          name: 'Variant',
+          name: ' Variant',
           type: '{\n  id: number;\n  title: string;\n  price: number;\n  product_id: number;\n  sku: string;\n  requires_shipping: boolean;\n  barcode: string;\n  compare_at_price: any;\n  created_at: string;\n  fulfillment_service: string;\n  grams: number;\n  weight: number;\n  weight_unit: string;\n  inventory_item_id: number;\n  inventory_management: string;\n  inventory_policy: string;\n  inventory_quantity: number;\n  // option1: string;\n  position: number;\n  taxable: boolean;\n  updated_at: string;\n} & Base',
         },
       ],
@@ -8679,7 +8679,7 @@ export default {
       file: '@tw/types/services/general/AppVersion.ts',
       exports: [
         {
-          name: 'AppVersion',
+          name: ' AppVersion',
           type: "'2.0' | '3.0'",
         },
       ],
@@ -8688,7 +8688,7 @@ export default {
       file: '@tw/types/services/general/ChannelsCategory.ts',
       exports: [
         {
-          name: 'ChannelsCategory',
+          name: ' ChannelsCategory',
           type: "| 'ads'\n  | 'email_ads'\n  | 'social'\n  | 'creatives'\n  | 'commerce'\n  | 'surveys'\n  | 'customer_success'\n  | 'analytics'",
         },
       ],
@@ -8701,11 +8701,11 @@ export default {
       file: '@tw/types/services/general/DataTypes.ts',
       exports: [
         {
-          name: 'DataTypesIds',
+          name: ' DataTypesIds',
           type: "| 'ads-metrics'\n  | 'ads-settings'\n  | 'assets-settings'\n  | 'creatives-metrics'\n  | 'videos-metrics'\n  | 'orders'\n  | 'inventory_items'\n  | 'products'\n  | 'prices'\n  | 'subscriptions'\n  | 'customers'\n  | 'webhook'\n  | 'refunds'\n  | 'issues'\n  | 'surveys'\n  | 'payments'\n  | 'product-fees'\n  | 'listings-items'\n  | 'balanceTransactions'\n  | 'events'\n  | 'contacts'\n  | 'companies'\n  | 'shipping'\n  | 'conversations'",
         },
         {
-          name: 'DataTypesMap',
+          name: ' DataTypesMap',
           type: '{\n  [type in DataTypesIds]: type;\n}',
         },
         {
@@ -8713,11 +8713,11 @@ export default {
           type: 'DataTypesMap',
         },
         {
-          name: 'BaseDataType',
+          name: ' BaseDataType',
           type: '{\n  importQueueName: string;\n  importUrl: string;\n  importUrlLight?: string;\n}',
         },
         {
-          name: 'DataTypesRecord',
+          name: ' DataTypesRecord',
           type: '{\n  [dataType in DataTypesIds]: BaseDataType;\n}',
         },
       ],
@@ -8726,7 +8726,7 @@ export default {
       file: '@tw/types/services/general/SalesPlatform.ts',
       exports: [
         {
-          name: 'SalesPlatform',
+          name: ' SalesPlatform',
           type: "'shopify' | 'bigcommerce' | 'woocommerce' | 'stripe'",
         },
         {
@@ -8739,36 +8739,36 @@ export default {
       file: '@tw/types/services/general/Services.ts',
       exports: [
         {
-          name: 'BaseChannel',
+          name: ' BaseChannel',
           type: "{\n  id: T;\n  name: string;\n  smallIcon?: string;\n  attributionName?: string;\n  isSensory?: boolean | ((shop: Shop | ShopWithSensory) => boolean);\n  forceOldFetch?: boolean; // temp flag to force old data fetch even it's sensory\n  internalUrl: string;\n  getAccounts: (shop: Shop | ShopWithSensory) => ShopIntegrationProperties[];\n  getAccessToken?: (shop: Shop | ShopWithSensory) => string;\n  getIsConnected?: (shop: Shop | ShopWithSensory) => boolean;\n  getShopProviderStatus?: (shop: Shop | ShopWithSensory) => ShopProviderStatus;\n  dataTypes: Partial<DataTypesRecord>;\n  // which datatype to use to determine queue and URL\n  // if data type was not specified.\n  defaultDataType?: DataTypesIds;\n  saveToCreativecockpit?: boolean;\n  dateRangeLimit?: number;\n\n  healthCheckSupported?: boolean;\n  healthCheckSlackChannel?: string;\n  healthCheckConf?: DataHealthConf;\n  isBeta?: boolean;\n  providerType?: 'none' | 'connector' | 'data';\n  isNotInBQ?: boolean;\n  twVersion?: string;\n}",
         },
         {
-          name: 'ServicesRecordInternal',
+          name: ' ServicesRecordInternal',
           type: '{\n  [channel in ServicesIds]: BaseChannel<channel>;\n}',
         },
         {
-          name: 'ServicesRecord',
+          name: ' ServicesRecord',
           type: "{\n  [channel in ServicesIds]: BaseChannel<channel> & {\n    providerType: 'none' | 'connector' | 'data';\n  };\n}",
         },
         {
           name: ' extractSensoryAccounts',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' extractSensoryIsConnected',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' extractSensoryProviderStatus',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' extractShopProviderStatus',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' extractAccounts',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' services',
@@ -8781,14 +8781,14 @@ export default {
       exports: [
         {
           name: ' ServicesIdsArray',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'ServicesIds',
+          name: ' ServicesIds',
           type: '(typeof ServicesIdsArray)[number]',
         },
         {
-          name: 'allServices',
+          name: ' allServices',
           type: '{\n  [t in ServicesIds]?: t;\n}',
         },
         {
@@ -8809,7 +8809,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/NewPartnerRequest.ts',
       exports: [
         {
-          name: 'NewPartnerRequest',
+          name: ' NewPartnerRequest',
           type: '{\n  partner_name: string;\n  partner_type: string;\n  website?: string;\n  pod_id: string;\n  pod_created_date: string;\n  primary_contact_email: string;\n  primary_contact_name: string;\n  associatedCompanyIds: string[];\n  associatedContactIds: string[];\n  count_of_managed_stores: number;\n  count_of_managed_users: number;\n}',
         },
       ],
@@ -8818,7 +8818,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/UpdatePartnerRequest.ts',
       exports: [
         {
-          name: 'updatePartnerRequest',
+          name: ' updatePartnerRequest',
           type: '{\n  partner_name: string;\n  partner_type: string;\n  website?: string;\n  primary_contact_email: string;\n  primary_contact_name: string;\n  companiesToMarkAsRemoved: string[];\n  contactsToMarkAsRemoved: string[];\n  companiesToAdd: string[];\n  contactsToAdd: string[];\n  count_of_managed_stores: number;\n  count_of_managed_users: number;\n}',
         },
       ],
@@ -8827,7 +8827,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/hubspotRequestFromInvitation.ts',
       exports: [
         {
-          name: 'hubspotRequestFromInvitation',
+          name: ' hubspotRequestFromInvitation',
           type: "{\n  email?: string;\n  shopDomain?: string;\n  accountType?: 'AGENCY' | 'BRAND';\n  firstname?: string;\n  lastname?: string;\n  phone?: string;\n  role?: string;\n  source?: 'INVITATION';\n}",
         },
       ],
@@ -8836,7 +8836,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/hubspotRequestFromPause.ts',
       exports: [
         {
-          name: 'hubspotRequestFromPause',
+          name: ' hubspotRequestFromPause',
           type: "{\n  source?: 'PAUSE_SUBSCRIPTION';\n  shop_domain?: string;\n  subscription_id?: string;\n  subscription_pause_end?: Date;\n  subscription_pause_reason?: string;\n}",
         },
       ],
@@ -8845,7 +8845,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/hubspotRequestFromSignup.ts',
       exports: [
         {
-          name: 'hubspotRequestFromSignup',
+          name: ' hubspotRequestFromSignup',
           type: "{\n  step?: number;\n  email?: string;\n  shopDomain?: string;\n  plans?: string[];\n  agencyUrl?: string;\n  agencyName?: string;\n  revenue?: string;\n  accountType?: 'AGENCY' | 'BRAND';\n  firstname?: string;\n  lastname?: string;\n  phone?: string;\n  shopCount?: number;\n  referrer?: string;\n  payer?: 'Brand' | 'Agency';\n  source?: 'SIGNUP' | 'SIGNUP-FREE';\n  hs_contact_id?: string;\n  hs_company_id?: string;\n  utm_source?: string;\n  utm_medium?: string;\n  utm_campaign?: string;\n  utm_content?: string;\n  utm_keyword?: string;\n  fw_key?: string;\n  isFW?: boolean;\n  industry?: string;\n  role?: string;\n  company_source?: string;\n  contact_source?: string;\n  installed_via_shopify_app_store?: boolean;\n  shopify_uninstalled_date?: string;\n  shopify_connection_status?: string;\n  subscription_type?: subscriptionType;\n  ip__shopify__accepts_marketing?: boolean;\n  login_method?: 'google' | 'facebook' | 'Username';\n  agency_sign_up_link?: string;\n  triple_whale_platform?: number;\n}",
         },
       ],
@@ -8854,7 +8854,7 @@ export default {
       file: '@tw/types/services/hubspot/dto/hubspotRequestFromStripe.ts',
       exports: [
         {
-          name: 'hubspotRequestFromStripe',
+          name: ' hubspotRequestFromStripe',
           type: "{\n  source?: 'STRIPE';\n  subscription_id?: string;\n  subscription_status?: string;\n  shopDomain: string;\n  discount?: string;\n  features?: string[];\n  items?: any[];\n  total_price?: number;\n  event_type?: string;\n  email?: string;\n  origin?: string;\n  revenue_selected?: number;\n  current_revenue?: number;\n  subscription_canceled_date?: string;\n  customer_id?: string;\n  coupon_name?: string;\n  subscription_start_date?: string;\n  subscription_pause_start_date?: string | null;\n  promo_code?: string;\n  subscription_cancellation_requested_date?: string;\n  subscription_canceled_by?: string;\n  subscription_type?: subscriptionType;\n  subscription_contract_end_date?: string;\n  collection_method?: 'charge_automatically' | 'send_invoice';\n}",
         },
       ],
@@ -8875,15 +8875,15 @@ export default {
       file: '@tw/types/services/insights/AOV.ts',
       exports: [
         {
-          name: 'AOVRequestParams',
+          name: ' AOVRequestParams',
           type: '{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  filters?: InsightsFilterQuery[];\n  CDPSegmentId?: string;\n}',
         },
         {
-          name: 'AOVItem',
+          name: ' AOVItem',
           type: '{\n  orderValue: number;\n  totalOrders: number;\n}',
         },
         {
-          name: 'AOVResponse',
+          name: ' AOVResponse',
           type: '{\n  items: AOVItem[];\n}',
         },
       ],
@@ -8892,15 +8892,15 @@ export default {
       file: '@tw/types/services/insights/LTV.ts',
       exports: [
         {
-          name: 'LTVRequestParams',
+          name: ' LTVRequestParams',
           type: '{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  filters?: InsightsFilterQuery[];\n  limit?: number;\n  groupBy: FilterProperty.PRODUCT_ID | FilterProperty.ORDER_DISCOUNT_CODE;\n  CDPSegmentId?: string;\n  searchTerm?: string;\n}',
         },
         {
-          name: 'LTVItem',
+          name: ' LTVItem',
           type: '{\n  id: string;\n  name?: string;\n  aov: number;\n  ltv60days: number;\n  ltv90days: number;\n}',
         },
         {
-          name: 'LTVResponse',
+          name: ' LTVResponse',
           type: '{\n  items: LTVItem[];\n  total: LTVItem;\n}',
         },
       ],
@@ -8909,23 +8909,23 @@ export default {
       file: '@tw/types/services/insights/cartAnalysis.ts',
       exports: [
         {
-          name: 'BoughtTogetherParams',
+          name: ' BoughtTogetherParams',
           type: "{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  minNumberOfProducts: number;\n  includeFreeProducts: boolean;\n  viewBy:\n    | FilterProperty.PRODUCT_ID\n    | FilterProperty.PRODUCT_SKU\n    | FilterProperty.PRODUCT_VARIANT_ID;\n  filters?: InsightsFilterQuery[];\n  CDPSegmentId?: string;\n  sortBy: BoughtTogetherMetric;\n  sortDirection: 'asc' | 'desc';\n  limit: number;\n}",
         },
         {
           type: 'enum',
-          name: 'BoughtTogetherMetric',
+          name: ' BoughtTogetherMetric',
         },
         {
-          name: 'BoughtTogetherProduct',
+          name: ' BoughtTogetherProduct',
           type: '{\n  prodcutId: string;\n  productTitle: string;\n  variantId?: string;\n  variantTitle?: string;\n  sku?: string;\n  imgSrc: string;\n  productTotalOrders: number;\n  productBundlesPercentage: number;\n}',
         },
         {
-          name: 'BoughtTogetherGroup',
+          name: ' BoughtTogetherGroup',
           type: '{\n  key: string;\n  metrics: { [key in BoughtTogetherMetric]: number };\n  products: BoughtTogetherProduct[];\n}',
         },
         {
-          name: 'BoughtTogetherData',
+          name: ' BoughtTogetherData',
           type: 'BoughtTogetherGroup[]',
         },
       ],
@@ -8935,10 +8935,10 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'TimeFrame',
+          name: ' TimeFrame',
         },
         {
-          name: 'CohortsParams',
+          name: ' CohortsParams',
           type: '{\n  shopId: string;\n  timeFrame: TimeFrame;\n  filters: InsightsFilterQuery[];\n  startDate: string;\n  endDate: string;\n  CDPSegmentId?: string;\n}',
         },
       ],
@@ -8948,50 +8948,50 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'CustomerActivityType',
+          name: ' CustomerActivityType',
         },
         {
-          name: 'OrderProps',
+          name: ' OrderProps',
           type: "{\n  providerId: ServicesIds;\n  orderId: string;\n  orderName: string;\n  orderPrice: number;\n  discount: number;\n  discountCode: string[];\n  itemsPurchased: (ProductProps & { quantity: number })[];\n  orderTags: string[];\n  fulfillmentStatus: 'fulfilled' | 'partial' | 'unfulfilled';\n}",
         },
         {
-          name: 'ProductProps',
+          name: ' ProductProps',
           type: '{\n  productTitle: string;\n  variantTitle: string;\n  sku: string;\n  imgUrl: string;\n  price: number;\n}',
         },
         {
-          name: 'CartActionProps',
+          name: ' CartActionProps',
           type: 'ProductProps & {\n  providerId: ServicesIds;\n  quantity: number;\n}',
         },
         {
-          name: 'AdProps',
+          name: ' AdProps',
           type: '{\n  source: ServicesIds;\n  campaignName: string;\n  adSetName: string;\n  adName: string;\n  adImgUrl?: string;\n}',
         },
         {
-          name: 'ViewdPageProps',
+          name: ' ViewdPageProps',
           type: "{\n  pageType?: 'collection' | 'product' | 'cart' | 'confirmation',\n  url: string;\n  fullUrl?: string;\n  title?: string;\n  referrer?: string;\n} & Partial<AdProps> & Partial<ProductProps>",
         },
         {
-          name: 'PPSProps',
+          name: ' PPSProps',
           type: '{\n  questions: {\n    question: string;\n    answer: string;\n  }[];\n}',
         },
         {
-          name: 'SubscriptionProps',
+          name: ' SubscriptionProps',
           type: "{\n  providerId: ServicesIds;\n  productName: string;\n  orderPrice: number;\n  orderIntervalUntis: 'week' | 'month' | 'day';\n  orderIntervalValue: number;\n}",
         },
         {
-          name: 'EmailSMSCampaignProps',
+          name: ' EmailSMSCampaignProps',
           type: '{\n  source: ServicesIds;\n  campaignName: string;\n}',
         },
         {
-          name: 'ActivityProperties',
+          name: ' ActivityProperties',
           type: '{\n  [CustomerActivityType.PlacedOrder]: OrderProps;\n  [CustomerActivityType.AddedToCart]: CartActionProps;\n  [CustomerActivityType.RemovedFromCart]: CartActionProps;\n  [CustomerActivityType.ClickedOnAd]: AdProps;\n  [CustomerActivityType.ClickedEmailSMSCampaign]: EmailSMSCampaignProps;\n  [CustomerActivityType.ViewedPage]: ViewdPageProps;\n  [CustomerActivityType.PostPurchaseSurveySubmitted]: PPSProps;\n  [CustomerActivityType.StartedSubscription]: SubscriptionProps;\n}',
         },
         {
-          name: 'CustomerActivity',
+          name: ' CustomerActivity',
           type: '{\n  eventDate: string;\n} & { [key in CustomerActivityType]: { type: key; properties: ActivityProperties[key] } }[CustomerActivityType]',
         },
         {
-          name: 'CustomerActivityParams',
+          name: ' CustomerActivityParams',
           type: '{\n  shopId: string;\n  shopifyCustomerId: string;\n  tripleIds?: string[];\n  startDate: string;\n  endDate: string;\n}',
         },
       ],
@@ -9001,7 +9001,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'FilterComparator',
+          name: ' FilterComparator',
         },
         {
           name: ' STRING_COMPARATORS',
@@ -9032,23 +9032,23 @@ export default {
           type: '{ [key in FilterPropertyType]: readonly FilterComparator[] }',
         },
         {
-          name: 'StringComparator',
+          name: ' StringComparator',
           type: '(typeof STRING_COMPARATORS)[number]',
         },
         {
-          name: 'BooleanComparator',
+          name: ' BooleanComparator',
           type: '(typeof BOOLEAN_COMPARATOR)[number]',
         },
         {
-          name: 'NumberComparator',
+          name: ' NumberComparator',
           type: '(typeof NUMBER_COMPARATORS)[number]',
         },
         {
-          name: 'ListComparator',
+          name: ' ListComparator',
           type: '(typeof LIST_COMPARATORS)[number]',
         },
         {
-          name: 'ArrayComparator',
+          name: ' ArrayComparator',
           type: '(typeof FIELD_ARRAY_COMPARATORS)[number]',
         },
       ],
@@ -9058,15 +9058,15 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'FilterPropertyType',
+          name: ' FilterPropertyType',
         },
         {
           type: 'enum',
-          name: 'FilterPropertyCategory',
+          name: ' FilterPropertyCategory',
         },
         {
           type: 'enum',
-          name: 'FilterProperty',
+          name: ' FilterProperty',
         },
       ],
     },
@@ -9075,18 +9075,18 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'FilterTimeUnit',
+          name: ' FilterTimeUnit',
         },
         {
-          name: 'InsightsFilterCondition',
+          name: ' InsightsFilterCondition',
           type: '{\n  comparator: FilterComparator;\n  value?: any;\n  value1?: any;\n  value2?: any;\n  unit?: FilterTimeUnit;\n  property: FilterProperty;\n}',
         },
         {
-          name: 'InsightsFilterQuery',
+          name: ' InsightsFilterQuery',
           type: 'InsightsFilterCondition[]',
         },
         {
-          name: 'InsightsFilter',
+          name: ' InsightsFilter',
           type: "{\n  id: string;\n  name: string;\n  query: InsightsFilterQuery;\n  relationOperator: 'AND' | 'OR';\n}",
         },
       ],
@@ -9108,7 +9108,7 @@ export default {
       file: '@tw/types/services/insights/productAnalytics.ts',
       exports: [
         {
-          name: 'ProductAnalyticsParams',
+          name: ' ProductAnalyticsParams',
           type: "{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  includeFreeProducts: boolean;\n  includeOnlyActiveProducts: boolean;\n  page: number;\n  limit?: number;\n  sortBy: string;\n  sortDirection: 'asc' | 'desc';\n  groupBy:\n  | FilterProperty.PRODUCT_ID\n  | FilterProperty.PRODUCT_VARIANT_ID\n  granularity: 'month' | 'week' | 'day' | 'hour';\n  searchTerm?: string;\n  productId?: string;\n  filters: InsightsFilterQuery[];\n}",
         },
       ],
@@ -9117,15 +9117,15 @@ export default {
       file: '@tw/types/services/insights/productJourney.ts',
       exports: [
         {
-          name: 'ProductJourneyParans',
+          name: ' ProductJourneyParans',
           type: '{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  filters?: InsightsFilterQuery[];\n  CDPSegmentId?: string;\n  top: number;\n  limit?: number;\n  searchTerm?: string;\n}',
         },
         {
-          name: 'ProductJourneyItem',
+          name: ' ProductJourneyItem',
           type: '{\n  id: string;\n  name: string;\n  topItems: ProductJourneyItem[];\n  totalOrders: number;\n  totalNextOrders: number;\n}',
         },
         {
-          name: 'ProductJourneyData',
+          name: ' ProductJourneyData',
           type: '{\n  products: ProductJourneyItem[]\n}',
         },
       ],
@@ -9134,15 +9134,15 @@ export default {
       file: '@tw/types/services/insights/salesCycle.ts',
       exports: [
         {
-          name: 'TimeBetweenPurchasesParams',
+          name: ' TimeBetweenPurchasesParams',
           type: '{\n  shopId: string;\n  startDate: string;\n  endDate: string;\n  filters?: InsightsFilterQuery[];\n  includeReturns?: boolean;\n  limit?: number;\n  CDPSegmentId?: string;\n}',
         },
         {
-          name: 'TimeBetweenPurchases',
+          name: ' TimeBetweenPurchases',
           type: '{\n  days: number;\n  totalOrders: number;\n}',
         },
         {
-          name: 'TimeBetweenPurchasesResponse',
+          name: ' TimeBetweenPurchasesResponse',
           type: '{\n  secondOrder: TimeBetweenPurchases[],\n  thirdOrder: TimeBetweenPurchases[],\n  fourthOrder: TimeBetweenPurchases[]\n}',
         },
       ],
@@ -9151,7 +9151,7 @@ export default {
       file: '@tw/types/services/job-manager/dto/CreateJobRequest.ts',
       exports: [
         {
-          name: 'CreateJobRequest',
+          name: ' CreateJobRequest',
           type: '{\n  shopDomain: string;\n  serviceId: ServicesIds;\n  jobType: JobType;\n  dataType?: DataTypesIds;\n  day?: string;\n  total?: number;\n  forceExternalFetch?: boolean;\n  checkBefore?: boolean;\n  resetDataBefore?: boolean;\n  force?: boolean;\n  accountIds?: string[];\n  resetShopServices?: boolean;\n  healthCheckType?: HealthCheckType;\n  fromTrends?: boolean;\n}',
         },
       ],
@@ -9160,7 +9160,7 @@ export default {
       file: '@tw/types/services/job-manager/dto/IntegrationCreateJobRequest.ts',
       exports: [
         {
-          name: 'IntegrationCreateJobRequest',
+          name: ' IntegrationCreateJobRequest',
           type: 'Partial<SingleIntegrationJob> & {\n  day?: string;\n  checkBefore?: boolean;\n  resetDataBefore?: boolean;\n  force?: boolean;\n}',
         },
       ],
@@ -9169,7 +9169,7 @@ export default {
       file: '@tw/types/services/job-manager/dto/IntegrationUpdateTodayRequest.ts',
       exports: [
         {
-          name: 'IntegrationUpdateTodayRequest',
+          name: ' IntegrationUpdateTodayRequest',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  subAccountIds?: string[];\n}',
         },
       ],
@@ -9178,7 +9178,7 @@ export default {
       file: '@tw/types/services/job-manager/dto/RestartJobRequest.ts',
       exports: [
         {
-          name: 'RestartJobRequest',
+          name: ' RestartJobRequest',
           type: '{\n  jobID: string;\n}',
         },
       ],
@@ -9187,7 +9187,7 @@ export default {
       file: '@tw/types/services/job-manager/dto/UpdateTodayRequest.ts',
       exports: [
         {
-          name: 'UpdateTodayRequest',
+          name: ' UpdateTodayRequest',
           type: '{\n  shopDomain: string;\n  serviceId: ServicesIds;\n  accountIds?: string[];\n}',
         },
       ],
@@ -9200,15 +9200,15 @@ export default {
       file: '@tw/types/services/job-manager/entities/IntegrationJob.ts',
       exports: [
         {
-          name: 'IntegrationJob',
+          name: ' IntegrationJob',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  type: JobType;\n  status: JobStatus;\n}',
         },
         {
-          name: 'SingleIntegrationJob',
+          name: ' SingleIntegrationJob',
           type: '{\n  id: string;\n  serviceId: ServicesIds;\n  dataType: DataTypesIds;\n  jobType: JobType;\n  accountId: string;\n  subAccountIds: string[];\n  currentIndex: number;\n  total: number;\n  status: JobStatus;\n  startDay: string;\n  successful: boolean;\n  createdAt: string;\n  updatedAt: string;\n  finishedAt: string;\n  requestCancel: boolean;\n  forceExternalFetch?: boolean;\n}',
         },
         {
-          name: 'IntegrationJobResponse',
+          name: ' IntegrationJobResponse',
           type: 'SingleIntegrationJob[]',
         },
       ],
@@ -9217,11 +9217,11 @@ export default {
       file: '@tw/types/services/job-manager/entities/Job.ts',
       exports: [
         {
-          name: 'JobStatus',
+          name: ' JobStatus',
           type: "'in_progress' | 'done' | 'queued'",
         },
         {
-          name: 'AllJobsStatus',
+          name: ' AllJobsStatus',
           type: '{\n  [status in JobStatus]: status;\n}',
         },
         {
@@ -9229,15 +9229,15 @@ export default {
           type: 'AllJobsStatus',
         },
         {
-          name: 'Job',
+          name: ' Job',
           type: '{\n  service_id: ServicesIds;\n  type: JobType;\n  status: JobStatus;\n}',
         },
         {
-          name: 'SingleJob',
+          name: ' SingleJob',
           type: '{\n  id: string;\n  serviceId: ServicesIds;\n  dataType: DataTypesIds;\n  jobType: JobType;\n  shopDomain: string;\n  currentIndex: number;\n  total: number;\n  status: JobStatus;\n  startDay: string;\n  successful: boolean;\n  createdAt: string;\n  updatedAt: string;\n  finishedAt: string;\n  requestCancel: boolean;\n  forceExternalFetch?: boolean;\n}',
         },
         {
-          name: 'JobResponse',
+          name: ' JobResponse',
           type: 'SingleJob[]',
         },
       ],
@@ -9254,7 +9254,7 @@ export default {
       file: '@tw/types/services/queue-manager/cancelTaskRequest.ts',
       exports: [
         {
-          name: 'QMCancelTaskRequest',
+          name: ' QMCancelTaskRequest',
           type: '{\n  accountId?: string;\n  endpoints?: string[];\n  jobType?: JobType;\n  jobId?: string;\n  groupId?: string;\n  pendingRedisKeys?: string[];\n  pendingRedisKeyPrefix?: string;\n}',
         },
       ],
@@ -9267,7 +9267,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/cancelSubscriptionRequest.ts',
       exports: [
         {
-          name: 'cancelSubscriptionRequest',
+          name: ' cancelSubscriptionRequest',
           type: '{\n  primaryCancelReason?: string; //reason selected from primary dropdown list for cancel\n  secondaryCancelReason?: string; //reason selected secondary from dropdown list for cancel\n  shopNotes?: string; //whatever additional notes CS wants to add\n  numInvoiceRefund?: number; //number of invoices to refund - this is not implemented yet, maybe needs a separate endpoint\n  isCancelNow?:boolean; //cancel now, if not - cancel at the end of the period (billing cycle)\n}',
         },
       ],
@@ -9276,7 +9276,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/createHubSpotRequest.ts',
       exports: [
         {
-          name: 'createHubSpotRequest',
+          name: ' createHubSpotRequest',
           type: "{\n  email: string;\n  shopDomain?: string;\n  firstName?: string;\n  lastName?: string;\n  referrer?: string;\n  phone?: string;\n  accountType?: 'AGENCY' | 'BRAND';\n  plans?: string[];\n  revenue?: string;\n  agencyUrl?: string;\n  shopCount?: number;\n  source?: 'INVITATION' | 'SIGNUP';\n  agencyName?: string;\n  contractType?: subscriptionType;\n}",
         },
       ],
@@ -9285,11 +9285,11 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/createSubscriptionRequest.ts',
       exports: [
         {
-          name: 'KeyValueObj',
+          name: ' KeyValueObj',
           type: '{ key: string; value: string }',
         },
         {
-          name: 'createSubscriptionRequest',
+          name: ' createSubscriptionRequest',
           type: "{\n  email?: string;\n  firstName?: string;\n  lastName?: string;\n  accountType?: string;\n  shopDomain: string;\n  metadata?: KeyValueObj[];\n  prices?: string[];\n  paymentMethodId?: string | Stripe.PaymentMethod;\n  customerId?: string;\n  promotionId?: string;\n  revenueId?: Number;\n  shopNotes?: string;\n  contractEndDate?: string | Date;\n  contractType?: subscriptionType;\n  collectionMethod?: 'charge_automatically' | 'send_invoice';\n  _3_0?: number;\n}",
         },
       ],
@@ -9298,7 +9298,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/createSubscriptionsAgencyRequest.ts',
       exports: [
         {
-          name: 'createSubscriptionsAgencyRequest',
+          name: ' createSubscriptionsAgencyRequest',
           type: '{\n  email: string;\n  firstName?: string;\n  lastName?: string;\n  accountType?: string;\n  metadata?: KeyValueObj[];\n  subscriptions: shopRequest[];\n  paymentMethodId: string | Stripe.PaymentMethod;\n  customerId?: string;\n  promotionId?: string;\n}',
         },
       ],
@@ -9307,7 +9307,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/generatePromotionCodeRequest.ts',
       exports: [
         {
-          name: 'generatePromotionCodeRequest',
+          name: ' generatePromotionCodeRequest',
           type: '{\n  coupon: string;\n  code?: string;\n  max_redemptions?: number;\n  expires_at?: number;\n}',
         },
       ],
@@ -9316,7 +9316,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/getByShopDomain.ts',
       exports: [
         {
-          name: 'getByShopDomain',
+          name: ' getByShopDomain',
           type: '{\n  shopDomain: string;\n}',
         },
       ],
@@ -9329,7 +9329,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/onboardingResponse.ts',
       exports: [
         {
-          name: 'onboardingResponse',
+          name: ' onboardingResponse',
           type: '{\n  shop: string;\n  user: string;\n  completePercentage: number;\n  completeCount: number;\n  taskCount: number;\n  recomendedTasks: onboardingTaskInfo[];\n  criticalTasks: onboardingTaskInfo[];\n}',
         },
       ],
@@ -9339,18 +9339,18 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'TASK_TYPE',
+          name: ' TASK_TYPE',
         },
         {
           type: 'enum',
-          name: 'TASK_LEVEL',
+          name: ' TASK_LEVEL',
         },
         {
           type: 'enum',
-          name: 'TASK_STATUS',
+          name: ' TASK_STATUS',
         },
         {
-          name: 'onboardingTask',
+          name: ' onboardingTask',
           type: '{\n  id: string;\n  name: string;\n  description: string;\n  order: number;\n  type: TASK_TYPE;\n  completeText: string;\n  uncompleteText: string;\n  level: TASK_LEVEL;\n  action: string;\n  lockedByFeature?: SubscriptionFeature | FeatureFlag; // TODO: Deprecate - clean up shop docs with this field - no longer in use\n  lockedByFeatureFlag?: FeatureFlag;\n}',
         },
       ],
@@ -9359,7 +9359,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/onboardingTaskInfo.ts',
       exports: [
         {
-          name: 'onboardingTaskInfo',
+          name: ' onboardingTaskInfo',
           type: 'onboardingTask & {\n  status: TASK_STATUS;\n  statusText: string;\n  info?: any;\n  skipped?: boolean;\n}',
         },
       ],
@@ -9368,7 +9368,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/pauseSubscriptionRequest.ts',
       exports: [
         {
-          name: 'pauseSubscriptionRequest',
+          name: ' pauseSubscriptionRequest',
           type: '{\n  reason?: string; //reason selected from dropdown list for pause\n  shopNotes?: string; //whatever additional notes CS wants to add !!!! it overwrites current shop notes !!!\n  resumesAt?: Date; // date to re-enable invoice charging\n  explanation?: String; //explanation for pause\n}',
         },
       ],
@@ -9377,7 +9377,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/priceInfo.ts',
       exports: [
         {
-          name: 'PriceInfo',
+          name: ' PriceInfo',
           type: '{ price_id: string; price: number }',
         },
       ],
@@ -9386,7 +9386,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/pricingOffer.ts',
       exports: [
         {
-          name: 'pricingOffer',
+          name: ' pricingOffer',
           type: '{\n  user?: string;\n  creationDate?: Date;\n  expirationDate?: Date;\n  prices: { price_id: string; product_id: string }[];\n  revenue?: number;\n  coupon?: coupon;\n  promotionCode?: { id: string; code: string };\n  usedAt?: Date;\n}',
         },
       ],
@@ -9395,7 +9395,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/requiresActionNotification.ts',
       exports: [
         {
-          name: 'requiresActionNotification',
+          name: ' requiresActionNotification',
           type: '{\n  requires_action: boolean;\n  payment_intent_client_secret: string;\n  shop_domain: string;\n}',
         },
       ],
@@ -9404,7 +9404,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/stipeData.ts',
       exports: [
         {
-          name: 'StripeData',
+          name: ' StripeData',
           type: '{\n  store_url: string;\n  subscription_id: string;\n  subscription_status: string;\n  subscription_start_date: string;\n  triple_whale: string;\n  pixel: string;\n  creative_cockpit: string;\n  affluencer_hub: string;\n  triple_whale_price: number;\n  pixel_price: number;\n  creative_cockpit_price: number;\n  affluencer_hub_price: number;\n  total: number;\n  discount?: string;\n}',
         },
       ],
@@ -9413,7 +9413,7 @@ export default {
       file: '@tw/types/services/subscription-manager/dto/updateSubscriptionRequest.ts',
       exports: [
         {
-          name: 'updateSubscriptionRequest',
+          name: ' updateSubscriptionRequest',
           type: '{\n  subscribe: string[];\n  unsubscribe: string[];\n  coupon?: string;\n  promotionCodeId?: string;\n  revenueId?: number;\n  paymentMethodId?: string | Stripe.PaymentMethod;\n  shopNotes?: string;\n  offerRedemption?: boolean;\n  cancelAtPeriodEnd?: boolean;\n  contractEndDate?: string | Date;\n  contractType?: subscriptionType;\n}',
         },
       ],
@@ -9422,7 +9422,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/billingInterval.ts',
       exports: [
         {
-          name: 'BillingInterval',
+          name: ' BillingInterval',
           type: '"month" | "year"',
         },
       ],
@@ -9431,7 +9431,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/coupon.ts',
       exports: [
         {
-          name: 'coupon',
+          name: ' coupon',
           type: '{\n  id: string;\n  name: string;\n  amount_off: string | number | null;\n  percent_off: number;\n}',
         },
       ],
@@ -9444,7 +9444,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/shopRequest.ts',
       exports: [
         {
-          name: 'shopRequest',
+          name: ' shopRequest',
           type: '{\n  shopDomain: string;\n  prices: string[];\n  revenueId?: Number;\n  shopNotes?: string;\n  subscriptionType?: subscriptionType;\n}',
         },
       ],
@@ -9453,7 +9453,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/subscription.ts',
       exports: [
         {
-          name: 'subscription',
+          name: ' subscription',
           type: "{\n  subscription: string;\n  shop: string;\n  customer: string;\n  email: string;\n  status: string;\n  revenue: number;\n  last_four: string;\n  payment_method: string;\n  card_brand: string;\n  notes: string;\n  cancel_reason: string | null;\n  cancel_at_period_end: boolean;\n  pause_collection_behavior: string;\n  pause_collection_resumes_at: Date;\n  items: subscriptionItem[];\n  features: string[];\n  coupon: coupon | null;\n  promotion_code: string | null;\n  full_price: number;\n  total_price: number;\n  billing_cycle: string;\n  old_revenue: number | null;\n  created_at: string;\n  current_period_start: string;\n  current_period_end: string;\n  pause_reason: string | null;\n  origin: string | null;\n  uncapped: boolean;\n  uncapped_until: string | null;\n  uncapped_tier: string | null;\n  contract_end_date?: string | Date;\n  contract_type?: subscriptionType;\n  collection_method?: 'charge_automatically' | 'send_invoice';\n}",
         },
       ],
@@ -9462,7 +9462,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/subscriptionItem.ts',
       exports: [
         {
-          name: 'subscriptionItem',
+          name: ' subscriptionItem',
           type: '{\n  subscription_item: string;\n  price: number;\n  description: string;\n  product_name: string;\n  product_id: string;\n  price_id: string;\n  early_birds: boolean;\n  plan_preview_start_date?: string;\n  plan_preview_end_date?: string;\n  billing_interval?: BillingInterval;\n}',
         },
       ],
@@ -9471,11 +9471,11 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/subscriptionPlan.ts',
       exports: [
         {
-          name: 'SubscriptionPlanType',
+          name: ' SubscriptionPlanType',
           type: "'package' | 'addon'",
         },
         {
-          name: 'subscriptionPlan',
+          name: ' subscriptionPlan',
           type: '{\n  price_id: string;\n  description: string;\n  price: string;\n  revenue_name: string;\n  revenue_id: number;\n  early_birds: boolean;\n  for_sale: boolean;\n  product_id: string;\n  product_sort: number;\n  product_name: string;\n  product_description: string;\n  product_flag: SubscriptionFeature;\n  dependencies: string[];\n  billing_interval: BillingInterval | null;\n  product_type?: SubscriptionPlanType | null;\n  product_msp: SalesPlatform | null;\n  type?: string;\n  interval_count: number;\n  features?: SubscriptionFeature[];\n  product_alpha?: boolean;\n  tw_free?: boolean;\n  plan_preview?: boolean;\n  contract_type?: subscriptionType;\n}',
         },
       ],
@@ -9484,7 +9484,7 @@ export default {
       file: '@tw/types/services/subscription-manager/entities/subscriptionRevenue.ts',
       exports: [
         {
-          name: 'subscriptionRevenue',
+          name: ' subscriptionRevenue',
           type: '{\n    id: number;\n    min: number;\n    max: number;\n    name:string;\n    description:string;\n}',
         },
       ],
@@ -9494,10 +9494,10 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'subscriptionTypes',
+          name: ' subscriptionTypes',
         },
         {
-          name: 'subscriptionType',
+          name: ' subscriptionType',
           type: 'keyof typeof subscriptionTypes',
         },
       ],
@@ -9510,16 +9510,16 @@ export default {
       file: '@tw/types/services/users/app-request.ts',
       exports: [
         {
-          name: 'CreateAppRequest',
+          name: ' CreateAppRequest',
           type: '{\n  name: string;\n  email: string;\n  company: string;\n  phone: string;\n  logoUrl: string;\n  tosUrl?: string;\n  policyUrl?: string;\n  appUrl: string;\n  purpose: string;\n  redirectUrls: string[];\n  scopes: SupportedScopes[];\n}',
         },
         {
-          name: 'AppRequest',
+          name: ' AppRequest',
           type: 'CreateAppRequest & {\n  _id: string;\n  status: AppRequestStatus;\n  handledAt: Date;\n  createdAt?: Date;\n  updatedAt?: Date;\n  statusActionReason: string;\n}',
         },
         {
           type: 'enum',
-          name: 'AppRequestStatus',
+          name: ' AppRequestStatus',
         },
       ],
     },
@@ -9531,44 +9531,44 @@ export default {
       file: '@tw/types/services/users/oauth.ts',
       exports: [
         {
-          name: 'RequestWithUser',
+          name: ' RequestWithUser',
           type: 'Request & { user: FirebaseUser | HydraApp | undefined }',
         },
         {
           type: 'enum',
-          name: 'ConsentSubmitType',
+          name: ' ConsentSubmitType',
         },
         {
-          name: 'RequestBodyWithUser',
+          name: ' RequestBodyWithUser',
           type: '{\n  body: Body;\n} & RequestWithUser',
         },
         {
-          name: 'RequestNoSecurity',
+          name: ' RequestNoSecurity',
           type: '{\n  body: Body;\n} & Request',
         },
         {
           type: 'enum',
-          name: 'SupportedScopes',
+          name: ' SupportedScopes',
         },
         {
-          name: 'Oauth2CreateUpdateClient',
+          name: ' Oauth2CreateUpdateClient',
           type: '{\n  clientName: string;\n  clientUri: string;\n  tosUri?: string;\n  redirectUris: string[];\n  email?: string;\n  phone?: string;\n  scopes: SupportedScopes[];\n  policyUri?: string;\n  logoUri: string;\n}',
         },
         {
-          name: 'OauthRequest',
+          name: ' OauthRequest',
           type: '{\n  body: Body;\n} & RequestWithUser',
         },
         {
-          name: 'Oauth2GetClientFilter',
+          name: ' Oauth2GetClientFilter',
           type: '{\n  limit?: number;\n  clientName: string;\n} & RequestWithUser',
         },
         {
-          name: 'Oauth2ConsentAccept',
+          name: ' Oauth2ConsentAccept',
           type: '{\n  scopes?: string[];\n  shopId?: string;\n  type?: ConsentSubmitType;\n  error?: string;\n  error_description?: string;\n  clientId?: string;\n  clientName?: string;\n}',
         },
         {
           name: ' scopesCopy',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -9576,51 +9576,51 @@ export default {
       file: '@tw/types/sonic/clickhouse.ts',
       exports: [
         {
-          name: 'ClickhouseColumnTypes',
+          name: ' ClickhouseColumnTypes',
           type: '| ClickhouseColumnBaseTypes\n  | `LowCardinality(${ClickhouseColumnBaseTypes})`\n  | `DateTime64(${1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9})`\n  | `Tuple(${string})`',
         },
         {
-          name: 'ClickhouseTableColumn',
+          name: ' ClickhouseTableColumn',
           type: 'interface',
         },
         {
-          name: 'ClickhouseTableIndex',
+          name: ' ClickhouseTableIndex',
           type: 'interface',
         },
         {
-          name: 'ClickHouseTableColumn',
+          name: ' ClickHouseTableColumn',
           type: 'interface',
         },
         {
-          name: 'ClickhouseBaseColumn',
+          name: ' ClickhouseBaseColumn',
           type: "Omit<ClickHouseTableColumn, 'defaultKind'> & {\n  nullable?: boolean;\n  array?: boolean;\n  pii?: boolean;\n  sii?: boolean;\n  defaultKind?: 'DEFAULT' | 'MATERIALIZED' | 'EPHEMERAL' | 'ALIAS';\n}",
         },
         {
-          name: 'ClickhouseStandardColumn',
+          name: ' ClickhouseStandardColumn',
           type: "Omit<ClickhouseBaseColumn, 'type'> & {\n  type: ClickhouseColumnTypes;\n}",
         },
         {
-          name: 'ClickhouseNestedColumn',
+          name: ' ClickhouseNestedColumn',
           type: "Omit<ClickhouseBaseColumn, 'type'> & {\n  type: 'Nested';\n  columns: ClickhouseColumn[];\n}",
         },
         {
-          name: 'ClickhouseColumn',
+          name: ' ClickhouseColumn',
           type: 'ClickhouseStandardColumn | ClickhouseNestedColumn',
         },
         {
-          name: 'ClickhouseColumnUnnested',
+          name: ' ClickhouseColumnUnnested',
           type: "Omit<ClickhouseColumn, 'type'> & {\n  type: string;\n}",
         },
         {
-          name: 'indexTypes',
+          name: ' indexTypes',
           type: "'minmax' | 'set' | 'bloom_filter' | 'tokenbf_v1' | 'ngrambf_v1'",
         },
         {
-          name: 'ClickhouseIndex',
+          name: ' ClickhouseIndex',
           type: "Omit<ClickhouseTableIndex, 'type'> & {\n  type: indexTypes;\n}",
         },
         {
-          name: 'ClickhouseTableEngines',
+          name: ' ClickhouseTableEngines',
           type: "| 'MergeTree'\n  | 'ReplicatedMergeTree'\n  | 'Distributed'\n  | 'ReplacingMergeTree'\n  | 'Kafka'\n  | 'ReplicatedReplacingMergeTree'\n  | 'Null'",
         },
       ],
@@ -9633,7 +9633,7 @@ export default {
       file: '@tw/types/types/AccountHealthReport.ts',
       exports: [
         {
-          name: 'AccountHealthReport',
+          name: ' AccountHealthReport',
           type: '{\n  allAccounts: Record<string, Partial<MetricsTableDataWithCurrency>>;\n  errors: Record<string, any>;\n}',
         },
       ],
@@ -9642,19 +9642,19 @@ export default {
       file: '@tw/types/types/ActivityFeed.ts',
       exports: [
         {
-          name: 'Activity',
+          name: ' Activity',
           type: '{\n  id: string;\n  activityKey?: string;\n  type: ActivityType;\n  date: Date;\n  shopId: string;\n  annotation: boolean;\n  serviceId: ServicesIds;\n  entity?: ActivityEntity;\n  accountId?: string;\n  entityId?: string;\n  entityName?: string;\n  field?: ActivityField;\n  from?: any;\n  to?: any;\n  title?: string;\n  description?: string;\n  source?: string;\n  author?: string;\n}',
         },
         {
-          name: 'ActivityType',
+          name: ' ActivityType',
           type: "'create' | 'update' | 'delete' | 'sent'",
         },
         {
-          name: 'ActivityEntity',
+          name: ' ActivityEntity',
           type: "| 'order'\n  | 'product'\n  | 'variant'\n  | 'collection'\n  | 'theme'\n  | 'campaign'\n  | 'adset'\n  | 'ad'\n  | 'cdp_segment'\n  | 'sms_flow'\n  | 'email_flow'\n  | 'post_purchase_survey'\n  | 'integration'\n  | 'new_user'\n  | 'media'",
         },
         {
-          name: 'ActivityField',
+          name: ' ActivityField',
           type: "| 'status'\n  | 'name'\n  | 'daily_budget'\n  | 'sync_to_facebook'\n  | 'sync_to_klaviyo'\n  | 'lifetime_budget'\n  | 'bid_amount'\n  | 'inStock'\n  | 'price'",
         },
       ],
@@ -9663,15 +9663,15 @@ export default {
       file: '@tw/types/types/AdMgmtAuditsRequest.ts',
       exports: [
         {
-          name: 'AdMgmtAuditLogsFilterOperator',
+          name: ' AdMgmtAuditLogsFilterOperator',
           type: "'contains' | 'not_contains' | 'equals' | 'not_equals'",
         },
         {
-          name: 'AdMgmtAuditLogsFilterOperands',
+          name: ' AdMgmtAuditLogsFilterOperands',
           type: "'entity' | 'name' | 'user' | 'status'",
         },
         {
-          name: 'AdMgmtAuditLogsRequest',
+          name: ' AdMgmtAuditLogsRequest',
           type: '{\n  segments?: FilterExpressions<AdMgmtAuditLogsFilterOperands, AdMgmtAuditLogsFilterOperator>[];\n  shop: string;\n  start: string;\n  end: string;\n}',
         },
       ],
@@ -9680,7 +9680,7 @@ export default {
       file: '@tw/types/types/AdProductHandle.ts',
       exports: [
         {
-          name: 'AdProductHandle',
+          name: ' AdProductHandle',
           type: '{\n  handle: string;\n  weight: number;\n}',
         },
       ],
@@ -9689,7 +9689,7 @@ export default {
       file: '@tw/types/types/AdsSortBy.ts',
       exports: [
         {
-          name: 'AdsSortBy',
+          name: ' AdsSortBy',
           type: "Pick<AnalyticsAttributes, 'name'> | MetricsKeys",
         },
       ],
@@ -9698,23 +9698,23 @@ export default {
       file: '@tw/types/types/AnalyticsAttributes.ts',
       exports: [
         {
-          name: 'AnalyticsObjectType',
+          name: ' AnalyticsObjectType',
           type: "'channel' | 'adAccount' | 'campaign' | 'adset' | 'ad'",
         },
         {
-          name: 'AttributeStatus',
+          name: ' AttributeStatus',
           type: "'ACTIVE' | 'PAUSED' | 'CANCELED'",
         },
         {
           name: ' budgetTypeArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'BudgetType',
+          name: ' BudgetType',
           type: '(typeof budgetTypeArr)[number]',
         },
         {
-          name: 'AllAttributeStatus',
+          name: ' AllAttributeStatus',
           type: '{\n  [status in AttributeStatus]: status;\n}',
         },
         {
@@ -9722,11 +9722,11 @@ export default {
           type: 'AllAttributeStatus',
         },
         {
-          name: 'AnalyticsAttributes',
+          name: ' AnalyticsAttributes',
           type: '{\n  id: string; // serviceId.dataType#accountId#campaignId#adsetId#adId\n  serviceId: ServicesIds;\n  dataType: DataTypesIds;\n  accountId: string;\n  campaignId?: string;\n  adsetId?: string;\n  adId?: string;\n  entity: AnalyticsObjectType;\n  name: string;\n  campaignName?: string;\n  adsetName?: string;\n  status: AttributeStatus;\n  budget?: number;\n  budgetType?: BudgetType;\n  imageUrl?: string;\n  currency?: string;\n  timezone?: string;\n  urlParams?: string;\n  creatives?: CreativeAttributes[];\n  moreData?: any;\n  adType?: number;\n  campaignType?: string | number;\n  isDynamicCreativeAdset?: boolean;\n  campaignObjective?: string;\n  links?: string[];\n  productHandles?: string[];\n  bodies?: string[];\n  titles?: string[];\n  videoIds?: string[];\n  images?: string[];\n  callToActionTypes?: string[];\n}',
         },
         {
-          name: 'allAnalyticsAttributes',
+          name: ' allAnalyticsAttributes',
           type: '{\n  [attr in PickByType<keyof AnalyticsAttributes, string | number>]: attr;\n}',
         },
         {
@@ -9739,15 +9739,15 @@ export default {
       file: '@tw/types/types/AttributesRequestParams.ts',
       exports: [
         {
-          name: 'AttributesRequestParams',
+          name: ' AttributesRequestParams',
           type: "{\n  entity: Exclude<Entity, 'channel' | 'ad_account'>;\n  service_id: ServicesIds;\n  data_type: DataTypesIds;\n  account_ids: string[];\n  campaign_ids?: string[];\n  adset_ids?: string[];\n  ad_ids?: string[];\n  shop_id?: string;\n}",
         },
         {
-          name: 'AttributesRequestByIdParams',
+          name: ' AttributesRequestByIdParams',
           type: "{\n  entity: Exclude<Entity, 'channel' | 'ad_account'>;\n  id: string;\n}",
         },
         {
-          name: 'AttributesRequestByNameParams',
+          name: ' AttributesRequestByNameParams',
           type: "{\n  service_id: ServicesIds;\n  data_type: DataTypesIds;\n  account_ids: string[];\n  name: string;\n  entity: Exclude<Entity, 'channel'>;\n}",
         },
       ],
@@ -9756,59 +9756,59 @@ export default {
       file: '@tw/types/types/Attribution.ts',
       exports: [
         {
-          name: 'AttributionGroups',
+          name: ' AttributionGroups',
           type: "'campaign_id' | 'adset_id' | 'ad_id'",
         },
         {
-          name: 'AttributionAdRequest',
+          name: ' AttributionAdRequest',
           type: '{\n  service_id: string;\n  account_ids: string[];\n  campaign_id?: string;\n  adset_id?: string;\n} & BaseAttributionRequest',
         },
         {
-          name: 'AttributionInfluencerRequest',
+          name: ' AttributionInfluencerRequest',
           type: '{\n  campaign_id?: string;\n  isSummary?: boolean;\n} & BaseAttributionRequest',
         },
         {
-          name: 'AttributionMetricsBreakdown',
+          name: ' AttributionMetricsBreakdown',
           type: 'interface',
         },
         {
-          name: 'AttributionMetrics',
+          name: ' AttributionMetrics',
           type: 'interface',
         },
         {
-          name: 'AttributionResponse',
+          name: ' AttributionResponse',
           type: '{\n  metricsBreakdown: AttributionMetricsBreakdown[];\n  id: string;\n  name: string;\n  metrics: AttributionMetrics;\n}',
         },
         {
-          name: 'InfluencerAttributionResponse',
+          name: ' InfluencerAttributionResponse',
           type: 'Influencer & AttributionResponse',
         },
         {
-          name: 'RealTimeAttributionPayload',
+          name: ' RealTimeAttributionPayload',
           type: '{\n  orderId: number;\n  totalPrice: number;\n  cogs: number;\n  eventDate: string;\n  model: ModelNames;\n} & AttributionData',
         },
         {
-          name: 'LinearModelNames',
+          name: ' LinearModelNames',
           type: "'linear' | 'fullLinear' | 'linearAll' | 'linear-v2' | 'linearAll-v2'",
         },
         {
-          name: 'ModelNames',
+          name: ' ModelNames',
           type: "| 'lastClick'\n  | 'fullLastClick'\n  | 'lastPlatformClick'\n  | 'firstClick'\n  | 'fullFirstClick'\n  | 'every'\n  | 'markov'\n  | 'shapley'\n  | 'fullLastClick-v2'\n  | 'fullFirstClick-v2'\n  | 'lastPlatformClick-v2'\n  | LinearModelNames",
         },
         {
-          name: 'AttributionData',
+          name: ' AttributionData',
           type: '{\n  source: string;\n  accountId?: string;\n  campaignId: string;\n  adsetId?: string;\n  adId?: string;\n}',
         },
         {
-          name: 'AttributionObj',
+          name: ' AttributionObj',
           type: '{\n  ids: AttributionData;\n  modelName: ModelNames;\n  clickDate: string;\n  linearWeight?: number;\n}',
         },
         {
-          name: 'AttributionBreakdown',
+          name: ' AttributionBreakdown',
           type: "'source' | 'campaignId' | 'adsetId' | 'adId'",
         },
         {
-          name: 'StatRequest',
+          name: ' StatRequest',
           type: 'interface',
         },
       ],
@@ -9817,7 +9817,7 @@ export default {
       file: '@tw/types/types/AttributionDoc.ts',
       exports: [
         {
-          name: 'OrderStat',
+          name: ' OrderStat',
           type: "'order' | 'newCustomerOrder'",
         },
       ],
@@ -9826,11 +9826,11 @@ export default {
       file: '@tw/types/types/AttributionElement.ts',
       exports: [
         {
-          name: 'UnknownSource',
+          name: ' UnknownSource',
           type: 'string',
         },
         {
-          name: 'AttributionElement',
+          name: ' AttributionElement',
           type: '{\n  id: string;\n  name: string;\n  status: AttributeStatus;\n  metricsBreakdown: MetricsBreakdown[];\n  metrics: AllMetricsAndPixelMetricsKeys;\n  type: Entity;\n  image?: string;\n\n  source: ServicesIds | UnknownSource;\n\n  accountId?: string;\n\n  campaignId?: string;\n  campaignName?: string;\n\n  adsetId?: string;\n  adsetName?: string;\n\n  adId?: string;\n  adName: string;\n\n  sourceMatch?: boolean;\n  campaignMatch?: boolean;\n  adsetMatch?: boolean;\n  adMatch?: boolean;\n}',
         },
       ],
@@ -9839,19 +9839,19 @@ export default {
       file: '@tw/types/types/AttributionWindow.ts',
       exports: [
         {
-          name: 'AttributionModelNames',
+          name: ' AttributionModelNames',
           type: '| `linear-v2`\n  | `linearAll-v2`\n  | `fullLastClick-v2`\n  | `fullFirstClick-v2`\n  | `lastPlatformClick-v2`',
         },
         {
-          name: 'NewAttributionField',
+          name: ' NewAttributionField',
           type: '{\n  clickDate: string;\n  model: AttributionModelNames;\n  linearWeight: number;\n} & AttributionData & { query?: Query }',
         },
         {
-          name: 'AttributionWindowsField',
+          name: ' AttributionWindowsField',
           type: '{\n  d1?: NewAttributionField;\n  d7?: NewAttributionField;\n  d14?: NewAttributionField;\n  d28?: NewAttributionField;\n} & NewAttributionField',
         },
         {
-          name: 'NewOrderAttributionDoc',
+          name: ' NewOrderAttributionDoc',
           type: '{\n  tripleId: string;\n  sessionId?: string;\n  stat: OrderStat;\n  eventDate: string;\n  shop: string;\n  orderId: number | string;\n  totalPrice: number;\n  cogs: number;\n  linearWeight: number;\n  customerId: number;\n  firstName: string;\n  lastName: string;\n  orderName: string;\n  currency: string;\n  notes?: string;\n  docId: string;\n  isPpSurveyDuplicate?: boolean;\n  attributedFrom?: string;\n  products?: number[];\n  variants?: number[];\n  fakeUtcDate?: string;\n  utcOffset?: number;\n  path?: string;\n  device?: string;\n  browser?: string;\n  country?: string;\n  city?: string;\n  eventVersion?: number;\n  pixelVersion?: string;\n} & NewAttributionField &\n  AttributionWindowsField',
         },
       ],
@@ -9860,7 +9860,7 @@ export default {
       file: '@tw/types/types/BTFamilies.ts',
       exports: [
         {
-          name: 'BTFamilies',
+          name: ' BTFamilies',
           type: "'hours' | 'day'",
         },
       ],
@@ -9870,14 +9870,14 @@ export default {
       exports: [
         {
           name: ' CreativeTypesArray',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CreativeTypes',
+          name: ' CreativeTypes',
           type: 'typeof CreativeTypesArray[number]',
         },
         {
-          name: 'AllCreativeTypes',
+          name: ' AllCreativeTypes',
           type: '{\n  [type in CreativeTypes]: type;\n}',
         },
         {
@@ -9885,15 +9885,15 @@ export default {
           type: 'AllCreativeTypes',
         },
         {
-          name: 'CreativeAttributes',
+          name: ' CreativeAttributes',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  assetId: string;\n  assetType: CreativeTypes;\n\n  // only for creative type image / video\n  thumbnail?: string; // thumbnail_url\n\n  // only for creative type image\n  image?: string; // image_url\n\n  // only for creative type copy\n  body?: string;\n\n  // some creatives (image/video/copy) has title\n  // title?: string;\n\n  // some creatives has call to action (LEARN_MORE/SHOP_NOW etc.)\n  // callToActionType?: string; // call_to_action_type\n}',
         },
         {
-          name: 'CreativeData',
+          name: ' CreativeData',
           type: '{\n  assetId: string;\n  assetType: CreativeTypes;\n  isDynamic: boolean;\n  weight: number;\n}',
         },
         {
-          name: 'CreativeMetricsTableRow',
+          name: ' CreativeMetricsTableRow',
           type: 'CreativeData & MetricsTableRow',
         },
       ],
@@ -9902,7 +9902,7 @@ export default {
       file: '@tw/types/types/CreativeFiltersBuilder.ts',
       exports: [
         {
-          name: 'CreativeFiltersBuilder',
+          name: ' CreativeFiltersBuilder',
           type: '{\n  filtersText: string;\n  filterValues: Record<string, string>;\n}',
         },
       ],
@@ -9911,11 +9911,11 @@ export default {
       file: '@tw/types/types/CreativesHealth.ts',
       exports: [
         {
-          name: 'InternalAccountData',
+          name: ' InternalAccountData',
           type: '{\n  clicks: number,\n  spend: number,\n  impressions: number,\n  purchases: number,\n  conversionValue: number,\n  outboundClicks?:number\n}',
         },
         {
-          name: 'MetricsHelathQueryStringParams',
+          name: ' MetricsHelathQueryStringParams',
           type: '{\n  creativeCockpitEnabled:boolean;\n} & MetricsQueryStringParams',
         },
       ],
@@ -9924,39 +9924,39 @@ export default {
       file: '@tw/types/types/CreativesRequest.ts',
       exports: [
         {
-          name: 'CreativeFilterOperator',
+          name: ' CreativeFilterOperator',
           type: "| 'contains'\n  | 'not_contains'\n  | 'equals'\n  | 'not_equals'\n  | 'greater_than'\n  | 'greater_or_equal_than'\n  | 'less_than'\n  | 'less_or_equal_than'",
         },
         {
-          name: 'CreativeFilterOperands',
+          name: ' CreativeFilterOperands',
           type: "| 'campaign_id'\n  | 'campaign_name'\n  | 'adset_id'\n  | 'adset_name'\n  | 'ad_id'\n  | 'ad_name'",
         },
         {
-          name: 'CreativeMetricFilterOperands',
+          name: ' CreativeMetricFilterOperands',
           type: "| 'roas'\n  | 'cpc'\n  | 'cpm'\n  | 'spend'\n  | 'impressions'\n  | 'pixelRoas'",
         },
         {
-          name: 'CreativeFilterExpression',
+          name: ' CreativeFilterExpression',
           type: 'FilterExpression<\n  CreativeFilterOperands,\n  CreativeFilterOperator\n>',
         },
         {
-          name: 'CreativeMetricFilterExpression',
+          name: ' CreativeMetricFilterExpression',
           type: 'FilterExpression<\n  CreativeMetricFilterOperands,\n  CreativeFilterOperator\n>',
         },
         {
-          name: 'HighlightMetrics',
+          name: ' HighlightMetrics',
           type: "| keyof RawMetrics\n  | keyof RawPixelMetrics\n  | keyof Pick<CalculatedMetrics, 'roas' | 'thumbStopRatio' | 'ctr'>\n  | keyof Pick<CalculatedPixelMetrics, 'pixelRoas'>",
         },
         {
-          name: 'CreativeRequest',
+          name: ' CreativeRequest',
           type: "{\n  entity: 'ad';\n  creative_type: CreativeTypes;\n  page: number;\n  pageSize?: number;\n  pixel_attribution_model: AttributionModels;\n  pixel_date_model: AttributionDateModels;\n  // filters?: FilterExpressions<CreativeFilterOperands, CreativeFilterOperator>[];\n  filters?: FilterExpressions<CreativeMetricFilterOperands, CreativeFilterOperator>[];\n  segments?: FilterExpressions<CreativeFilterOperands, CreativeFilterOperator>[];\n  shopDomain: string;\n  includeOneDayView?: boolean;\n} & Omit<MetricsQueryStringParams, 'filters'>",
         },
         {
-          name: 'CreativeHighlightsRequest',
+          name: ' CreativeHighlightsRequest',
           type: '{\n  metrics: HighlightMetrics[];\n  page?: 0;\n} & CreativeRequest',
         },
         {
-          name: 'SegmentQuery',
+          name: ' SegmentQuery',
           type: '{\n  metrics: AllMetricsAndPixelMetricsKeys;\n  metricsBreakdown: MetricsBreakdown[];\n  numberOfAds: number;\n  thumbnails: string[];\n}',
         },
       ],
@@ -9965,11 +9965,11 @@ export default {
       file: '@tw/types/types/CurrencyConversion.ts',
       exports: [
         {
-          name: 'CurrencyConversionRequestParams',
+          name: ' CurrencyConversionRequestParams',
           type: '{\n  fromCurrency: string;\n  toCurrency: string;\n  start: string;\n  end: string;\n}',
         },
         {
-          name: 'CurrencyConversionResponse',
+          name: ' CurrencyConversionResponse',
           type: '{\n  rates: Record<string, number>;\n}',
         },
       ],
@@ -9978,36 +9978,36 @@ export default {
       file: '@tw/types/types/DataHealth.ts',
       exports: [
         {
-          name: 'DataHealthReport',
+          name: ' DataHealthReport',
           type: '{\n  [Property in keyof MetricsTableData]: {\n    internal: number;\n    external: number;\n    delta: number;\n  };\n}',
         },
         {
-          name: 'DataHealthFullReport',
+          name: ' DataHealthFullReport',
           type: '{\n  fieldsComparison: DataHealthReport;\n  shopId: string;\n  serviceId: ServicesIds;\n  accountId: string;\n  currency: string;\n  jobDate: string;\n  jobId?: string;\n  reportStartDate: string;\n  reportEndDate: string;\n  isDeltaError?: boolean;\n}',
         },
         {
-          name: 'DataHealthFullReportRow',
+          name: ' DataHealthFullReportRow',
           type: '{\n  shouldBeReported?: boolean;\n  healthCheckType?: HealthCheckType;\n} & DataHealthFullReport',
         },
         {
-          name: 'DataHealthField',
+          name: ' DataHealthField',
           type: 'keyof MetricsTableData',
         },
         {
-          name: 'DateHealthFieldsConf',
+          name: ' DateHealthFieldsConf',
           type: '{\n  [key in DataHealthField]?: {\n    isCritical?: boolean;\n    factor?: number;\n    minDelta?: number;\n    label?: string;\n  };\n}',
         },
         {
-          name: 'DataHealthConf',
+          name: ' DataHealthConf',
           type: '{\n  isSerialPeriodsChecks?: boolean;\n  fields: DateHealthFieldsConf;\n}',
         },
         {
-          name: 'IntegrationDataHealthFullReport',
+          name: ' IntegrationDataHealthFullReport',
           type: '{\n  fieldsComparison: DataHealthReport;\n  serviceId: ServicesIds;\n  accountId: string;\n  currency: string;\n  jobDate: string;\n  reportStartDate: string;\n  reportEndDate: string;\n  isDeltaError?: boolean;\n}',
         },
         {
           type: 'enum',
-          name: 'HealthCheckType',
+          name: ' HealthCheckType',
         },
       ],
     },
@@ -10015,11 +10015,11 @@ export default {
       file: '@tw/types/types/DataPubsub.ts',
       exports: [
         {
-          name: 'DataPubsubAttributes',
+          name: ' DataPubsubAttributes',
           type: '{\n  tableName: string;\n  shopId: string;\n}',
         },
         {
-          name: 'DataPubsubData',
+          name: ' DataPubsubData',
           type: 'Array<any>',
         },
       ],
@@ -10029,14 +10029,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'FileContentFieldNames',
+          name: ' FileContentFieldNames',
         },
         {
-          name: 'FileContentFieldName',
+          name: ' FileContentFieldName',
           type: 'keyof typeof FileContentFieldNames',
         },
         {
-          name: 'EndpointParams',
+          name: ' EndpointParams',
           type: 'interface',
         },
       ],
@@ -10045,12 +10045,12 @@ export default {
       file: '@tw/types/types/Filters.ts',
       exports: [
         {
-          name: 'FilterExpression',
-          type: 'any',
+          name: ' FilterExpression',
+          type: 'class',
         },
         {
-          name: 'FilterExpressions',
-          type: 'any',
+          name: ' FilterExpressions',
+          type: 'class',
         },
       ],
     },
@@ -10058,39 +10058,39 @@ export default {
       file: '@tw/types/types/FullBigOrder.ts',
       exports: [
         {
-          name: 'BigFullOrder',
+          name: ' BigFullOrder',
           type: 'interface',
         },
         {
-          name: 'BigBillingAddress',
+          name: ' BigBillingAddress',
           type: 'interface',
         },
         {
-          name: 'BigConsignment',
+          name: ' BigConsignment',
           type: 'interface',
         },
         {
-          name: 'BigShipping',
+          name: ' BigShipping',
           type: 'interface',
         },
         {
-          name: 'BigLineItem',
+          name: ' BigLineItem',
           type: 'interface',
         },
         {
-          name: 'BigShippingQuotes',
+          name: ' BigShippingQuotes',
           type: 'interface',
         },
         {
-          name: 'BigProducts',
+          name: ' BigProducts',
           type: 'interface',
         },
         {
-          name: 'BigShippingAddresses',
+          name: ' BigShippingAddresses',
           type: 'interface',
         },
         {
-          name: 'BigCoupons',
+          name: ' BigCoupons',
           type: 'interface',
         },
       ],
@@ -10099,51 +10099,51 @@ export default {
       file: '@tw/types/types/FullShopifyOrder.ts',
       exports: [
         {
-          name: 'FullShopifyOrder',
+          name: ' FullShopifyOrder',
           type: 'interface',
         },
         {
-          name: 'ClientDetails',
+          name: ' ClientDetails',
           type: 'interface',
         },
         {
-          name: 'ShopPresentedMoney',
+          name: ' ShopPresentedMoney',
           type: 'interface',
         },
         {
-          name: 'ShopifyBillingAddress',
+          name: ' ShopifyBillingAddress',
           type: 'interface',
         },
         {
-          name: 'Customer',
+          name: ' Customer',
           type: 'interface',
         },
         {
-          name: 'DefaultAddress',
+          name: ' DefaultAddress',
           type: 'interface',
         },
         {
-          name: 'DiscountApplicationsEntity',
+          name: ' DiscountApplicationsEntity',
           type: 'interface',
         },
         {
-          name: 'LineItemsEntity',
+          name: ' LineItemsEntity',
           type: 'interface',
         },
         {
-          name: 'DestinationLocationOrOriginLocation',
+          name: ' DestinationLocationOrOriginLocation',
           type: 'interface',
         },
         {
-          name: 'DiscountAllocationsEntity',
+          name: ' DiscountAllocationsEntity',
           type: 'interface',
         },
         {
-          name: 'PaymentDetails',
+          name: ' PaymentDetails',
           type: 'interface',
         },
         {
-          name: 'ShippingLinesEntity',
+          name: ' ShippingLinesEntity',
           type: 'interface',
         },
       ],
@@ -10152,75 +10152,75 @@ export default {
       file: '@tw/types/types/FullStripeOrder.ts',
       exports: [
         {
-          name: 'StripeMessageBody',
+          name: ' StripeMessageBody',
           type: 'interface',
         },
         {
-          name: 'FullStripeOrder',
+          name: ' FullStripeOrder',
           type: 'interface',
         },
         {
-          name: 'AutomaticTax',
+          name: ' AutomaticTax',
           type: 'interface',
         },
         {
-          name: 'Discount',
+          name: ' Discount',
           type: 'interface',
         },
         {
-          name: 'Coupon',
+          name: ' Coupon',
           type: 'interface',
         },
         {
-          name: 'Issuer',
+          name: ' Issuer',
           type: 'interface',
         },
         {
-          name: 'Lines',
+          name: ' Lines',
           type: 'interface',
         },
         {
-          name: 'Datum',
+          name: ' Datum',
           type: 'interface',
         },
         {
-          name: 'DiscountAmount',
+          name: ' DiscountAmount',
           type: 'interface',
         },
         {
-          name: 'Period',
+          name: ' Period',
           type: 'interface',
         },
         {
-          name: 'Plan',
+          name: ' Plan',
           type: 'interface',
         },
         {
-          name: 'Price',
+          name: ' Price',
           type: 'interface',
         },
         {
-          name: 'Recurring',
+          name: ' Recurring',
           type: 'interface',
         },
         {
-          name: 'ProrationDetails',
+          name: ' ProrationDetails',
           type: 'interface',
         },
         {
-          name: 'PaymentSettings',
+          name: ' PaymentSettings',
           type: 'interface',
         },
         {
-          name: 'StatusTransitions',
+          name: ' StatusTransitions',
           type: 'interface',
         },
         {
-          name: 'SubscriptionDetails',
+          name: ' SubscriptionDetails',
           type: 'interface',
         },
         {
-          name: 'Request',
+          name: ' Request',
           type: 'interface',
         },
       ],
@@ -10229,23 +10229,23 @@ export default {
       file: '@tw/types/types/FullWooOrder.ts',
       exports: [
         {
-          name: 'FullWooOrder',
+          name: ' FullWooOrder',
           type: 'interface',
         },
         {
-          name: 'WooBilling',
+          name: ' WooBilling',
           type: 'interface',
         },
         {
-          name: 'WooShipping',
+          name: ' WooShipping',
           type: 'interface',
         },
         {
-          name: 'WooShippingLine',
+          name: ' WooShippingLine',
           type: 'interface',
         },
         {
-          name: 'WooLineItem',
+          name: ' WooLineItem',
           type: 'interface',
         },
       ],
@@ -10255,14 +10255,14 @@ export default {
       exports: [
         {
           name: ' GranularityArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'Granularity',
+          name: ' Granularity',
           type: '(typeof GranularityArr)[number]',
         },
         {
-          name: 'allGranularity',
+          name: ' allGranularity',
           type: '{\n  [t in Granularity]: t;\n}',
         },
         {
@@ -10276,10 +10276,10 @@ export default {
       exports: [
         {
           name: ' IndustryTypesRoles',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'IndustryTypes',
+          name: ' IndustryTypes',
           type: 'typeof IndustryTypesRoles[number]',
         },
       ],
@@ -10288,20 +10288,20 @@ export default {
       file: '@tw/types/types/Influencers.ts',
       exports: [
         {
-          name: 'Influencer',
+          name: ' Influencer',
           type: '{\n  id?: string;\n  name: string;\n  profile_photo?: { name: string; type: string; url: string };\n  campaign: string;\n  destination_url?: string;\n  source?: string;\n  tracking_url?: string;\n  social_handle?: string;\n  discount_code?: string;\n  discount_value?: number;\n  one_time_spend?: number;\n  one_time_spend_date?: string;\n  sales_percentage?: number;\n  created_at?: string;\n  creatives: Array<CreativeType>;\n  is_auto_created?: boolean;\n  shouldDelete?: boolean;\n  expenses?: influencerExpense[];\n  links?: links[];\n}',
         },
         {
-          name: 'links',
+          name: ' links',
           type: '{\n  id: string;\n  url?: string;\n  campaign: string;\n  source: string;\n  link: string;\n}',
         },
         {
-          name: 'influencerExpense',
+          name: ' influencerExpense',
           type: "| {\n      id: string;\n      type: 'time_based';\n      amount: number;\n      amount_type: 'currency';\n      start: string;\n      end: string | null;\n      recurring: 'weekly' | 'monthly' | 'one_time';\n      recurring_times: number;\n    }\n  | {\n      id: string;\n      type: 'order_based';\n      amount: number;\n      amount_type: 'percentage' | 'currency';\n      start: string;\n      end: string;\n    }",
         },
         {
           type: 'function',
-          name: 'isTimeBasedExpense',
+          name: ' isTimeBasedExpense',
           parameters: [
             {
               name: 'expense',
@@ -10310,7 +10310,7 @@ export default {
           ],
         },
         {
-          name: 'CreativeType',
+          name: ' CreativeType',
           type: 'interface',
         },
       ],
@@ -10319,11 +10319,11 @@ export default {
       file: '@tw/types/types/JobType.ts',
       exports: [
         {
-          name: 'JobType',
+          name: ' JobType',
           type: "| 'initial'\n  | 'updateToday'\n  | 'updateTodaySettings'\n  | 'updateTodayLight'\n  | 'updateWeek'\n  | 'update'\n  | 'create'\n  | 'edited'\n  | 'webhook'",
         },
         {
-          name: 'AllJobTypes',
+          name: ' AllJobTypes',
           type: '{\n  [type in JobType]: type;\n}',
         },
         {
@@ -10336,43 +10336,43 @@ export default {
       file: '@tw/types/types/MetricTables.ts',
       exports: [
         {
-          name: 'PixelMetrics',
+          name: ' PixelMetrics',
           type: 'interface',
         },
         {
-          name: 'HourlyStatsKey',
+          name: ' HourlyStatsKey',
           type: 'interface',
         },
         {
-          name: 'CreativeStatsKey',
+          name: ' CreativeStatsKey',
           type: '{\n  asset_id: string;\n  asset_type: CreativeTypes;\n  thumbnail: string,\n  image: string,\n  body: string,\n} & HourlyStatsKey',
         },
         {
-          name: 'Metrics',
+          name: ' Metrics',
           type: 'interface',
         },
         {
-          name: 'CreativeMetrics',
+          name: ' CreativeMetrics',
           type: 'interface',
         },
         {
-          name: 'CreativeStats',
+          name: ' CreativeStats',
           type: 'CreativeStatsKey & CreativeMetrics',
         },
         {
-          name: 'AdMetrics',
+          name: ' AdMetrics',
           type: '{\n  data_type: DataTypesIds;\n  ad_type?: number;\n} & HourlyStatsKey &\n  Metrics',
         },
         {
-          name: 'CreativeAttributesTable',
+          name: ' CreativeAttributesTable',
           type: 'interface',
         },
         {
-          name: 'AdsAttribute',
+          name: ' AdsAttribute',
           type: '{\n  account_id: string;\n  service_id: string;\n  name: string;\n  status: string;\n  campaign_id: string;\n  ad_id: string;\n  adset_id: string;\n  image_url: string;\n  currency: string;\n  timezone: string;\n  campaign_name: string;\n  adset_name: string;\n  account_name: string;\n  campaign_status: string;\n  adset_status: string;\n}',
         },
         {
-          name: 'TwStats',
+          name: ' TwStats',
           type: 'interface',
         },
       ],
@@ -10382,26 +10382,26 @@ export default {
       exports: [
         {
           name: ' RawMetricsKeysArr',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' CalculatedMetricsKeysArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'RawMetricsKeys',
+          name: ' RawMetricsKeys',
           type: '(typeof RawMetricsKeysArr)[number]',
         },
         {
-          name: 'CalculatedMetricsKeys',
+          name: ' CalculatedMetricsKeys',
           type: '(typeof CalculatedMetricsKeysArr)[number]',
         },
         {
-          name: 'RawMetrics',
+          name: ' RawMetrics',
           type: '{\n  [metric in RawMetricsKeys]?: number;\n}',
         },
         {
-          name: 'RawMetricsToConvert',
+          name: ' RawMetricsToConvert',
           type: "keyof Pick<\n  RawMetrics,\n  | 'spend'\n  | 'conversionValue'\n  | 'allConversionValue'\n  | 'oneDayViewConversionValue'\n  | 'totalCompletePaymentRate'\n  | 'totalOnWebOrderValue'\n>",
         },
         {
@@ -10410,86 +10410,86 @@ export default {
         },
         {
           name: ' isMetricToConvert',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CalculatedMetrics',
+          name: ' CalculatedMetrics',
           type: '{\n  [metric in CalculatedMetricsKeys]?: number;\n}',
         },
         {
-          name: 'AllMetrics',
+          name: ' AllMetrics',
           type: '{\n  [metric in keyof (RawMetrics & Required<CalculatedMetrics>)]: metric;\n}',
         },
         {
           name: ' rawPixelMandatoryMetricsNames',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' rawPixelOptionalMetricsNames',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'RawPixelMetrics',
+          name: ' RawPixelMetrics',
           type: 'RawPixelMandatoryMetrics & Partial<RawPixelOptionalMetrics>',
         },
         {
           name: ' CalculatedPixelMetricsKeysArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CalculatedPixelMetricsKeys',
+          name: ' CalculatedPixelMetricsKeys',
           type: '(typeof CalculatedPixelMetricsKeysArr)[number]',
         },
         {
-          name: 'CalculatedPixelMetrics',
+          name: ' CalculatedPixelMetrics',
           type: '{\n  [metric in CalculatedPixelMetricsKeys]?: number;\n}',
         },
         {
           name: ' ExpandedCalculatedPixelMetricsKeysArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'ExpandedCalculatedPixelMetricsKeys',
+          name: ' ExpandedCalculatedPixelMetricsKeys',
           type: '(typeof ExpandedCalculatedPixelMetricsKeysArr)[number]',
         },
         {
-          name: 'ExpandedCalculatedPixelMetrics',
+          name: ' ExpandedCalculatedPixelMetrics',
           type: '{\n  [metric in ExpandedCalculatedPixelMetricsKeys]?: number;\n} & CalculatedPixelMetrics',
         },
         {
-          name: 'AllPixelMetrics',
+          name: ' AllPixelMetrics',
           type: '{\n  [metric in keyof (RawPixelMetrics & Required<CalculatedPixelMetrics>)]: metric;\n}',
         },
         {
-          name: 'AllMetricsAndPixelMetricsKeys',
+          name: ' AllMetricsAndPixelMetricsKeys',
           type: 'RawMetrics &\n  CalculatedMetrics &\n  RawPixelMetrics &\n  CalculatedPixelMetrics',
         },
         {
           name: ' blendedMetrics',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'BlendedMetrics',
+          name: ' BlendedMetrics',
           type: '(typeof blendedMetrics)[number]',
         },
         {
           name: ' ShopMetrics',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'ShopMetrics',
+          name: ' ShopMetrics',
           type: '(typeof ShopMetrics)[number]',
         },
         {
           name: ' MetricsKeysArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'MetricsKeys',
+          name: ' MetricsKeys',
           type: '(typeof MetricsKeysArr)[number]',
         },
         {
-          name: 'EntityWithMetrics',
+          name: ' EntityWithMetrics',
           type: '{\n  [metric in MetricsKeys]?: number;\n}',
         },
       ],
@@ -10498,23 +10498,23 @@ export default {
       file: '@tw/types/types/MetricsEntity.ts',
       exports: [
         {
-          name: 'Entity',
+          name: ' Entity',
           type: "'channel' | 'ad_account' | 'campaign' | 'adset' | 'ad'",
         },
         {
-          name: 'EntitiesIds',
+          name: ' EntitiesIds',
           type: "'account_ids' | 'campaign_ids' | 'adset_ids' | 'ad_ids'",
         },
         {
-          name: 'AllEntitiesIdsParams',
+          name: ' AllEntitiesIdsParams',
           type: '{\n  [entity in EntitiesIds]?: string[];\n}',
         },
         {
-          name: 'allEntities',
+          name: ' allEntities',
           type: '{\n  [t in Entity]: t;\n}',
         },
         {
-          name: 'smallEntities',
+          name: ' smallEntities',
           type: "{\n  [t in Exclude<Entity, 'channel' | 'ad_account'>]: t;\n}",
         },
       ],
@@ -10523,27 +10523,27 @@ export default {
       file: '@tw/types/types/MetricsQueryStringParams.ts',
       exports: [
         {
-          name: 'MetricsFilterOperator',
+          name: ' MetricsFilterOperator',
           type: "| 'contains'\n  | 'not_contains'\n  | 'equals'\n  | 'not_equals'\n  | 'greater_than'\n  | 'greater_or_equal_than'\n  | 'less_than'\n  | 'less_or_equal_than'",
         },
         {
-          name: 'MetricsFilterOperands',
+          name: ' MetricsFilterOperands',
           type: "| 'campaign_id' // equals, not_equals\n  | 'campaign_name' // all operators\n  | 'adset_id' // equals, not_equals\n  | 'adset_name' // all operators\n  | 'ad_id' // equals, not_equals\n  | 'ad_name' // all operators\n  | 'roas'\n  | 'cpc'\n  | 'cpm'\n  | 'spend'\n  | 'impressions'\n  | 'pixelRoas'",
         },
         {
-          name: 'ShopifyMetricsFilterOperands',
+          name: ' ShopifyMetricsFilterOperands',
           type: "'sources' | 'order_tags'",
         },
         {
-          name: 'AdSegmentationFilters',
+          name: ' AdSegmentationFilters',
           type: '{\n  [service_id: string]: FilterExpressions<\n    MetricsFilterOperands | ShopifyMetricsFilterOperands,\n    MetricsFilterOperator\n  >[]; // with AND between the expressions\n}',
         },
         {
-          name: 'MetricsFilterExpression',
+          name: ' MetricsFilterExpression',
           type: 'FilterExpression<\n  MetricsFilterOperands | ShopifyMetricsFilterOperands,\n  MetricsFilterOperator\n>',
         },
         {
-          name: 'MetricsQueryStringParams',
+          name: ' MetricsQueryStringParams',
           type: '{\n  start: string;\n  end: string;\n  data_type: DataTypesIds;\n  account_ids: string[];\n  granularity: Granularity;\n  entity?: Entity;\n  currency?: string;\n  filters?: MetricsFilterExpression[][];\n  filtersAllServices?: { [key in ServicesIds]?: MetricsFilterExpression[][] };\n  fetchFiltersOnServer?: boolean;\n  shopId?: string;\n  family?: BTFamilies;\n  attributes?: (keyof AnalyticsAttributes)[];\n  sort_by?: AdsSortBy;\n  sort_direction?: SortDirection;\n  splitFetchMetricsTable?: boolean;\n  useNexus?: boolean;\n  forceBigTable?: boolean;\n} & (\n  | { service_id: ServicesIds; service_ids?: ServicesIds[] }\n  | { service_ids: ServicesIds[]; service_id?: ServicesIds }\n)',
         },
       ],
@@ -10552,7 +10552,7 @@ export default {
       file: '@tw/types/types/MetricsRemoveRequestParams.ts',
       exports: [
         {
-          name: 'MetricsRemoveRequestParams',
+          name: ' MetricsRemoveRequestParams',
           type: '{\n  account_ids: string[];\n  service_id: ServicesIds;\n  dataType?: DataTypesIds;\n  start?: string;\n  end?: string;\n  day?: string;\n  timezone?: string;\n  transactionId?: string;\n}',
         },
       ],
@@ -10561,15 +10561,15 @@ export default {
       file: '@tw/types/types/MetricsRow.ts',
       exports: [
         {
-          name: 'BigTableRow',
+          name: ' BigTableRow',
           type: '{\n  key: string;\n  value: Record<string, RowValue[]>;\n}',
         },
         {
-          name: 'RowsWithLastData',
+          name: ' RowsWithLastData',
           type: '{\n  key: string;\n  value: Record<string, RawMetrics>;\n}',
         },
         {
-          name: 'SingleParsedRow',
+          name: ' SingleParsedRow',
           type: '{\n  date: string;\n  metrics: RawMetrics;\n}[]',
         },
       ],
@@ -10578,7 +10578,7 @@ export default {
       file: '@tw/types/types/MetricsServiceTransformerRes.ts',
       exports: [
         {
-          name: 'MetricsServiceTransformerRes',
+          name: ' MetricsServiceTransformerRes',
           type: '{\n  metadata: RawFileMetadata;\n  rows: MetricsTransformer;\n  attributes: AnalyticsAttributes[];\n}',
         },
       ],
@@ -10587,11 +10587,11 @@ export default {
       file: '@tw/types/types/MetricsTableData.ts',
       exports: [
         {
-          name: 'MetricsTableData',
+          name: ' MetricsTableData',
           type: '{\n  spend?: number;\n  conversionValue?: number;\n  clicks?: number;\n  impressions?: number;\n  purchases?: number;\n  allConversionValue?: number; // Require by Google Ads and apply only for it\n  allConversions?: number; // Require by Google Ads and apply only for it\n  oneDayViewConversionValue?: number; // for FB\n  oneDayViewPurchasesValue?: number; // for FB\n  outboundClicks?: number; // for FB\n  totalVideoView?: number; // for FB\n  threeSecondVideoView?: number; // for FB\n  metaConversionValue?: number; // for FB\n  metaPurchases?: number; // for FB\n  campaignsConversionValue?: number; // for Klaviyo\n  flowsConversionValue?: number; // for Klaviyo\n  unsubscribed?: number; // for Klaviyo\n  subscribedToList?: number; // for Klaviyo\n  openedEmail?: number; // for Klaviyo\n  receivedEmail?: number; // for Klaviyo\n  clickedSms?: number; // for Klaviyo\n  clickedEmail?: number; // for Klaviyo\n  flowsCount?: number; // for Klaviyo\n  totalCompletePaymentRate?: number; // for tiktok\n  totalOnWebOrderValue?: number; // for tiktok\n  completePayment?: number; // for tiktok\n  onWebOrder?: number; // for tiktok\n  engagements?: number; // for twitter ads\n  follows?: number; // for twitter ads\n}',
         },
         {
-          name: 'MetricsTableDataWithCurrency',
+          name: ' MetricsTableDataWithCurrency',
           type: 'MetricsTableData & {\n  currency?: string;\n}',
         },
       ],
@@ -10600,11 +10600,11 @@ export default {
       file: '@tw/types/types/MetricsTableRow.ts',
       exports: [
         {
-          name: 'MetricsTableRow',
+          name: ' MetricsTableRow',
           type: '{\n  channelId: string; // serviceId.dataType\n  accountId: string;\n  campaignId?: string;\n  adsetId?: string;\n  adId?: string;\n  currency?: string;\n  date: string;\n  hour: string;\n  slot: number;\n  adType?: number; //for youtube\n  data: MetricsTableData;\n}',
         },
         {
-          name: 'MetricsTableDayRow',
+          name: ' MetricsTableDayRow',
           type: "Omit<MetricsTableRow, 'hour'>",
         },
       ],
@@ -10613,11 +10613,11 @@ export default {
       file: '@tw/types/types/MetricsTransformer.ts',
       exports: [
         {
-          name: 'MetricsTransformer',
+          name: ' MetricsTransformer',
           type: '{ hours_rows: MetricsTableRow[]; day_rows: MetricsTableDayRow[] }',
         },
         {
-          name: 'CreativeMetricsTransformer',
+          name: ' CreativeMetricsTransformer',
           type: '{\n  regularCreativeMetricRows: CreativeMetricsTableRow[];\n  dynamicCreativeMetricRows: CreativeMetricsTableRow[];\n}',
         },
       ],
@@ -10627,14 +10627,14 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'NlqTypes',
+          name: ' NlqTypes',
         },
         {
-          name: 'NlqQuestion',
+          name: ' NlqQuestion',
           type: '{\n  shopId: string;\n  userId: string;\n  question: string;\n  type: NlqTypes;\n  createdAt: Date | Timestamp;\n  resutleReference?: string;\n}',
         },
         {
-          name: 'NlqResult',
+          name: ' NlqResult',
           type: '{\n  shopId: string;\n  userId: string;\n  question: string;\n  query: string;\n  data?: {\n    [key: string]: any;\n  };\n  insights: string;\n  type: NlqTypes;\n  createdAt: Date | Timestamp;\n  queryReference?: string;\n  data_types?: { x: any[]; y: any[] } | any;\n}',
         },
       ],
@@ -10643,7 +10643,7 @@ export default {
       file: '@tw/types/types/OnlyOne.ts',
       exports: [
         {
-          name: 'OnlyOne',
+          name: ' OnlyOne',
           type: '{\n  [K in keyof T]: Pick<T, K> & Partial<Record<Exclude<keyof T, K>, undefined>>;\n}[keyof T]',
         },
       ],
@@ -10652,7 +10652,7 @@ export default {
       file: '@tw/types/types/OnlyStringKeys.ts',
       exports: [
         {
-          name: 'OnlyStringKeys',
+          name: ' OnlyStringKeys',
           type: 'K extends string\n  ? K\n  : never',
         },
       ],
@@ -10661,7 +10661,7 @@ export default {
       file: '@tw/types/types/PPSData.ts',
       exports: [
         {
-          name: 'PPSData',
+          name: ' PPSData',
           type: "{\n  id?: string;\n  provider_id: 'shopify';\n  provider_account: string;\n  type: 'FAIRING' | 'KNO' | 'TW-survey';\n  survey_id?: string;\n  updated_at: string; // date\n  currency: string;\n  order_id: string;\n  order_total: number;\n  order_total_usd?: number;\n  question: string;\n  question_id: string;\n  response: string;\n  response_id: string;\n  free_text_response?: string;\n  response_date_time: string; // date\n  source?: string;\n  tw_service?: string;\n  question_type?: 'custom' | 'standard';\n  customer_email?: string;\n  customer_id?: string;\n  customer_phone?: string;\n}",
         },
       ],
@@ -10670,7 +10670,7 @@ export default {
       file: '@tw/types/types/PickByType.ts',
       exports: [
         {
-          name: 'PickByType',
+          name: ' PickByType',
           type: '{\n  [P in keyof T as T[P] extends Value | undefined ? P : never]: T[P];\n}',
         },
       ],
@@ -10680,30 +10680,30 @@ export default {
       exports: [
         {
           name: ' AttributionDateModelsArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AttributionDateModels',
+          name: ' AttributionDateModels',
           type: '(typeof AttributionDateModelsArr)[number]',
         },
         {
           name: ' AttributionModelsArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AttributionModels',
+          name: ' AttributionModels',
           type: '(typeof AttributionModelsArr)[number]',
         },
         {
-          name: 'PixelIds',
+          name: ' PixelIds',
           type: 'interface',
         },
         {
-          name: 'Models',
+          name: ' Models',
           type: 'interface',
         },
         {
-          name: 'PixelMessage',
+          name: ' PixelMessage',
           type: 'interface',
         },
       ],
@@ -10712,31 +10712,31 @@ export default {
       file: '@tw/types/types/PostPurchaseSurvey.ts',
       exports: [
         {
-          name: 'QuestionType',
+          name: ' QuestionType',
           type: "'select' | 'multiSelect' | 'freeText'",
         },
         {
-          name: 'Response',
+          name: ' Response',
           type: 'Record<\n  string,\n  {\n    id: string;\n    label: string;\n    answers: number;\n    serviceId?: ServicesIds;\n    color?: string;\n    percentOfResponses?: number;\n    aov: number; // average order value?\n    revenue: number;\n    currency: string;\n  }\n>',
         },
         {
-          name: 'Survey',
+          name: ' Survey',
           type: '{\n  id: string;\n  questions: number;\n  answers: number;\n  views: number;\n}',
         },
         {
-          name: 'Question',
+          name: ' Question',
           type: '{\n  id: string;\n  surveyId: string;\n  shopId: string;\n  questionType: QuestionType;\n  createdAt: string;\n  updatedAt: string;\n  views: number;\n  responses: number;\n  responsesData: Response;\n}',
         },
         {
-          name: 'QuestionConfig',
+          name: ' QuestionConfig',
           type: "{\n  question: {\n    id: number;\n    text: string;\n    type: 'single_option';\n    created_at: string;\n  };\n  options: Array<{\n    id: number;\n    label: string;\n    value: string;\n    status: 'active' | 'deleted';\n    created_at: string;\n  }>;\n}",
         },
         {
-          name: 'Answer',
+          name: ' Answer',
           type: '{\n  id: string;\n  shopId: string;\n  orderId: string;\n  answerDate: string;\n  questionType: QuestionType;\n  questionId: string;\n  answer: string;\n}',
         },
         {
-          name: 'View',
+          name: ' View',
           type: '{\n  id: string;\n  shopId: string;\n  orderId: string;\n  viewDate: string;\n  questionType: QuestionType;\n  questionId: string;\n}',
         },
       ],
@@ -10745,7 +10745,7 @@ export default {
       file: '@tw/types/types/RawEvent.ts',
       exports: [
         {
-          name: 'Query',
+          name: ' Query',
           type: 'interface',
         },
       ],
@@ -10754,15 +10754,15 @@ export default {
       file: '@tw/types/types/Realtime.ts',
       exports: [
         {
-          name: 'RealtimeEventType',
+          name: ' RealtimeEventType',
           type: "| 'job_manager_update'\n  | 'metrics_table_update'\n  | 'plaid_transaction_update'\n  | 'plaid_new_account_available'\n  | 'attribution_update'\n  | 'anomaly_alert'\n  | 'shopify_update'\n  | 'lighthouse_notification'\n  | 'cdp_segment_update'\n  | 'shopify_new_order'\n  | 'activity_feed_new_activity'\n  | 'willy_insights_stream'\n  | 'workflow_update'\n  | 'attribution_update_v2'\n  | 'client-actions'",
         },
         {
-          name: 'RealtimeEventScope',
+          name: ' RealtimeEventScope',
           type: "| ServicesIds\n  | RealtimeClientAction\n  | 'attribution'\n  | 'anomaly'\n  | 'user'\n  | 'cdp'\n  | 'willy'\n  | 'sensory-integrations'\n  | 'sensory-credentials'",
         },
         {
-          name: 'RealtimeEvent',
+          name: ' RealtimeEvent',
           type: '{\n  eventType: RealtimeEventType;\n  scope: RealtimeEventScope;\n  account?: string;\n  data?: D;\n}',
         },
       ],
@@ -10772,22 +10772,22 @@ export default {
       exports: [
         {
           name: ' clientActions',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'RealtimeChannel',
+          name: ' RealtimeChannel',
           type: '| `${ServicesIds | typeof sensoryIntegrationService | typeof sensoryCredentialService}:${string}`\n  | typeof sensoryMaster',
         },
         {
-          name: 'RealtimeClientAction',
+          name: ' RealtimeClientAction',
           type: '(typeof clientActions)[number]',
         },
         {
-          name: 'RealtimeSubscribeMessage',
+          name: ' RealtimeSubscribeMessage',
           type: '{\n  channel: RealtimeChannel;\n  shopId: string;\n}',
         },
         {
-          name: 'ClientActionsRealtimeSubscribeMessage',
+          name: ' ClientActionsRealtimeSubscribeMessage',
           type: '{\n  action: RealtimeClientAction;\n  shopId: string;\n  date: string;\n}',
         },
       ],
@@ -10796,19 +10796,19 @@ export default {
       file: '@tw/types/types/RulesAuditLogsRequest.ts',
       exports: [
         {
-          name: 'RulesAuditLogsFilterOperator',
+          name: ' RulesAuditLogsFilterOperator',
           type: "'contains' | 'not_contains' | 'equals' | 'not_equals'",
         },
         {
-          name: 'RulesAuditLogsFilterOperands',
+          name: ' RulesAuditLogsFilterOperands',
           type: "| 'campaign_id'\n  | 'campaign_name'\n  | 'adset_id'\n  | 'adset_name'\n  | 'ad_id'\n  | 'ad_name'\n  | 'rule_name'\n  | 'user'",
         },
         {
-          name: 'AuditRuleStatus',
+          name: ' AuditRuleStatus',
           type: "'falsy' | 'created' | 'executed' | 'failed'",
         },
         {
-          name: 'RulesAuditLogsRequest',
+          name: ' RulesAuditLogsRequest',
           type: '{\n  segments?: FilterExpressions<RulesAuditLogsFilterOperands, RulesAuditLogsFilterOperator>[];\n  shop: string;\n  status?: AuditRuleStatus;\n  start: string;\n  end: string;\n  searchAfter?: number;\n  pageSize?: number;\n  auditTypes?: string[];\n}',
         },
       ],
@@ -10817,11 +10817,11 @@ export default {
       file: '@tw/types/types/RulesEngine.ts',
       exports: [
         {
-          name: 'EntityTypes',
+          name: ' EntityTypes',
           type: "'account' | 'campaign' | 'adset' | 'ad' | ''",
         },
         {
-          name: 'MetricFields',
+          name: ' MetricFields',
           type: '{\n    show: EntityTypes[];\n    value: string;\n    label: string;\n    showCurrency?: boolean;\n    showWarning?: boolean;\n}',
         },
         {
@@ -10829,36 +10829,36 @@ export default {
           type: 'Record<string, MetricFields>',
         },
         {
-          name: 'StatusAction',
+          name: ' StatusAction',
           type: 'typeof statusActions[number]',
         },
         {
-          name: 'BudgetAction',
+          name: ' BudgetAction',
           type: 'typeof budgetActions[number]',
         },
         {
-          name: 'StrategyAction',
+          name: ' StrategyAction',
           type: 'typeof strategyActions[number]',
         },
         {
-          name: 'Scope',
+          name: ' Scope',
           type: 'typeof scopes[number]',
         },
         {
-          name: 'Evaluation',
+          name: ' Evaluation',
           type: 'typeof evaluations[number]',
         },
         {
-          name: 'BidStrategyType',
+          name: ' BidStrategyType',
           type: 'typeof bidStrategyTypes[number]',
         },
         {
-          name: 'RuleActions',
+          name: ' RuleActions',
           type: 'StatusAction | BudgetAction | StrategyAction',
         },
         {
           type: 'function',
-          name: 'isBudgetAction',
+          name: ' isBudgetAction',
           parameters: [
             {
               name: 'action',
@@ -10868,7 +10868,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'isStatusAction',
+          name: ' isStatusAction',
           parameters: [
             {
               name: 'action',
@@ -10878,7 +10878,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'isStrategyAction',
+          name: ' isStrategyAction',
           parameters: [
             {
               name: 'action',
@@ -10887,11 +10887,11 @@ export default {
           ],
         },
         {
-          name: 'ActionParams',
+          name: ' ActionParams',
           type: "{\n  shop: string;\n  ruleId: string;\n  action: StatusAction | BudgetAction | StrategyAction;\n  scope: Scope;\n  id: string;\n  value?: number;\n  valueType?: 'percentage';\n  auditId: string;\n  mode?: 'exec' | 'logOnly';\n  emittedAt: number;\n  frequency?: string;\n  testIndex?: boolean;\n}",
         },
         {
-          name: 'ActionResult',
+          name: ' ActionResult',
           type: "ActionParams & { status: 'success' | 'error'; message: string }",
         },
       ],
@@ -10901,14 +10901,14 @@ export default {
       exports: [
         {
           name: ' shopMetricsServices',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'shopMetricsServiceData',
+          name: ' shopMetricsServiceData',
           type: '{\n  responses: number;\n  price: number;\n}',
         },
         {
-          name: 'ShopMetrics',
+          name: ' ShopMetrics',
           type: 'Record<\n  (typeof shopMetricsServices)[number],\n  shopMetricsServiceData\n>',
         },
       ],
@@ -10917,7 +10917,7 @@ export default {
       file: '@tw/types/types/ShopMetricsQueryStringParams.ts',
       exports: [
         {
-          name: 'ShopMetricsQueryStringParams',
+          name: ' ShopMetricsQueryStringParams',
           type: '{\n  start: string;\n  end: string;\n  service_id: ServicesIds;\n  shop_domain: string;\n}',
         },
       ],
@@ -10926,7 +10926,7 @@ export default {
       file: '@tw/types/types/ShopMetricsRemoveRequestParams.ts',
       exports: [
         {
-          name: 'ShopMetricsRemoveRequestParams',
+          name: ' ShopMetricsRemoveRequestParams',
           type: '{\n  shop_domain: string;\n  service_id: ServicesIds;\n}',
         },
       ],
@@ -10935,28 +10935,28 @@ export default {
       file: '@tw/types/types/ShopProviders.ts',
       exports: [
         {
-          name: 'ShopProviderState',
+          name: ' ShopProviderState',
           type: 'interface',
         },
         {
-          name: 'ShopIntegrationState',
+          name: ' ShopIntegrationState',
           type: 'interface',
         },
         {
-          name: 'ShopIntegrationProperties',
+          name: ' ShopIntegrationProperties',
           type: 'interface',
         },
         {
-          name: 'ShopProviderStatus',
+          name: ' ShopProviderStatus',
           type: 'interface',
         },
         {
           type: 'enum',
-          name: 'ShopProviderStatusEnum',
+          name: ' ShopProviderStatusEnum',
         },
         {
           type: 'enum',
-          name: 'ShopIntegrationStatusEnum',
+          name: ' ShopIntegrationStatusEnum',
         },
       ],
     },
@@ -10964,32 +10964,32 @@ export default {
       file: '@tw/types/types/ShopServiceData.ts',
       exports: [
         {
-          name: 'ShopServiceData',
+          name: ' ShopServiceData',
           type: '{\n  lastImportTimestamp?: Date;\n  accounts?: { [accountId: string]: ServiceAccountData };\n  serviceConfiguration?: TiktokConfig | FacebookConfig;\n}',
         },
         {
-          name: 'ServiceAccountData',
+          name: ' ServiceAccountData',
           type: '{\n  id?: string;\n  invalidConnection?: InvalidConnection;\n}',
         },
         {
-          name: 'InvalidConnection',
+          name: ' InvalidConnection',
           type: '{\n  invalidStateReason?: string;\n  invalidStateCode?: string;\n  jobId?: string;\n  timestamp?: Date;\n}',
         },
         {
-          name: 'ServiceAccountParams',
+          name: ' ServiceAccountParams',
           type: '{\n  shopDomain: string;\n  serviceId: ServicesIds;\n  accountId: string;\n  invalidConnection?: InvalidConnection;\n}',
         },
         {
-          name: 'TiktokConfig',
+          name: ' TiktokConfig',
           type: '{\n  purchasesEvent?: tiktokPurchasesEvent;\n}',
         },
         {
-          name: 'FacebookConfig',
+          name: ' FacebookConfig',
           type: '{ }',
         },
         {
           type: 'enum',
-          name: 'tiktokPurchasesEvent',
+          name: ' tiktokPurchasesEvent',
         },
       ],
     },
@@ -10998,7 +10998,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'SubscriptionFeature',
+          name: ' SubscriptionFeature',
         },
       ],
     },
@@ -11007,7 +11007,7 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'UserShopFirestoreUpdateEventType',
+          name: ' UserShopFirestoreUpdateEventType',
         },
       ],
     },
@@ -11015,11 +11015,11 @@ export default {
       file: '@tw/types/types/ValueFormat.ts',
       exports: [
         {
-          name: 'valueFormats',
+          name: ' valueFormats',
           type: "'decimal' | 'percent' | 'currency' | 'string' | 'date' | 'duration'",
         },
         {
-          name: 'TwNumberFormatOptions',
+          name: ' TwNumberFormatOptions',
           type: 'interface',
         },
       ],
@@ -11028,7 +11028,7 @@ export default {
       file: '@tw/types/types/ValueOf.ts',
       exports: [
         {
-          name: 'ValueOf',
+          name: ' ValueOf',
           type: 'T[keyof T]',
         },
       ],
@@ -11037,7 +11037,7 @@ export default {
       file: '@tw/types/types/chart.ts',
       exports: [
         {
-          name: 'AbstractChart',
+          name: ' AbstractChart',
           type: '{\n  x: number;\n  y: number;\n}',
         },
       ],
@@ -11046,23 +11046,23 @@ export default {
       file: '@tw/types/types/dataHealthRequest.ts',
       exports: [
         {
-          name: 'periodObject',
+          name: ' periodObject',
           type: '{ start: string; end: string }',
         },
         {
-          name: 'dataHealthRequest',
+          name: ' dataHealthRequest',
           type: '{\n  shopId: string;\n  serviceId?: ServicesIds;\n  serviceIds?: ServicesIds[];\n  accountIds?: string[];\n  sendSlack?: boolean;\n  softImport?: boolean;\n  jobId?: string;\n  jobType?: string;\n  start: string;\n  end: string;\n  factor?: number;\n  healthCheckType?: HealthCheckType;\n  granularity?: Granularity;\n  //for mini health check\n  importSpecificDays?: boolean;\n}',
         },
         {
-          name: 'dataHealthReportsRequest',
+          name: ' dataHealthReportsRequest',
           type: '{\n  shopId?: string;\n  servicesId?: ServicesIds[];\n  jobDate?: string;\n  jobId?: string;\n  reportStartDate?: string;\n  reportEndDate?: string;\n  isDelta?: boolean;\n  from?: number;\n  size?: number;\n  healthCheckType?: HealthCheckType;\n}',
         },
         {
-          name: 'IntegrationDataHealthRequest',
+          name: ' IntegrationDataHealthRequest',
           type: '{\n  serviceId: ServicesIds;\n  accountId: string;\n  sendSlack?: boolean;\n  softImport?: boolean;\n  jobId?: string;\n  start: string;\n  end: string;\n  factor?: number;\n}',
         },
         {
-          name: 'IntegrationDataHealthReportsRequest',
+          name: ' IntegrationDataHealthReportsRequest',
           type: '{\n  servicesId?: ServicesIds[];\n  accountId?: string;\n  jobDate?: string;\n  reportStartDate?: string;\n  reportEndDate?: string;\n  isDelta?: boolean;\n  from?: number;\n  size?: number;\n}',
         },
       ],
@@ -11076,14 +11076,14 @@ export default {
       exports: [
         {
           name: ' lighthouseNotificationType',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'LighthouseNotificationTypes',
+          name: ' LighthouseNotificationTypes',
           type: '(typeof lighthouseNotificationType)[number]',
         },
         {
-          name: 'LighthouseNotification',
+          name: ' LighthouseNotification',
           type: '{\n  id: string;\n  docId?: string;\n  type: LighthouseNotificationTypes;\n  startDate: Date;\n  endDate: Date;\n  shop: string;\n  user: string;\n  read?: boolean;\n  archived?: boolean;\n  serviceId: string;\n  timeToLive?: Date;\n  createdAt?: Date;\n  updatedAt?: Date;\n  data: D;\n  subtopic?: string;\n  email?: string;\n}',
         },
       ],
@@ -11092,15 +11092,15 @@ export default {
       file: '@tw/types/types/media.ts',
       exports: [
         {
-          name: 'MediaSource',
+          name: ' MediaSource',
           type: "'media_library' | 'affluencer' | 'creative' | 'inventory' | 'products'",
         },
         {
-          name: 'MediaType',
+          name: ' MediaType',
           type: '{\n  _id?: any;\n  id?: string;\n  shop_id: string;\n  name: string;\n  service_id: string;\n  source: string;\n  file_size?: string;\n  media_type: string;\n  gcs_path: string;\n  url?: string;\n  custom_id?: string;\n  tags?: string;\n  thumbnail?: string;\n  versions?: MediaItemType[];\n  version_base?: string;\n}',
         },
         {
-          name: 'MediaItemType',
+          name: ' MediaItemType',
           type: '{\n  _id?: any;\n  id?: string;\n  shop_id: string;\n  name: string;\n  service_id: string;\n  source: string;\n  file_size?: string;\n  media_type: string;\n  gcs_path: string;\n  url?: string;\n  custom_id?: string;\n  tags?: string;\n  thumbnail?: string;\n  versions?: MediaItemType[];\n  version_base?: string;\n}',
         },
       ],
@@ -11122,7 +11122,7 @@ export default {
       file: '@tw/types/types/sortDirection.ts',
       exports: [
         {
-          name: 'SortDirection',
+          name: ' SortDirection',
           type: "'ascending' | 'descending' | 'none'",
         },
       ],
@@ -11132,10 +11132,10 @@ export default {
       exports: [
         {
           name: ' UserRoles',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'UserRolesTypes',
+          name: ' UserRolesTypes',
           type: 'typeof UserRoles[number]',
         },
       ],
@@ -11145,10 +11145,10 @@ export default {
       exports: [
         {
           name: ' MainTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'MainActionTypes',
+          name: ' MainActionTypes',
           type: '(typeof MainTypesArr)[number]',
         },
         {
@@ -11156,39 +11156,39 @@ export default {
           type: 'Record<\n  MainActionTypes,\n  { id: MainActionTypes; description: string }\n>',
         },
         {
-          name: 'MainActionTypesWithUnknown',
+          name: ' MainActionTypesWithUnknown',
           type: "MainActionTypes | 'unknown' | 'general'",
         },
         {
-          name: 'MainActionResult',
+          name: ' MainActionResult',
           type: '{\n  mainActionType: MainActionTypesWithUnknown;\n  error?: string;\n  isNeedUserInteraction: boolean;\n  data:\n    | ReportsActionResult\n    | CostActionResult\n    | DashboardActionResult\n    | ProviderActionResult\n    | GenericActionResult\n    | GeneralActionResult; // in case for general on main\n}',
         },
         {
-          name: 'GeneralActionResult',
+          name: ' GeneralActionResult',
           type: '{\n  providerType: MainActionTypesWithUnknown;\n  error?: string;\n  data: ChainData;\n}',
         },
         {
-          name: 'ChainData',
+          name: ' ChainData',
           type: '{\n  originalAnswer: string;\n  chainSuccess: boolean;\n  [key: string]: any;\n}',
         },
         {
           name: ' ERROR_PREFIX',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' ERROR_PREFIX_PROMPT',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'GenericActionResult',
+          name: ' GenericActionResult',
           type: '{\n  error?: string;\n  data: ChainData;\n}',
         },
         {
           name: ' ReportsActionTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'ReportsActionTypes',
+          name: ' ReportsActionTypes',
           type: '(typeof ReportsActionTypesArr)[number]',
         },
         {
@@ -11196,19 +11196,19 @@ export default {
           type: 'Record<\n  ReportsActionTypes,\n  { id: ReportsActionTypes; description: string }\n>',
         },
         {
-          name: 'ReportsActionTypesWithUnknown',
+          name: ' ReportsActionTypesWithUnknown',
           type: "ReportsActionTypes | 'unknown'",
         },
         {
-          name: 'ReportsActionResult',
+          name: ' ReportsActionResult',
           type: '{\n  reportsType: ReportsActionTypesWithUnknown;\n  error?: string;\n  data: ChainData;\n}',
         },
         {
           name: ' CostActionTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CostActionTypes',
+          name: ' CostActionTypes',
           type: '(typeof CostActionTypesArr)[number]',
         },
         {
@@ -11216,19 +11216,19 @@ export default {
           type: 'Record<\n  CostActionTypes,\n  { id: CostActionTypes; description: string }\n>',
         },
         {
-          name: 'CostActionTypesWithUnknown',
+          name: ' CostActionTypesWithUnknown',
           type: "CostActionTypes | 'unknown'",
         },
         {
-          name: 'CostActionResult',
+          name: ' CostActionResult',
           type: '{\n  costType: CostActionTypesWithUnknown;\n  crud: CRUDWithUnknownAction;\n  error?: string;\n  data: ChainData;\n}',
         },
         {
           name: ' CRUDActionTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'CRUDActionTypes',
+          name: ' CRUDActionTypes',
           type: '(typeof CRUDActionTypesArr)[number]',
         },
         {
@@ -11236,15 +11236,15 @@ export default {
           type: 'Record<CRUDActionTypes, { id: CRUDActionTypes; title: string }>',
         },
         {
-          name: 'CRUDWithUnknownAction',
+          name: ' CRUDWithUnknownAction',
           type: "CRUDActionTypes | 'unknown'",
         },
         {
           name: ' DashboardActionTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'DashboardActionTypes',
+          name: ' DashboardActionTypes',
           type: '(typeof DashboardActionTypesArr)[number]',
         },
         {
@@ -11252,19 +11252,19 @@ export default {
           type: 'Record<\n  DashboardActionTypes,\n  { id: DashboardActionTypes; description: string }\n>',
         },
         {
-          name: 'DashboardActionTypesWithUnknown',
+          name: ' DashboardActionTypesWithUnknown',
           type: "DashboardActionTypes | 'unknown'",
         },
         {
-          name: 'DashboardActionResult',
+          name: ' DashboardActionResult',
           type: '{\n  error?: string;\n  dashboardType: DashboardActionTypesWithUnknown;\n  data: ChainData;\n}',
         },
         {
           name: ' ProviderTypesArr',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'ProviderActionTypes',
+          name: ' ProviderActionTypes',
           type: '(typeof ProviderTypesArr)[number]',
         },
         {
@@ -11272,11 +11272,11 @@ export default {
           type: 'Record<\n  ProviderActionTypes,\n  { id: ProviderActionTypes; description: string }\n>',
         },
         {
-          name: 'ProviderActionTypesWithUnknown',
+          name: ' ProviderActionTypesWithUnknown',
           type: "ProviderActionTypes | 'unknown'",
         },
         {
-          name: 'ProviderActionResult',
+          name: ' ProviderActionResult',
           type: '{\n  providerType: ProviderActionTypesWithUnknown;\n  error?: string;\n  data: ChainData;\n}',
         },
       ],
@@ -11285,39 +11285,39 @@ export default {
       file: '@tw/types/willyTypes.ts',
       exports: [
         {
-          name: 'AggregationFunction',
+          name: ' AggregationFunction',
           type: "'AVG' | 'COUNT' | 'SUM' | 'MAX' | 'MIN' | 'COUNT_DISTINCT'",
         },
         {
           type: 'enum',
-          name: 'FilterComparator',
+          name: ' FilterComparator',
         },
         {
           name: ' EVENT_DATE',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'SQLType',
+          name: ' SQLType',
           type: '(typeof SQLTypeArray)[number]',
         },
         {
-          name: 'BqColumn',
+          name: ' BqColumn',
           type: '{\n  name: string; //name is the table real column name\n  id: string;\n  title: string;\n  type: SQLType;\n  autoCompleteKey?: FilterProperty;\n  options?: OptionsObj[];\n  getOptionsFunc?: (value: string) => OptionsObj[];\n  multiSelect?: boolean;\n  columns?: BqColumn[];\n  selected?: boolean;\n  expanded?: boolean;\n  pivot?: boolean;\n  agg?: AggregationFunction;\n  relatedTable?: string[];\n  comparators?: FilterComparatorType[];\n  description?: string;\n  aggFunction?: AggregationFunction;\n}',
         },
         {
-          name: 'FilterRow',
+          name: ' FilterRow',
           type: '{\n  column: BqColumn;\n  isReadOnly?: boolean;\n  comparator?: FilterComparatorType;\n  value?: any;\n  value1?: any;\n  value2?: any;\n  unit?: any;\n  isDeleted?: boolean;\n}',
         },
         {
           name: ' SQLTypeArray',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'enum',
-          name: 'ElementTypes',
+          name: ' ElementTypes',
         },
         {
-          name: 'ExpressionElement',
+          name: ' ExpressionElement',
           type: '{\n  // id: string;\n  title: string;\n  value?: any;\n  type: ElementTypes;\n  isSelected?: boolean;\n}',
         },
       ],
@@ -11327,7 +11327,7 @@ export default {
       exports: [
         {
           name: ' getActivitiesByCalc',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -11336,7 +11336,7 @@ export default {
       exports: [
         {
           name: ' getActivityDiffObject',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -11345,7 +11345,7 @@ export default {
       exports: [
         {
           name: ' getObjectHistory',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -11358,7 +11358,7 @@ export default {
       exports: [
         {
           name: ' saveActivities',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -11367,18 +11367,18 @@ export default {
       exports: [
         {
           type: 'enum',
-          name: 'ActivityType',
+          name: ' ActivityType',
         },
         {
-          name: 'ActivityDiff',
+          name: ' ActivityDiff',
           type: 'interface',
         },
         {
-          name: 'ActivityMetaData',
+          name: ' ActivityMetaData',
           type: 'interface',
         },
         {
-          name: 'ActivitySettings',
+          name: ' ActivitySettings',
           type: 'interface',
         },
       ],
@@ -11388,7 +11388,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getClient',
+          name: ' getClient',
           parameters: [
             {
               name: 'local',
@@ -11398,7 +11398,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addTaskToQueue',
+          name: ' addTaskToQueue',
           parameters: [
             {
               name: 'queueName',
@@ -11429,7 +11429,7 @@ export default {
       exports: [
         {
           name: ' aggregateMetrics',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -11438,7 +11438,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'trackEvent',
+          name: ' trackEvent',
           parameters: [
             {
               name: 'event',
@@ -11456,7 +11456,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'trackPosthogEvent',
+          name: ' trackPosthogEvent',
           parameters: [
             {
               name: 'distinctId',
@@ -11483,7 +11483,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'capture',
+          name: ' capture',
           parameters: [
             {
               name: 'userId',
@@ -11505,7 +11505,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'captureGeneric',
+          name: ' captureGeneric',
           parameters: [
             {
               name: 'distinctId',
@@ -11528,7 +11528,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'ApiProperty',
+          name: ' ApiProperty',
           parameters: [
             {
               name: 'options',
@@ -11537,24 +11537,24 @@ export default {
           ],
         },
         {
-          name: 'IsStringOrNumber',
-          type: 'ValidatorConstraintInterface',
+          name: ' IsStringOrNumber',
+          type: ' ValidatorConstraintInterface',
         },
         {
-          name: 'IsStringOrNumberOrBoolean',
-          type: 'ValidatorConstraintInterface',
+          name: ' IsStringOrNumberOrBoolean',
+          type: ' ValidatorConstraintInterface',
         },
         {
-          name: 'IsBeforeOrEqualConstraint',
-          type: 'ValidatorConstraintInterface',
-        },
-        {
-          type: 'specifier',
-          name: 'Validate',
+          name: ' IsBeforeOrEqualConstraint',
+          type: ' ValidatorConstraintInterface',
         },
         {
           type: 'specifier',
-          name: 'Type',
+          name: ' Validate',
+        },
+        {
+          type: 'specifier',
+          name: ' Type',
         },
       ],
     },
@@ -11563,7 +11563,7 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'exportOpenApiFromNestJs',
+          name: ' exportOpenApiFromNestJs',
         },
       ],
     },
@@ -11572,7 +11572,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'exportOpenApiFromNestJs',
+          name: ' exportOpenApiFromNestJs',
           parameters: [
             {
               name: 'document',
@@ -11582,7 +11582,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'exportOpenApiFromExpress',
+          name: ' exportOpenApiFromExpress',
           parameters: [
             {
               name: 'routes',
@@ -11596,7 +11596,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addPathToOpenApi',
+          name: ' addPathToOpenApi',
           parameters: [
             {
               name: 'path',
@@ -11619,7 +11619,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'simpleEndpoint',
+          name: ' simpleEndpoint',
           parameters: [
             {
               name: 'fn',
@@ -11638,7 +11638,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'defaultOpenApiOperation',
+          name: ' defaultOpenApiOperation',
           parameters: [
             {
               name: 'path',
@@ -11656,7 +11656,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getAlternativePath',
+          name: ' getAlternativePath',
           parameters: [
             {
               name: 'route',
@@ -11670,7 +11670,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getRateLimitPolicy',
+          name: ' getRateLimitPolicy',
           parameters: [
             {
               name: 'conf',
@@ -11680,7 +11680,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addRateLimits',
+          name: ' addRateLimits',
           parameters: [
             {
               name: 'op',
@@ -11699,7 +11699,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'endpointWrapper',
+          name: ' endpointWrapper',
           parameters: [
             {
               name: 'fn',
@@ -11714,7 +11714,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'checkUserAccessToResource',
+          name: ' checkUserAccessToResource',
           parameters: [
             {
               name: 'user',
@@ -11741,7 +11741,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deny',
+          name: ' deny',
           parameters: [
             {
               name: 'res',
@@ -11764,7 +11764,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getAuthType',
+          name: ' getAuthType',
           parameters: [
             {
               name: 'user',
@@ -11786,200 +11786,200 @@ export default {
       file: '@tw/utils/authorization/addRelations.ts',
       exports: [
         {
-          name: 'RelationParams',
+          name: ' RelationParams',
           type: '{\n  subjectType: OnlyStringKeys<TWSchema>;\n  resourceType: OnlyStringKeys<TWSchema>;\n  relation: string;\n} & OnlyOne<{\n  resourceId: string;\n  resourceIds: string[];\n}> &\n  OnlyOne<{\n    subjectId: string;\n    subjectIds: string[];\n  }>',
         },
         {
-          name: 'RelationValidationError',
-          type: 'Error',
+          name: ' RelationValidationError',
+          type: ' Error',
         },
         {
-          name: 'AddAdminToAccountParams',
+          name: ' AddAdminToAccountParams',
           type: "BuildParams<'account', 'user' | 'group'>",
         },
         {
           name: ' addAdminToAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeAdminFromAccount',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddDataViewerToAccountParams',
+          name: ' AddDataViewerToAccountParams',
           type: "BuildParams<'account', 'user' | 'group'>",
         },
         {
           name: ' addDataViewerToAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeDataViewerFromAccount',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddMemberToAccountParams',
+          name: ' AddMemberToAccountParams',
           type: "BuildParams<'account', 'user' | 'group'>",
         },
         {
           name: ' addMemberToAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeMemberFromAccount',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddMemberToGroupParams',
+          name: ' AddMemberToGroupParams',
           type: "BuildParams<'group', 'user'>",
         },
         {
           name: ' addMemberToGroup',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeMemberFromGroup',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddAdminToGroupParams',
+          name: ' AddAdminToGroupParams',
           type: "BuildParams<'group', 'user'>",
         },
         {
           name: ' addAdminToGroup',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeAdminFromGroup',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddAdminToProviderParams',
+          name: ' AddAdminToProviderParams',
           type: "BuildParams<'provider', 'user' | 'group'>",
         },
         {
           name: ' addAdminToProvider',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeAdminFromProvider',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddDataViewerToProviderParams',
+          name: ' AddDataViewerToProviderParams',
           type: "BuildParams<'provider', 'user' | 'group'>",
         },
         {
           name: ' addDataViewerToProvider',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeDataViewerFromProvider',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddProviderToAccountParams',
+          name: ' AddProviderToAccountParams',
           type: "BuildParams<'provider', 'account'>",
         },
         {
           name: ' addProviderToAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeProviderFromAccount',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddIntegrationToAccountParams',
+          name: ' AddIntegrationToAccountParams',
           type: "BuildParams<'integration', 'account'>",
         },
         {
           name: ' addIntegrationToAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeIntegrationFromAccount',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddProviderToIntegrationParams',
+          name: ' AddProviderToIntegrationParams',
           type: "BuildParams<'integration', 'provider'>",
         },
         {
           name: ' addProviderToIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeProviderFromIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddAdminToIntegrationParams',
+          name: ' AddAdminToIntegrationParams',
           type: "BuildParams<'integration', 'user' | 'group'>",
         },
         {
           name: ' addAdminToIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeAdminFromIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddDataViewerToIntegrationParams',
+          name: ' AddDataViewerToIntegrationParams',
           type: "BuildParams<'integration', 'user' | 'group'>",
         },
         {
           name: ' addDataViewerToIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' removeDataViewerFromIntegration',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'MakeDashboardPublicParams',
+          name: ' MakeDashboardPublicParams',
           type: "BuildParams<'dashboard', 'account'>",
         },
         {
           name: ' makeDashboardPublic',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'MakeDashboardPrivateParams',
+          name: ' MakeDashboardPrivateParams',
           type: "BuildParams<'dashboard', 'account'>",
         },
         {
           name: ' makeDashboardPrivate',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddAdminToDashboardParams',
+          name: ' AddAdminToDashboardParams',
           type: "BuildParams<'dashboard', 'user'>",
         },
         {
           name: ' addAdminToDashboard',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddEditorToDashboardParams',
+          name: ' AddEditorToDashboardParams',
           type: "BuildParams<'dashboard', 'user'>",
         },
         {
           name: ' addEditorToDashboard',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'AddViewerToDashboardParams',
+          name: ' AddViewerToDashboardParams',
           type: "BuildParams<'dashboard', 'user'>",
         },
         {
           name: ' addViewerToDashboard',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'specifier',
-          name: '_test',
+          name: ' _test',
         },
       ],
     },
@@ -11992,11 +11992,11 @@ export default {
         },
         {
           name: ' SCHEMA_STRING',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'specifier',
-          name: 'TWSchema',
+          name: ' TWSchema',
         },
       ],
     },
@@ -12004,12 +12004,12 @@ export default {
       file: '@tw/utils/authorization/integration.ts',
       exports: [
         {
-          name: 'AddNewIntegrationParams',
+          name: ' AddNewIntegrationParams',
           type: '{\n  accountId: string;\n  providerId: string;\n  integrationId: string;\n}',
         },
         {
           name: ' addNewIntegration',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12018,7 +12018,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getAuthorizationMiddleware',
+          name: ' getAuthorizationMiddleware',
           parameters: [],
         },
       ],
@@ -12068,31 +12068,31 @@ export default {
       exports: [
         {
           name: ' belongsToOneAccount',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' userOrGroupMember',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' hasManyAdmins',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' hasManyDataViewers',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' adminCanManage',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' accountManagerCanManage',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' accountManagerOrAdminCanManage',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12109,14 +12109,14 @@ export default {
       exports: [
         {
           name: ' TW_SCHEMA_STRING',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' TW_SCHEMA',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'TWSchema',
+          name: ' TWSchema',
           type: 'typeof TW_SCHEMA',
         },
       ],
@@ -12138,7 +12138,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'translateSchema',
+          name: ' translateSchema',
           parameters: [
             {
               name: 'spiceDBString',
@@ -12148,7 +12148,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'checkTWSchema',
+          name: ' checkTWSchema',
           parameters: [
             {
               name: 'schema',
@@ -12158,7 +12158,7 @@ export default {
         },
         {
           name: ' _test',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12171,51 +12171,51 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'Definition',
+          name: '\n  Definition',
         },
         {
           type: 'specifier',
-          name: 'Permission',
+          name: '\n  Permission',
         },
         {
           type: 'specifier',
-          name: 'Permissions',
+          name: '\n  Permissions',
         },
         {
           type: 'specifier',
-          name: 'Relation',
+          name: '\n  Relation',
         },
         {
           type: 'specifier',
-          name: 'Relations',
+          name: '\n  Relations',
         },
         {
           type: 'specifier',
-          name: 'Schema',
+          name: '\n  Schema',
         },
         {
           type: 'specifier',
-          name: 'SpiceSchemaString',
+          name: '\n  SpiceSchemaString',
         },
         {
           type: 'specifier',
-          name: 'ResourceRelationKeys',
+          name: '\n  ResourceRelationKeys',
         },
         {
           type: 'specifier',
-          name: 'ResourcePermissionKeys',
+          name: '\n  ResourcePermissionKeys',
         },
         {
           type: 'specifier',
-          name: 'ValidRelationSubjects',
+          name: '\n  ValidRelationSubjects',
         },
         {
           type: 'specifier',
-          name: 'ValidPermissionSubjects',
+          name: '\n  ValidPermissionSubjects',
         },
         {
           type: 'specifier',
-          name: 'AnySchemaRelationName',
+          name: '\n  AnySchemaRelationName',
         },
       ],
     },
@@ -12228,7 +12228,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'validateOneRelation',
+          name: ' validateOneRelation',
           parameters: [
             {
               name: '{\n  subjectId,\n  subjectType,\n  resourceId,\n  resourceType,\n  relation,\n}',
@@ -12238,7 +12238,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'validateRelations',
+          name: ' validateRelations',
           parameters: [
             {
               name: '{\n  subjectIds,\n  subjectId,\n  subjectType,\n  resourceId,\n  resourceType,\n  relation,\n}',
@@ -12253,7 +12253,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'authorizeUser',
+          name: ' authorizeUser',
           parameters: [
             {
               name: 'perm',
@@ -12280,11 +12280,11 @@ export default {
       exports: [
         {
           name: ' axiosInterceptors',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getAxiosClient',
+          name: ' getAxiosClient',
           parameters: [
             {
               name: 'args',
@@ -12299,7 +12299,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'makePrettyAxiosError',
+          name: ' makePrettyAxiosError',
           parameters: [
             {
               name: 'error',
@@ -12318,7 +12318,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getBigtableClient',
+          name: ' getBigtableClient',
           parameters: [
             {
               name: 'args',
@@ -12337,7 +12337,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getBQClient',
+          name: ' getBQClient',
           parameters: [
             {
               name: 'args',
@@ -12356,7 +12356,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getReferencedTables',
+          name: ' getReferencedTables',
           parameters: [
             {
               name: 'query',
@@ -12366,7 +12366,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'calculateQueryTimes',
+          name: ' calculateQueryTimes',
           parameters: [
             {
               name: 'statistics',
@@ -12376,7 +12376,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'calculateShuffleOutputBytes',
+          name: ' calculateShuffleOutputBytes',
           parameters: [
             {
               name: 'query',
@@ -12386,7 +12386,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'calculateBiEngineMode',
+          name: ' calculateBiEngineMode',
           parameters: [
             {
               name: 'query',
@@ -12396,7 +12396,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'calculateAppComponent',
+          name: ' calculateAppComponent',
           parameters: [
             {
               name: 'referer',
@@ -12406,7 +12406,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'calculateEstimatedMaxSlots',
+          name: ' calculateEstimatedMaxSlots',
           parameters: [
             {
               name: 'query',
@@ -12425,7 +12425,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'callServiceEndpoint',
+          name: ' callServiceEndpoint',
           parameters: [
             {
               name: 'serviceId',
@@ -12452,7 +12452,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'cleanString',
+          name: ' cleanString',
           parameters: [
             {
               name: 'val',
@@ -12467,7 +12467,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getClickHouseClient',
+          name: ' getClickHouseClient',
           parameters: [
             {
               name: 'args',
@@ -12477,7 +12477,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getClickhouseSecret',
+          name: ' getClickhouseSecret',
           parameters: [
             {
               name: 'name',
@@ -12487,7 +12487,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getClickhouseConnectionConfig',
+          name: ' getClickhouseConnectionConfig',
           parameters: [
             {
               name: 'args',
@@ -12510,7 +12510,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'monotonic',
+          name: ' monotonic',
           parameters: [
             {
               name: 'opt',
@@ -12519,12 +12519,12 @@ export default {
           ],
         },
         {
-          name: 'Timer',
-          type: 'any',
+          name: ' Timer',
+          type: 'class',
         },
         {
           type: 'function',
-          name: 'formatDurationNanoseconds',
+          name: ' formatDurationNanoseconds',
           parameters: [
             {
               name: 'ns',
@@ -12543,7 +12543,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getCloudRunServiceUrl',
+          name: ' getCloudRunServiceUrl',
           parameters: [
             {
               name: 'serviceName',
@@ -12561,20 +12561,20 @@ export default {
       file: '@tw/utils/compliance/dataDeletion.ts',
       exports: [
         {
-          name: 'DataDeletionParams',
+          name: ' DataDeletionParams',
           type: '{ shopId: string; requestId: string; shopCreatedAt: Date }',
         },
         {
-          name: 'ErrorResponse',
+          name: ' ErrorResponse',
           type: '{\n  canBeRetried?: boolean;\n  errorMessage?: string;\n}',
         },
         {
-          name: 'DataDeletionEndpointArgs',
+          name: ' DataDeletionEndpointArgs',
           type: '{\n  endpoint?: string;\n  handler: (args: DataDeletionParams) => Promise<string>;\n  errorHandler?: (error: any, context: DataDeletionParams) => Promise<ErrorResponse>;\n} & ({ router: Router; app?: never } | { app: Express; router?: never })',
         },
         {
           type: 'function',
-          name: 'createDataDeletionEndpoint',
+          name: ' createDataDeletionEndpoint',
           parameters: [
             {
               name: 'args',
@@ -12584,7 +12584,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'callDataDeletionBeginTopic',
+          name: ' callDataDeletionBeginTopic',
           parameters: [
             {
               name: 'args',
@@ -12594,7 +12594,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'callDataDeletionSuccessTopic',
+          name: ' callDataDeletionSuccessTopic',
           parameters: [
             {
               name: 'args',
@@ -12608,7 +12608,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'callDataDeletionFailureTopic',
+          name: ' callDataDeletionFailureTopic',
           parameters: [
             {
               name: 'args',
@@ -12631,11 +12631,11 @@ export default {
       exports: [
         {
           name: ' traceIdFieldName',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' twContextSymbol',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12644,7 +12644,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'addErrorMessageToDatadog',
+          name: ' addErrorMessageToDatadog',
           parameters: [
             {
               name: 'error',
@@ -12663,7 +12663,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'submitDDMetrics',
+          name: ' submitDDMetrics',
           parameters: [
             {
               name: 'args',
@@ -12682,7 +12682,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'loadDataDog',
+          name: ' loadDataDog',
           parameters: [
             {
               name: 'args',
@@ -12692,7 +12692,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'safeActivateSpan',
+          name: ' safeActivateSpan',
           parameters: [
             {
               name: 'span',
@@ -12711,7 +12711,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'decodePubSubMessage',
+          name: ' decodePubSubMessage',
           parameters: [
             {
               name: 'body',
@@ -12726,7 +12726,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deepDiff',
+          name: ' deepDiff',
           parameters: [
             {
               name: 'fromObject',
@@ -12749,7 +12749,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getRealShopId',
+          name: ' getRealShopId',
           parameters: [
             {
               name: 'shopId',
@@ -12763,7 +12763,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'fetchRealShopId',
+          name: ' fetchRealShopId',
           parameters: [
             {
               name: 'shopId',
@@ -12782,7 +12782,7 @@ export default {
       exports: [
         {
           name: ' distributeInteger',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12791,23 +12791,23 @@ export default {
       exports: [
         {
           name: ' cacheable',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' httpAgent',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' httpsAgent',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' keepAliveAgent',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' keepAliveHttpsAgent',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12816,7 +12816,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'escapeRegExp',
+          name: ' escapeRegExp',
           parameters: [
             {
               name: 'text',
@@ -12830,32 +12830,32 @@ export default {
       file: '@tw/utils/express/apiConfig.ts',
       exports: [
         {
-          name: 'Interfaces',
+          name: ' Interfaces',
           type: "('client' | 'public')[]",
         },
         {
-          name: 'TwOperationObject',
+          name: ' TwOperationObject',
           type: "Partial<OpenAPIV3.OperationObject> & {\n  'x-google-backend'?: any;\n  'x-tw'?: {\n    corsAllowAll?: boolean;\n    websocket?: boolean;\n    pathPrefix?: string;\n    serviceId?: string;\n    interfaces?: Interfaces;\n    rateLimits?: string;\n  };\n}",
         },
         {
-          name: 'OverwriteExternalPath',
+          name: ' OverwriteExternalPath',
           type: '{\n  path?: string;\n  prefix?: string;\n}',
         },
         {
-          name: 'OpenApi',
+          name: ' OpenApi',
           type: '{\n  interfaces?: Interfaces;\n  security?: {\n    hydra?: string[];\n    firebase?: string[];\n    apiKey?: string[];\n    trendsFirebase?: string[];\n    firebaseSession?: string[];\n  };\n  operation?: TwOperationObject;\n  overwriteExternalPath?: OverwriteExternalPath;\n  deployment?: string;\n  websocket?: boolean;\n  corsAllowAll?: boolean;\n}',
         },
         {
-          name: 'ServicesIdsWithSensory',
+          name: ' ServicesIdsWithSensory',
           type: '| ServicesIds\n  | typeof sensoryIntegrationService\n  | typeof sensoryCredentialService\n  | typeof sensoryMaster',
         },
         {
-          name: 'ApiConfigArgs',
+          name: ' ApiConfigArgs',
           type: '{\n  body?: B;\n  query?: Q;\n  resBody?: R;\n  validate?: boolean;\n  openApi?: OpenApi;\n  rateLimits?: RateLimitConfig;\n  auth?: {\n    serviceId: ServicesIdsWithSensory | ((req: Request<P, R, B, Q>) => ServicesIdsWithSensory);\n    accountIds: (string | string[]) | ((req: Request<P, R, B, Q>) => string | string[]);\n    relation?: string; // not implemented\n  };\n  authorization?:\n    | (AuthConfig[] | AuthConfig)\n    | ((req: Request<P, R, B, Q>) => AuthConfig | AuthConfig[]);\n  validatorOptions?: ValidatorOptions;\n  classTransformOptions?: ClassTransformOptions;\n  logValidationErrors?: boolean;\n  selfAuth?: boolean;\n  requireClaims?: FirebaseClaim[];\n  ignoreAdmin?: boolean;\n}',
         },
         {
           type: 'function',
-          name: 'apiConfig',
+          name: ' apiConfig',
           parameters: [
             {
               name: 'args',
@@ -12865,7 +12865,7 @@ export default {
         },
         {
           name: ' formatClassValidatorErrors',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -12874,7 +12874,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'bootRouters',
+          name: ' bootRouters',
           parameters: [
             {
               name: 'args',
@@ -12889,7 +12889,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'concurrencyLimit',
+          name: ' concurrencyLimit',
           parameters: [
             {
               name: 'limit',
@@ -12908,7 +12908,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'demoToRealShopMiddleware',
+          name: ' demoToRealShopMiddleware',
           parameters: [
             {
               name: '_shopId',
@@ -12922,8 +12922,8 @@ export default {
       file: '@tw/utils/express/errors.ts',
       exports: [
         {
-          name: 'HttpErrorResponse',
-          type: 'Error',
+          name: ' HttpErrorResponse',
+          type: ' Error',
         },
       ],
     },
@@ -12932,7 +12932,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'parseExpressApp',
+          name: ' parseExpressApp',
           parameters: [
             {
               name: 'app',
@@ -12942,7 +12942,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'transformExpressPathToOpenApi',
+          name: ' transformExpressPathToOpenApi',
           parameters: [
             {
               name: 'path',
@@ -12957,7 +12957,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'featureFlagMiddleware',
+          name: ' featureFlagMiddleware',
           parameters: [
             {
               name: 'args',
@@ -12972,7 +12972,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getExpressApp',
+          name: ' getExpressApp',
           parameters: [
             {
               name: 'args',
@@ -12981,32 +12981,32 @@ export default {
           ],
         },
         {
-          name: 'RequestWithUser',
+          name: ' RequestWithUser',
           type: 'Request & { user?: FirebaseUser | HydraApp | undefined }',
         },
         {
           type: 'specifier',
-          name: 'Express',
+          name: ' Express',
         },
         {
           type: 'specifier',
-          name: 'Router',
+          name: ' Router',
         },
         {
           type: 'specifier',
-          name: 'Request',
+          name: ' Request',
         },
         {
           type: 'specifier',
-          name: 'Response',
+          name: ' Response',
         },
         {
           type: 'specifier',
-          name: 'NextFunction',
+          name: ' NextFunction',
         },
         {
           type: 'specifier',
-          name: 'RequestHandler',
+          name: ' RequestHandler',
         },
       ],
     },
@@ -13015,11 +13015,11 @@ export default {
       exports: [
         {
           type: 'specifier',
-          name: 'PubsubRequest',
+          name: ' PubsubRequest',
         },
         {
           type: 'specifier',
-          name: 'PubsubPushReqBody',
+          name: ' PubsubPushReqBody',
         },
       ],
     },
@@ -13027,12 +13027,12 @@ export default {
       file: '@tw/utils/express/logging.ts',
       exports: [
         {
-          name: 'CloudLoggingHttpRequest',
+          name: ' CloudLoggingHttpRequest',
           type: 'interface',
         },
         {
           type: 'function',
-          name: 'removeFalsyProperties',
+          name: ' removeFalsyProperties',
           parameters: [
             {
               name: 'obj',
@@ -13042,7 +13042,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'createAccessLoggingMiddleware',
+          name: ' createAccessLoggingMiddleware',
           parameters: [
             {
               name: 'args',
@@ -13052,7 +13052,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'traceLogsLink',
+          name: ' traceLogsLink',
           parameters: [
             {
               name: 'traceId',
@@ -13066,7 +13066,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'logsLinkFilter',
+          name: ' logsLinkFilter',
           parameters: [
             {
               name: 'filter',
@@ -13093,7 +13093,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addMiddleWares',
+          name: ' addMiddleWares',
           parameters: [
             {
               name: 'app',
@@ -13107,7 +13107,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'removeServiceIdPrefix',
+          name: ' removeServiceIdPrefix',
           parameters: [
             {
               name: 'req',
@@ -13125,7 +13125,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'decodePubsub',
+          name: ' decodePubsub',
           parameters: [
             {
               name: 'req',
@@ -13143,7 +13143,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'downloadFileData',
+          name: ' downloadFileData',
           parameters: [
             {
               name: 'req',
@@ -13161,7 +13161,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'ping',
+          name: ' ping',
           parameters: [
             {
               name: '_req',
@@ -13175,7 +13175,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'devopsDebug',
+          name: ' devopsDebug',
           parameters: [
             {
               name: '_req',
@@ -13189,7 +13189,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'decodeUser',
+          name: ' decodeUser',
           parameters: [
             {
               name: 'req',
@@ -13207,7 +13207,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addContextMiddleware',
+          name: ' addContextMiddleware',
           parameters: [
             {
               name: 'args',
@@ -13217,7 +13217,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'enableCors',
+          name: ' enableCors',
           parameters: [
             {
               name: 'args',
@@ -13227,7 +13227,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'enableCompression',
+          name: ' enableCompression',
           parameters: [
             {
               name: 'args',
@@ -13237,7 +13237,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'addMiddleWaresToNestJs',
+          name: ' addMiddleWaresToNestJs',
           parameters: [
             {
               name: 'app',
@@ -13251,7 +13251,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'requireClaim',
+          name: ' requireClaim',
           parameters: [
             {
               name: 'claim',
@@ -13261,7 +13261,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'globalReqValidatorMiddleware',
+          name: ' globalReqValidatorMiddleware',
           parameters: [
             {
               name: 'req',
@@ -13287,12 +13287,12 @@ export default {
       file: '@tw/utils/express/rateLimitMiddleware.ts',
       exports: [
         {
-          name: 'RateLimitMiddlewareOptions',
+          name: ' RateLimitMiddlewareOptions',
           type: '{\n  throwOnError?: boolean;\n  redisHost?: string;\n  dryRun?: boolean;\n  omitHeaders?: boolean;\n}',
         },
         {
           type: 'function',
-          name: 'rateLimitMiddleware',
+          name: ' rateLimitMiddleware',
           parameters: [
             {
               name: 'conf',
@@ -13306,7 +13306,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'serializeConf',
+          name: ' serializeConf',
           parameters: [
             {
               name: 'conf',
@@ -13316,7 +13316,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'parseConf',
+          name: ' parseConf',
           parameters: [
             {
               name: 'conf',
@@ -13326,7 +13326,7 @@ export default {
         },
         {
           name: ' _test',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13334,39 +13334,39 @@ export default {
       file: '@tw/utils/express/types.ts',
       exports: [
         {
-          name: 'Route',
+          name: ' Route',
           type: 'interface',
         },
         {
-          name: 'Layer',
+          name: ' Layer',
           type: 'interface',
         },
         {
-          name: 'ExpressRegex',
+          name: ' ExpressRegex',
           type: 'interface',
         },
         {
-          name: 'RouteMetaData',
+          name: ' RouteMetaData',
           type: 'interface',
         },
         {
-          name: 'Parameter',
+          name: ' Parameter',
           type: 'interface',
         },
         {
-          name: 'Key',
+          name: ' Key',
           type: 'interface',
         },
         {
-          name: 'MiddleWareConfig',
+          name: ' MiddleWareConfig',
           type: '{\n  enableCors?: BaseMiddlewareConfig & { args?: { allowAll?: boolean } };\n  bodyParser?: BaseMiddlewareConfig;\n  decodePubsub?: BaseMiddlewareConfig;\n  decodeUser?: BaseMiddlewareConfig;\n  contextMiddleware?: BaseMiddlewareConfig;\n  removeServiceIdPrefix?: BaseMiddlewareConfig;\n  downloadFileData?: BaseMiddlewareConfig;\n  accessLogging?: BaseMiddlewareConfig & {\n    args?: {\n      logLevel?: LogLevel;\n      logPing?: boolean;\n      logAtStart?: boolean;\n    };\n  };\n  enableCompression?: BaseMiddlewareConfig & {\n    args?: { options?: CompressionOptions };\n  };\n  addContextMiddleware?: BaseMiddlewareConfig & {\n    args?: { noDDTags?: boolean };\n  };\n  generalReqValidators?:BaseMiddlewareConfig\n}',
         },
         {
-          name: 'PubsubPushReqBody',
+          name: ' PubsubPushReqBody',
           type: 'interface',
         },
         {
-          name: 'PubsubRequest',
+          name: ' PubsubRequest',
           type: 'interface',
         },
       ],
@@ -13376,7 +13376,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'removeServiceIdFromPath',
+          name: ' removeServiceIdFromPath',
           parameters: [
             {
               name: 'serviceId',
@@ -13395,7 +13395,7 @@ export default {
       exports: [
         {
           name: ' extractProductHandleFromUrl',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13404,7 +13404,7 @@ export default {
       exports: [
         {
           name: ' getFFChangePubSubHandler',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13417,7 +13417,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'checkPeriod',
+          name: ' checkPeriod',
           parameters: [
             {
               name: 'periodRequest',
@@ -13432,7 +13432,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'startJob',
+          name: ' startJob',
           parameters: [
             {
               name: 'args',
@@ -13442,7 +13442,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'importDayFetcher',
+          name: ' importDayFetcher',
           parameters: [
             {
               name: 'req',
@@ -13465,7 +13465,7 @@ export default {
       exports: [
         {
           name: ' facebookGetValueFromAction',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13474,7 +13474,7 @@ export default {
       exports: [
         {
           name: ' getAccountsWithDelta',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13483,7 +13483,7 @@ export default {
       exports: [
         {
           name: ' isDeltaError',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13491,12 +13491,12 @@ export default {
       file: '@tw/utils/fetcher/index.ts',
       exports: [
         {
-          name: 'preconditionResult',
+          name: ' preconditionResult',
           type: '{ continue: boolean; message?: any; timer?: NodeJS.Timeout }',
         },
         {
           type: 'function',
-          name: 'checkPrecondition',
+          name: ' checkPrecondition',
           parameters: [
             {
               name: 'req',
@@ -13510,7 +13510,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'onSuccess',
+          name: ' onSuccess',
           parameters: [
             {
               name: 'req',
@@ -13520,7 +13520,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'onFailure',
+          name: ' onFailure',
           parameters: [
             {
               name: 'req',
@@ -13539,7 +13539,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'updateJobIndex',
+          name: ' updateJobIndex',
           parameters: [
             {
               name: 'jobID',
@@ -13561,7 +13561,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getJob',
+          name: ' getJob',
           parameters: [
             {
               name: 'jobID',
@@ -13571,7 +13571,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'updateJob',
+          name: ' updateJob',
           parameters: [
             {
               name: 'jobID',
@@ -13585,7 +13585,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getJobLogger',
+          name: ' getJobLogger',
           parameters: [
             {
               name: 'jobData',
@@ -13599,7 +13599,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'preRequestTimeout',
+          name: ' preRequestTimeout',
           parameters: [
             {
               name: 'timeoutHandle',
@@ -13613,7 +13613,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'callImport',
+          name: ' callImport',
           parameters: [
             {
               name: 'req',
@@ -13640,7 +13640,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'buildCollectionCondition',
+          name: ' buildCollectionCondition',
           parameters: [
             {
               name: '{\n  collectionName,\n  subCollectionName,\n  propertyFieldName,\n  propertyType,\n  comparator,\n  values,\n}',
@@ -13650,7 +13650,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'buildCondition',
+          name: ' buildCondition',
           parameters: [
             {
               name: '{\n  propertyFieldName,\n  propertyType,\n  comparator,\n  values,\n}',
@@ -13660,7 +13660,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'handleValueSpecialChars',
+          name: ' handleValueSpecialChars',
           parameters: [
             {
               name: 'value',
@@ -13683,7 +13683,7 @@ export default {
       exports: [
         {
           name: ' backupFsCollection',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13696,7 +13696,7 @@ export default {
       exports: [
         {
           name: ' restoreFsCollection',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13709,17 +13709,17 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getCloudRunInstanceId',
+          name: ' getCloudRunInstanceId',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getServiceAccountEmail',
+          name: ' getServiceAccountEmail',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'checkIfPreempted',
+          name: ' checkIfPreempted',
           parameters: [],
         },
       ],
@@ -13729,7 +13729,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getIdToken',
+          name: ' getIdToken',
           parameters: [
             {
               name: 'audience',
@@ -13739,12 +13739,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'getGCPClientEmail',
+          name: ' getGCPClientEmail',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getAccessToken',
+          name: ' getAccessToken',
           parameters: [],
         },
       ],
@@ -13754,7 +13754,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getStorageClient',
+          name: ' getStorageClient',
           parameters: [
             {
               name: 'opts',
@@ -13769,7 +13769,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'downloadFile',
+          name: ' downloadFile',
           parameters: [
             {
               name: 'bucketName',
@@ -13796,7 +13796,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'saveToBucket',
+          name: ' saveToBucket',
           parameters: [
             {
               name: 'bucketName',
@@ -13835,7 +13835,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getGeneratedHours',
+          name: ' getGeneratedHours',
           parameters: [
             {
               name: 'day',
@@ -13849,7 +13849,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getGeneratedDates',
+          name: ' getGeneratedDates',
           parameters: [
             {
               name: 'startDate',
@@ -13876,7 +13876,7 @@ export default {
       exports: [
         {
           name: ' getAllUserIdsForShop',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13885,7 +13885,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getBaseUrl',
+          name: ' getBaseUrl',
           parameters: [
             {
               name: 'serviceId',
@@ -13903,7 +13903,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getFullUrl',
+          name: ' getFullUrl',
           parameters: [
             {
               name: 'serviceId',
@@ -13930,7 +13930,7 @@ export default {
       exports: [
         {
           name: ' getEarliestDate',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -13939,7 +13939,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getOrder',
+          name: ' getOrder',
           parameters: [
             {
               name: 'shopId',
@@ -13953,7 +13953,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getOrders',
+          name: ' getOrders',
           parameters: [
             {
               name: 'shopId',
@@ -13980,7 +13980,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getServiceAccountData',
+          name: ' getServiceAccountData',
           parameters: [
             {
               name: 'accountId',
@@ -13999,7 +13999,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getShop',
+          name: ' getShop',
           parameters: [
             {
               name: 'shopDomain',
@@ -14009,11 +14009,11 @@ export default {
         },
         {
           name: ' setTrendsShop',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'setShop',
+          name: ' setShop',
           parameters: [
             {
               name: 'shopDomain',
@@ -14035,7 +14035,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getShopData',
+          name: ' getShopData',
           parameters: [
             {
               name: 'shopId',
@@ -14062,7 +14062,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'hashString',
+          name: ' hashString',
           parameters: [
             {
               name: 'str',
@@ -14081,7 +14081,7 @@ export default {
       exports: [
         {
           name: ' createUtmCampaign',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -14090,7 +14090,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'initializeFirebaseApp',
+          name: ' initializeFirebaseApp',
           parameters: [
             {
               name: 'otherAdmin',
@@ -14109,7 +14109,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'checkPeriod',
+          name: ' checkPeriod',
           parameters: [
             {
               name: 'periodRequest',
@@ -14124,7 +14124,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'startJob',
+          name: ' startJob',
           parameters: [
             {
               name: 'args',
@@ -14134,7 +14134,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'importDayFetcher',
+          name: ' importDayFetcher',
           parameters: [
             {
               name: 'req',
@@ -14157,7 +14157,7 @@ export default {
       exports: [
         {
           name: ' getAccountsWithDelta',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -14166,7 +14166,7 @@ export default {
       exports: [
         {
           name: ' isDeltaError',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -14174,12 +14174,12 @@ export default {
       file: '@tw/utils/integrationFetcher/index.ts',
       exports: [
         {
-          name: 'preconditionResult',
+          name: ' preconditionResult',
           type: '{ continue: boolean; message?: any; timer?: NodeJS.Timeout }',
         },
         {
           type: 'function',
-          name: 'checkPrecondition',
+          name: ' checkPrecondition',
           parameters: [
             {
               name: 'req',
@@ -14193,7 +14193,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'onSuccess',
+          name: ' onSuccess',
           parameters: [
             {
               name: 'req',
@@ -14203,7 +14203,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'onFailure',
+          name: ' onFailure',
           parameters: [
             {
               name: 'req',
@@ -14222,7 +14222,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'updateJobIndex',
+          name: ' updateJobIndex',
           parameters: [
             {
               name: 'jobID',
@@ -14244,7 +14244,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getJob',
+          name: ' getJob',
           parameters: [
             {
               name: 'jobID',
@@ -14254,7 +14254,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'updateJob',
+          name: ' updateJob',
           parameters: [
             {
               name: 'jobID',
@@ -14268,7 +14268,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getJobLogger',
+          name: ' getJobLogger',
           parameters: [
             {
               name: 'jobData',
@@ -14282,7 +14282,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'preRequestTimeout',
+          name: ' preRequestTimeout',
           parameters: [
             {
               name: 'timeoutHandle',
@@ -14296,7 +14296,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'callImport',
+          name: ' callImport',
           parameters: [
             {
               name: 'req',
@@ -14318,7 +14318,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'updateServiceLastUpdated',
+          name: ' updateServiceLastUpdated',
           parameters: [
             {
               name: 'accountId',
@@ -14341,7 +14341,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getIntegrationsRedisKey',
+          name: ' getIntegrationsRedisKey',
           parameters: [
             {
               name: 'provider_id',
@@ -14364,7 +14364,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getBucket',
+          name: ' getBucket',
           parameters: [],
         },
       ],
@@ -14378,11 +14378,11 @@ export default {
       exports: [
         {
           name: ' fromJsonArrayToJsonL',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' fromJsonLToJsonArray',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -14391,7 +14391,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getK8sPodInfo',
+          name: ' getK8sPodInfo',
           parameters: [],
         },
       ],
@@ -14405,7 +14405,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'pubsubPullToPush',
+          name: ' pubsubPullToPush',
           parameters: [
             {
               name: 'args',
@@ -14420,7 +14420,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getLogger',
+          name: ' getLogger',
           parameters: [
             {
               name: 'args',
@@ -14430,7 +14430,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'setLogContext',
+          name: ' setLogContext',
           parameters: [
             {
               name: 'logContext',
@@ -14447,20 +14447,20 @@ export default {
           type: 'bunyan',
         },
         {
-          name: 'Bunyan',
+          name: ' Bunyan',
           type: 'bunyan',
         },
         {
           type: 'specifier',
-          name: 'LoggerOptions',
+          name: ' LoggerOptions',
         },
         {
           type: 'specifier',
-          name: 'LogLevel',
+          name: ' LogLevel',
         },
         {
           type: 'specifier',
-          name: 'LogLevelString',
+          name: ' LogLevelString',
         },
       ],
     },
@@ -14469,7 +14469,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'mapCamelToSnake',
+          name: ' mapCamelToSnake',
           parameters: [
             {
               name: 'obj',
@@ -14497,7 +14497,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'connectToMongoDb',
+          name: ' connectToMongoDb',
           parameters: [
             {
               name: 'args',
@@ -14507,7 +14507,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getConnection',
+          name: ' getConnection',
           parameters: [
             {
               name: 'name',
@@ -14526,7 +14526,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'trackNotificationEvent',
+          name: ' trackNotificationEvent',
           parameters: [
             {
               name: 'action',
@@ -14569,7 +14569,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'merge',
+          name: ' merge',
           parameters: [
             {
               name: 'objects',
@@ -14579,7 +14579,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'definedKeys',
+          name: ' definedKeys',
           parameters: [
             {
               name: 'obj',
@@ -14589,7 +14589,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'nonEmptyKeys',
+          name: ' nonEmptyKeys',
           parameters: [
             {
               name: 'obj',
@@ -14608,7 +14608,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'runCommand',
+          name: ' runCommand',
           parameters: [
             {
               name: 'args',
@@ -14627,7 +14627,7 @@ export default {
       exports: [
         {
           name: ' OTEL_URL',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' otelSDK',
@@ -14635,12 +14635,12 @@ export default {
         },
         {
           type: 'function',
-          name: 'setupOtel',
+          name: ' setupOtel',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getOtelMeter',
+          name: ' getOtelMeter',
           parameters: [
             {
               name: 'name',
@@ -14650,7 +14650,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getOtelTracer',
+          name: ' getOtelTracer',
           parameters: [
             {
               name: 'name',
@@ -14660,7 +14660,7 @@ export default {
         },
         {
           name: ' otelTrace',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -14669,7 +14669,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createCluster',
+          name: ' createCluster',
           parameters: [
             {
               name: 'mainFunction',
@@ -14688,7 +14688,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'eventLoopMonitor',
+          name: ' eventLoopMonitor',
           parameters: [
             {
               name: 'thresholdMs',
@@ -14707,7 +14707,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'createLruCache',
+          name: ' createLruCache',
           parameters: [
             {
               name: 'args',
@@ -14722,7 +14722,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'runInWorkerThread',
+          name: ' runInWorkerThread',
           parameters: [
             {
               name: 'func',
@@ -14745,7 +14745,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'monitorPGPools',
+          name: ' monitorPGPools',
           parameters: [],
         },
       ],
@@ -14759,7 +14759,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getPGPool',
+          name: ' getPGPool',
           parameters: [
             {
               name: 'args',
@@ -14769,7 +14769,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getPGConnectionConfig',
+          name: ' getPGConnectionConfig',
           parameters: [
             {
               name: 'config',
@@ -14784,7 +14784,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'addTags',
+          name: ' addTags',
           parameters: [
             {
               name: 'sql',
@@ -14803,7 +14803,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'convertNamedParams',
+          name: ' convertNamedParams',
           parameters: [
             {
               name: 'parameterizedSql',
@@ -14822,11 +14822,11 @@ export default {
       exports: [
         {
           name: ' mimeZipPrefix',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'sicy2',
+          name: ' sicy2',
           parameters: [],
         },
       ],
@@ -14836,11 +14836,11 @@ export default {
       exports: [
         {
           name: ' letters92',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'num2base62',
+          name: ' num2base62',
           parameters: [
             {
               name: 'n',
@@ -14850,7 +14850,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'num2base92',
+          name: ' num2base92',
           parameters: [
             {
               name: 'n',
@@ -14865,7 +14865,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'decodeJa3',
+          name: ' decodeJa3',
           parameters: [
             {
               name: 's',
@@ -14880,7 +14880,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'str2hex',
+          name: ' str2hex',
           parameters: [
             {
               name: 'str',
@@ -14894,7 +14894,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'hex2str',
+          name: ' hex2str',
           parameters: [
             {
               name: 'hex',
@@ -14913,7 +14913,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'timeFromId',
+          name: ' timeFromId',
           parameters: [
             {
               name: 'id',
@@ -14923,7 +14923,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'genId',
+          name: ' genId',
           parameters: [
             {
               name: 'tail',
@@ -14945,7 +14945,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'isValidId',
+          name: ' isValidId',
           parameters: [
             {
               name: 'candidate',
@@ -14955,7 +14955,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'sliceWithHash',
+          name: ' sliceWithHash',
           parameters: [
             {
               name: 'str',
@@ -14982,7 +14982,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'lewHash32',
+          name: ' lewHash32',
           parameters: [
             {
               name: 'key',
@@ -14996,7 +14996,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'lewHashStr',
+          name: ' lewHashStr',
           parameters: [
             {
               name: 'key',
@@ -15010,7 +15010,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'lewHashStr36',
+          name: ' lewHashStr36',
           parameters: [
             {
               name: 'key',
@@ -15024,7 +15024,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'lewHashB6',
+          name: ' lewHashB6',
           parameters: [
             {
               name: 's',
@@ -15039,7 +15039,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'mulberry32',
+          name: ' mulberry32',
           parameters: [
             {
               name: 'a',
@@ -15049,7 +15049,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'mulberry01',
+          name: ' mulberry01',
           parameters: [
             {
               name: 'a',
@@ -15059,7 +15059,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'seedIfNeeded32',
+          name: ' seedIfNeeded32',
           parameters: [
             {
               name: 'probablySeed',
@@ -15078,7 +15078,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'allLimit',
+          name: ' allLimit',
           parameters: [
             {
               name: 'limit',
@@ -15100,7 +15100,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'timeout',
+          name: ' timeout',
           parameters: [
             {
               name: 'timeoutMs',
@@ -15118,7 +15118,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'allObject',
+          name: ' allObject',
           parameters: [
             {
               name: 'object',
@@ -15128,7 +15128,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'chain',
+          name: ' chain',
           parameters: [
             {
               name: 'promiseFactories',
@@ -15138,7 +15138,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'serial',
+          name: ' serial',
           parameters: [
             {
               name: 'inputs',
@@ -15155,8 +15155,8 @@ export default {
           ],
         },
         {
-          name: 'Waiter',
-          type: 'any',
+          name: ' Waiter',
+          type: 'class',
         },
       ],
     },
@@ -15164,12 +15164,12 @@ export default {
       file: '@tw/utils/providers.ts',
       exports: [
         {
-          name: 'serviceToAccounts',
+          name: ' serviceToAccounts',
           type: '{\n  [key in ServicesIds]: { id: string; providerAccount: string; integrationId?: string }[];\n}',
         },
         {
           type: 'function',
-          name: 'getShopAccountIds',
+          name: ' getShopAccountIds',
           parameters: [
             {
               name: 'shopId',
@@ -15179,7 +15179,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getShopAccountIds',
+          name: ' getShopAccountIds',
           parameters: [
             {
               name: 'shopId',
@@ -15193,7 +15193,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getShopAccountIds',
+          name: ' getShopAccountIds',
           parameters: [
             {
               name: 'shopId',
@@ -15212,7 +15212,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getPubSubClient',
+          name: ' getPubSubClient',
           parameters: [
             {
               name: 'opts',
@@ -15227,15 +15227,15 @@ export default {
       exports: [
         {
           name: ' DEBUG_STORAGE_BUCKET',
-          type: 'any',
+          type: 'var',
         },
         {
-          name: 'RequestWithPubsubDebug',
+          name: ' RequestWithPubsubDebug',
           type: 'interface',
         },
         {
           type: 'function',
-          name: 'debugPubsubMiddleware',
+          name: ' debugPubsubMiddleware',
           parameters: [
             {
               name: 'topicName',
@@ -15245,7 +15245,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'debugPubsubMessage',
+          name: ' debugPubsubMessage',
           parameters: [
             {
               name: 'topicName',
@@ -15263,7 +15263,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'replayMessagesToPubSub',
+          name: ' replayMessagesToPubSub',
           parameters: [
             {
               name: '{\n  bucketName,\n  topicName,\n  filter,\n  folderName,\n  options = {},\n}',
@@ -15273,7 +15273,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'replayMessagesToEndpoint',
+          name: ' replayMessagesToEndpoint',
           parameters: [
             {
               name: '{\n  bucketName,\n  topicName,\n  folderName,\n  serviceId,\n  endpoint,\n  filter,\n  options = {},\n}',
@@ -15292,7 +15292,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'pullPubSubMessages',
+          name: ' pullPubSubMessages',
           parameters: [
             {
               name: 'subscriptionName',
@@ -15315,11 +15315,11 @@ export default {
       exports: [
         {
           name: ' batching',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'callPubSub',
+          name: ' callPubSub',
           parameters: [
             {
               name: 'topicName',
@@ -15346,7 +15346,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'sendMessageToClient',
+          name: ' sendMessageToClient',
           parameters: [
             {
               name: 'event',
@@ -15356,7 +15356,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'sendMessageToClientPubsub',
+          name: ' sendMessageToClientPubsub',
           parameters: [
             {
               name: 'event',
@@ -15370,7 +15370,7 @@ export default {
       file: '@tw/utils/redisClient.ts',
       exports: [
         {
-          name: 'RedisClient',
+          name: ' RedisClient',
           type: 'ReturnType<typeof createClient>',
         },
         {
@@ -15379,7 +15379,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getRedisClient',
+          name: ' getRedisClient',
           parameters: [
             {
               name: 'host',
@@ -15398,7 +15398,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'retry',
+          name: ' retry',
           parameters: [
             {
               name: 'fn',
@@ -15417,7 +15417,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'initRuntime',
+          name: ' initRuntime',
           parameters: [
             {
               name: 'args',
@@ -15432,7 +15432,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'safeDivide',
+          name: ' safeDivide',
           parameters: [
             {
               name: 'numerator',
@@ -15451,7 +15451,7 @@ export default {
       exports: [
         {
           name: ' saveMediaItem',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -15460,7 +15460,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'saveStreamToBucket',
+          name: ' saveStreamToBucket',
           parameters: [
             {
               name: 'bucketName',
@@ -15491,7 +15491,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getSecretFromManager',
+          name: ' getSecretFromManager',
           parameters: [
             {
               name: 'name',
@@ -15510,11 +15510,11 @@ export default {
       exports: [
         {
           name: ' secretsPath',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getSecret',
+          name: ' getSecret',
           parameters: [
             {
               name: 'key',
@@ -15532,16 +15532,16 @@ export default {
       file: '@tw/utils/sendFirebaseEmail.ts',
       exports: [
         {
-          name: 'Attachment',
+          name: ' Attachment',
           type: '{\n  filname: string;\n  content: string;\n  path?: string;\n  href?: string;\n  httpHeaders?: any;\n  contentType?: string;\n  contentDisposition: string;\n  cid?: string;\n  encoding?: string;\n  headers?: any;\n}',
         },
         {
-          name: 'SendFirebaseEmailData',
+          name: ' SendFirebaseEmailData',
           type: '{\n  to: string | string[];\n  from?: string;\n  cc?: string | string[];\n  bcc?: string | string[];\n  replyTo?: string;\n  toUids?: string[]; // recipient Uids\n  ccUids?: string[];\n  bccUids?: string[];\n  message: {\n    subject: string;\n    html?: string;\n    text?: string;\n    amp?: string;\n    messageId?: string;\n    attachments?: Attachment[];\n  };\n  headers?: any;\n}',
         },
         {
           type: 'function',
-          name: 'sendFirebaseEmail',
+          name: ' sendFirebaseEmail',
           parameters: [
             {
               name: 'data',
@@ -15564,7 +15564,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'parseServiceTargetUrl',
+          name: ' parseServiceTargetUrl',
           parameters: [
             {
               name: 'path',
@@ -15579,7 +15579,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getServiceEntry',
+          name: ' getServiceEntry',
           parameters: [
             {
               name: 'serviceId',
@@ -15602,7 +15602,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deleteIntegrationStateFromShop',
+          name: ' deleteIntegrationStateFromShop',
           parameters: [
             {
               name: 'shopId',
@@ -15625,7 +15625,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'deleteProviderStateFromShop',
+          name: ' deleteProviderStateFromShop',
           parameters: [
             {
               name: 'shopId',
@@ -15639,7 +15639,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'deleteProviderErrorFromShop',
+          name: ' deleteProviderErrorFromShop',
           parameters: [
             {
               name: 'shopId',
@@ -15658,7 +15658,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getShopActiveStatus',
+          name: ' getShopActiveStatus',
           parameters: [
             {
               name: 'shopId',
@@ -15681,7 +15681,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'isProviderConnectedToShop',
+          name: ' isProviderConnectedToShop',
           parameters: [
             {
               name: 'shopData',
@@ -15700,7 +15700,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'saveIntegrationStatusForShop',
+          name: ' saveIntegrationStatusForShop',
           parameters: [
             {
               name: 'shopId',
@@ -15731,7 +15731,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getShopServiceDoc',
+          name: ' getShopServiceDoc',
           parameters: [
             {
               name: 'shopDomain',
@@ -15745,7 +15745,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getShopServiceData',
+          name: ' getShopServiceData',
           parameters: [
             {
               name: 'shopDomain',
@@ -15759,7 +15759,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getIsServiceConnected',
+          name: ' getIsServiceConnected',
           parameters: [
             {
               name: 'shopData',
@@ -15773,7 +15773,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'deleteAccounts',
+          name: ' deleteAccounts',
           parameters: [
             {
               name: 'shopDomain',
@@ -15791,7 +15791,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'saveInvalidAccountConnection',
+          name: ' saveInvalidAccountConnection',
           parameters: [
             {
               name: 'params',
@@ -15801,7 +15801,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'updateLastImport',
+          name: ' updateLastImport',
           parameters: [
             {
               name: 'shopDomain',
@@ -15819,7 +15819,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'getLastImport',
+          name: ' getLastImport',
           parameters: [
             {
               name: 'shopDomain',
@@ -15833,7 +15833,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'checkServicesConnection',
+          name: ' checkServicesConnection',
           parameters: [
             {
               name: 'shopDomain',
@@ -15848,7 +15848,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'sleep',
+          name: ' sleep',
           parameters: [
             {
               name: 'ms',
@@ -15863,7 +15863,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'snapshotToArray',
+          name: ' snapshotToArray',
           parameters: [
             {
               name: 'snapshot',
@@ -15878,7 +15878,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'softReimport',
+          name: ' softReimport',
           parameters: [
             {
               name: 'bucketName',
@@ -15905,7 +15905,7 @@ export default {
       exports: [
         {
           name: ' splitArrayToChunks',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -15918,7 +15918,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'array2list',
+          name: ' array2list',
           parameters: [
             {
               name: 'arr',
@@ -15937,7 +15937,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'separate',
+          name: ' separate',
           parameters: [
             {
               name: 'str',
@@ -15947,7 +15947,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'capitalize',
+          name: ' capitalize',
           parameters: [
             {
               name: 'str',
@@ -15957,7 +15957,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'camel',
+          name: ' camel',
           parameters: [
             {
               name: 'str',
@@ -15967,7 +15967,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'pascal',
+          name: ' pascal',
           parameters: [
             {
               name: 'str',
@@ -15977,7 +15977,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'kebab',
+          name: ' kebab',
           parameters: [
             {
               name: 'str',
@@ -15987,7 +15987,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'snake',
+          name: ' snake',
           parameters: [
             {
               name: 'str',
@@ -16005,35 +16005,35 @@ export default {
       file: '@tw/utils/string/types.ts',
       exports: [
         {
-          name: 'EatFirstChar',
+          name: ' EatFirstChar',
           type: "T extends `${infer _}${infer B}` ? B : ''",
         },
         {
-          name: 'MatchStringStart',
+          name: ' MatchStringStart',
           type: 'Candidate extends Pattern\n  ? true\n  : Candidate extends `${Pattern}${infer _}`\n  ? true\n  : false',
         },
         {
-          name: 'MatchStringEnd',
+          name: ' MatchStringEnd',
           type: 'Candidate extends Pattern\n  ? true\n  : Candidate extends `${infer _}${Pattern}`\n  ? true\n  : false',
         },
         {
-          name: 'MatchString',
+          name: ' MatchString',
           type: "Candidate extends ''\n  ? false\n  : MatchStringStart<Candidate, Pattern> extends true\n  ? true\n  : MatchStringEnd<Candidate, Pattern> extends true\n  ? true\n  : MatchString<EatFirstChar<Candidate>, Pattern> extends true\n  ? true\n  : false",
         },
         {
-          name: 'Trim',
+          name: ' Trim',
           type: 'T extends ` ${infer Rest}` ? Trim<Rest> : T',
         },
         {
-          name: 'TrimEnd',
+          name: ' TrimEnd',
           type: 'T extends `${infer Rest} ` ? TrimEnd<Rest> : T',
         },
         {
-          name: 'JoinStrings',
+          name: ' JoinStrings',
           type: "T extends [infer Head, ...infer Tail]\n  ? Tail extends readonly []\n    ? Head\n    : Tail extends readonly string[]\n    ? Head extends ''\n      ? JoinStrings<Tail, Sep>\n      : JoinStrings<Tail, Sep> extends ''\n      ? `${Head & string}`\n      : `${Head & string}${Sep & string}${JoinStrings<Tail, Sep>}`\n    : `${Head & string}`\n  : T extends [infer Head]\n  ? `${Head & string}`\n  : ''",
         },
         {
-          name: 'StringContains',
+          name: ' StringContains',
           type: 'Input extends Term\n  ? true\n  : Input extends `${Term}${infer _}`\n  ? true\n  : Input extends `${infer _0}${Term}${infer _1}`\n  ? true\n  : Input extends `${infer _}${Term}`\n  ? true\n  : false',
         },
       ],
@@ -16042,12 +16042,12 @@ export default {
       file: '@tw/utils/surveys/attributionQuestionRegex.ts',
       exports: [
         {
-          name: 'attributionRegex',
+          name: ' attributionRegex',
           type: '{\n  lang: String;\n  regex: RegExp;\n  shop?: string;\n}',
         },
         {
           type: 'function',
-          name: 'keyWordsFound',
+          name: ' keyWordsFound',
           parameters: [
             {
               name: 'question',
@@ -16070,7 +16070,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'isCollectableQuestion',
+          name: ' isCollectableQuestion',
           parameters: [
             {
               name: 'respOptions',
@@ -16085,7 +16085,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'mapResponseToService',
+          name: ' mapResponseToService',
           parameters: [
             {
               name: 'response',
@@ -16095,7 +16095,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'mapResponseToSource',
+          name: ' mapResponseToSource',
           parameters: [
             {
               name: 'response',
@@ -16105,7 +16105,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'mapSourceToSummaryService',
+          name: ' mapSourceToSummaryService',
           parameters: [
             {
               name: 'source',
@@ -16120,11 +16120,11 @@ export default {
       exports: [
         {
           name: ' surveyResponseTokens',
-          type: 'any',
+          type: 'var',
         },
         {
           name: ' surveyResponseAtomicTokens',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -16133,7 +16133,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'detectLanguage',
+          name: ' detectLanguage',
           parameters: [
             {
               name: 'defaultQuestion',
@@ -16148,7 +16148,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'toArray',
+          name: ' toArray',
           parameters: [
             {
               name: 'snapshot',
@@ -16163,7 +16163,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'toFixed',
+          name: ' toFixed',
           parameters: [
             {
               name: 'num',
@@ -16182,7 +16182,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'toHash',
+          name: ' toHash',
           parameters: [
             {
               name: 'snapshot',
@@ -16196,21 +16196,21 @@ export default {
       file: '@tw/utils/twContext.ts',
       exports: [
         {
-          name: 'RequestGlobalKeys',
+          name: ' RequestGlobalKeys',
           type: 'interface',
         },
         {
           name: ' asyncLocalStorage',
-          type: 'any',
+          type: 'var',
         },
         {
           type: 'function',
-          name: 'getStore',
+          name: ' getStore',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'getStoreKey',
+          name: ' getStoreKey',
           parameters: [
             {
               name: 'key',
@@ -16220,7 +16220,7 @@ export default {
         },
         {
           type: 'function',
-          name: 'setStoreKey',
+          name: ' setStoreKey',
           parameters: [
             {
               name: 'key',
@@ -16234,17 +16234,17 @@ export default {
         },
         {
           type: 'function',
-          name: 'startTrace',
+          name: ' startTrace',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createTraceId',
+          name: ' createTraceId',
           parameters: [],
         },
         {
           type: 'function',
-          name: 'createTraceField',
+          name: ' createTraceField',
           parameters: [
             {
               name: 'traceId',
@@ -16259,7 +16259,7 @@ export default {
       exports: [
         {
           name: ' validUrl',
-          type: 'any',
+          type: 'var',
         },
       ],
     },
@@ -16268,7 +16268,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'validateFFNewIntegration',
+          name: ' validateFFNewIntegration',
           parameters: [
             {
               name: 'shopId',
@@ -16291,7 +16291,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'sendToWarehouse',
+          name: ' sendToWarehouse',
           parameters: [
             {
               name: 'args',
@@ -16306,7 +16306,7 @@ export default {
       exports: [
         {
           type: 'function',
-          name: 'getSocketIOServer',
+          name: ' getSocketIOServer',
           parameters: [
             {
               name: 'server',

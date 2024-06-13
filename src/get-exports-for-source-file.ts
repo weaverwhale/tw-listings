@@ -7,12 +7,12 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
 
   function visitNode(node: ts.Node) {
     if (ts.isExportSpecifier(node)) {
-      const name = node.name.getText()
+      const name = node.name.getFullText()
       allExports.push({ type: 'specifier', name })
     } else if (node.kind === ts.SyntaxKind.ExportKeyword) {
       const parent = node.parent
       if (ts.isFunctionDeclaration(parent)) {
-        const name = parent?.name?.getText() ?? ''
+        const name = parent?.name?.getFullText() ?? ''
         const parameters = parent.parameters.map((param) => {
           return {
             name: param.name.getFullText().trim(),
@@ -23,34 +23,34 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
       } else if (ts.isVariableStatement(parent)) {
         parent.declarationList.declarations.forEach((declaration) => {
           const name = declaration.name.getFullText()
-          const type = declaration.type?.getFullText().trim() ?? 'any'
+          const type = declaration.type?.getFullText().trim() ?? 'var'
           allExports.push({ name, type })
         })
       } else if (ts.isClassDeclaration(parent)) {
-        const name = parent.name?.getText() ?? ''
+        const name = parent.name?.getFullText() ?? ''
         const type =
           parent.heritageClauses
             ?.map((clause) => {
-              return clause.types.map((type) => type.expression.getText())
+              return clause.types.map((type) => type.expression.getFullText())
             })
-            .toString() ?? 'any'
+            .toString() ?? 'class'
         allExports.push({ name, type })
       } else if (ts.isTypeAliasDeclaration(parent)) {
-        const name = parent.name?.getText() ?? ''
+        const name = parent.name?.getFullText() ?? ''
         const type = parent.type?.getFullText().trim() ?? 'alias'
         allExports.push({ name, type })
       } else if (ts.isEnumDeclaration(parent)) {
-        const name = parent.name?.getText() ?? ''
+        const name = parent.name?.getFullText() ?? ''
         allExports.push({ type: 'enum', name })
       } else if (ts.isModuleDeclaration(parent)) {
-        const name = parent.name?.getText() ?? ''
-        const type = parent.body?.getText() ?? 'module'
+        const name = parent.name?.getFullText() ?? ''
+        const type = parent.body?.getFullText() ?? 'module'
         allExports.push({ name, type })
       } else if (ts.isInterfaceDeclaration(parent)) {
-        const name = parent.name?.getText() ?? ''
+        const name = parent.name?.getFullText() ?? ''
         allExports.push({ name, type: 'interface' })
       } else if (ts.isNamespaceExportDeclaration(parent)) {
-        const name = parent.name.getText()
+        const name = parent.name.getFullText()
         allExports.push({ name, type: 'namespace' })
       }
     }
