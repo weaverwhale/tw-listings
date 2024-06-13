@@ -9,14 +9,14 @@ const app = createApp({
       path: new URL(location.href).searchParams.get('path') || './@tw',
       folderFilter: '',
       typeFilter: '',
-      sort: '',
+      sort: 'desc',
       mode: localStorage.getItem('mode') || 'light'
     }
   },
   computed: {
     filteredData() {
       return (this.search.trim().length > 0 
-        ? fuzzysort.go(this.search, this.data?.data, {
+        ? fuzzysort.go(this.search.trim(), this.data?.data, {
           keys: [
             'file',
             obj => obj.exports?.map(e => e.name).join(), 
