@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>List Exports</title>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/fuzzysort@3.0.1/fuzzysort.min.js"></script>
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
@@ -17,7 +18,7 @@
         <span v-if="hasFilterOrSearch">{{ filteredData.length }} Results</span>
       </h3>
       <div class="inputs">
-        <input type="text" v-model="search" placeholder="Search..." />
+        <input type="text" v-model="search" placeholder="Search using fuzzysort" />
         <select v-model="folderFilter">
           <option value="">All Folders</option>
           <option v-for="folder in topLevelFolders" :value="folder">{{ folder }}</option>
@@ -46,6 +47,6 @@
         </div>
       <div class="item" v-if="!filteredData.length"><h3 class="no-margin">No data found</h3></div>
     </div>
-    <script src="./app.js"></script>
   </body>
+  <script src="./app.js"></script>
 </html>

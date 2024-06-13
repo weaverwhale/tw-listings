@@ -2,6 +2,7 @@ import express, { Request, Response } from 'express'
 import chalk from 'chalk'
 import * as dotenv from 'dotenv'
 import { getFolderData } from './get-folder-data'
+import testData from './test_data'
 
 // -----------------------
 // data
@@ -26,9 +27,14 @@ app.post('/get-folder-data', (req: Request, res: Response) => {
     if (!req.body.path) {
       throw new Error('path is required')
     }
-    const { path } = req.body
-    const data = getFolderData(path)
-    res.json({ path, data })
+
+    if (isProd) {
+      const { path } = req.body
+      const data = getFolderData(path)
+      res.json({ path, data })
+    } else {
+      res.json({ ...testData })
+    }
   } catch (error: any) {
     res.status(400).json({ error: error.message })
   }

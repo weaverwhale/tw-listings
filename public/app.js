@@ -13,9 +13,12 @@ createApp({
   },
   computed: {
     filteredData() {
-      return (this.data?.data?.filter((item) => {
-        return JSON.stringify(item).toLowerCase().includes(this.search.trim().toLowerCase()) && item.exports.length > 0 && item.file.includes(this.folderFilter)
-      }) || []).sort((a, b) => {
+      return (this.hasFilterOrSearch 
+        ? fuzzysort.go(this.search + ' ' + this.folderFilter, this.data?.data, {
+          keys: ['file', obj => obj.exports?.map(e => e.name).join(), obj => obj.exports?.map(e => e.type).join()],
+        }) 
+        : this.data?.data ?? []
+      )?.map(d => d.obj ?? d)?.sort((a, b) => {
         if (this.sort === 'asc') {
           return a.file.localeCompare(b.file)
         } else if (this.sort === 'desc') {
@@ -33,7 +36,7 @@ createApp({
       return this.data?.data?.length > 0 && this.data?.data?.map((item) => {
         return item.file?.split('/')[1]
       })?.reduce((acc, item) => {
-        if (!acc.includes(item)) {
+        if (!acc.includes(item) && item !== '@tw') {
           acc.push(item)
         }
         return acc
