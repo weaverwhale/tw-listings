@@ -12,11 +12,7 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
       allExports.push({ type: 'specifier', name })
     } else if (node.kind === ts.SyntaxKind.ExportKeyword) {
       const parent = node.parent
-      if (
-        ts.isFunctionDeclaration(parent) ||
-        ts.isTypeAliasDeclaration(parent) ||
-        ts.isInterfaceDeclaration(parent)
-      ) {
+      if (ts.isFunctionDeclaration(parent)) {
         const name = parent?.name?.getText() ?? ''
         // console.log('export function', name);
         allExports.push({ type: 'function', name })
@@ -42,6 +38,14 @@ export function getExportsForSourceFile(sourceFile: ts.SourceFile) {
         const name = parent.name?.getText() ?? ''
         // console.log('export module', name);
         allExports.push({ type: 'module', name })
+      } else if (ts.isInterfaceDeclaration(parent)) {
+        const name = parent.name?.getText() ?? ''
+        // console.log('export interface', name);
+        allExports.push({ type: 'interface', name })
+      } else if (ts.isNamespaceExportDeclaration(parent)) {
+        const name = parent.name.getText()
+        // console.log('export namespace', name);
+        allExports.push({ type: 'namespace', name })
       }
     }
 
