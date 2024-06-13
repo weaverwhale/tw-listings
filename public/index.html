@@ -15,7 +15,12 @@
     <div id="app" v-cloak>
       <nav>
         <h1><img src="/whale-icon.svg" /> List Exports</h1>
-        <h2>Folder: <pre>{{ path?.replace('./', '') }}</pre></h2>
+        <div>
+          <h2>
+            <span>Folder: <pre>{{ path?.replace('./', '') }}</pre></span>
+            <i aria-label="Light/Dark Mode" @click="toggleMode">{{ modeEmoji }}</i>
+          </h2>
+        </div>
       </nav>
       <h3 class="results" v-if="loading">Loading...</h3>
       <h3 class="results" v-else>

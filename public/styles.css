@@ -1,3 +1,60 @@
+:root {
+  --font-family: -apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue,
+    sans-serif;
+  --dark-black: #0d1117;
+  --black: #202223;
+  --yellow: #e9ff66;
+  --blue: #1877f2;
+  --middle-blue: #0d3854;
+  --dark-blue: #062940;
+  --light-blue: #c0d6ea;
+  --white: #fff;
+  --off-white: #e7e7e7;
+  --light-gray: #bababa;
+  --code-gray: #c9d1d9;
+  --gray: #999;
+  --dark-gray: rgb(124, 124, 124);
+  --box-shadow: rgb(0 0 0 / 8%) 0px 0px 8px;
+  --box-shadow-deep: rgb(0 0 0 / 16%) 0px 0px 8px;
+  --ease-in-out: cubic-bezier(0.42, 0, 0.58, 1);
+
+  /* element specific styles */
+  --body-text: var(--black);
+  --body-background: #f6f6f7;
+  --item-background: var(--white);
+  --item-text: var(--black);
+  --item-text-hover: var(--blue);
+  --code-color: var(--black);
+  --link-color: var(--blue);
+}
+
+/* 
+prefers dark mode
+https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+*/
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-text: var(--white);
+    --body-background: var(--dark-blue);
+    --item-background: var(--middle-blue);
+    --item-text: var(--white);
+    --item-text-hover: var(--yellow);
+    --link-color: var(--yellow);
+    --code-color: var(--code-gray);
+  }
+}
+
+/* ❗️ keep the rules in sync with the automatic dark mode above! */
+:root.dark {
+  --body-text: var(--white);
+  --body-background: var(--dark-blue);
+  --item-background: var(--middle-blue);
+  --item-text: var(--white);
+  --item-text-hover: var(--yellow);
+  --link-color: var(--yellow);
+  --code-color: var(--code-gray);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -7,11 +64,15 @@
 }
 
 body {
-  margin: 0;
+  font-family: var(--font-family);
+  margin: auto;
   padding: 1em;
-  font-family: sans-serif;
-  background: #fafafa;
-  overflow-x: hidden;
+  text-align: left;
+  background-color: var(--body-background);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+  color: var(--body-text);
 }
 
 h1,
@@ -24,15 +85,21 @@ h6 {
   margin-bottom: 1rem;
 }
 
+a {
+  color: var(--link-color);
+}
+
 pre {
   display: inline-block;
   line-height: 0;
   white-space: normal;
 }
 
+code,
 .code {
   font-family: monospace;
-  white-space: pre;
+  padding: 2px 5px;
+  color: var(--code-color);
 }
 
 input,
@@ -41,10 +108,11 @@ button {
   display: block;
   width: 100%;
   padding: 0.5em;
-  border: 1px solid gray;
+  border: 1px solid var(--light-gray);
+  color: var(--body-text);
   border-radius: 5px;
   margin-bottom: 1em;
-  background: white;
+  background: var(--item-background);
 }
 
 button {
@@ -61,6 +129,18 @@ nav h1 {
   display: flex;
   align-items: center;
   gap: 0.5em;
+}
+
+nav h2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
+}
+
+nav i {
+  font-style: normal;
+  cursor: pointer;
 }
 
 .inputs {
@@ -88,7 +168,7 @@ nav h1 {
   border: 1px solid gray;
   border-radius: 5px;
   padding: 1em;
-  background: white;
+  background: var(--item-background);
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 

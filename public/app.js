@@ -9,7 +9,8 @@ const app = createApp({
       path: new URL(location.href).searchParams.get('path') || './@tw',
       folderFilter: '',
       typeFilter: '',
-      sort: ''
+      sort: '',
+      mode: window.matchMedia('(prefers-color-scheme: dark)') ? 'dark' : localStorage.getItem('mode') || 'light'
     }
   },
   computed: {
@@ -72,10 +73,17 @@ const app = createApp({
     },
     hasFilterOrSearch() {
       return this.search.trim().length > 0 || this.folderFilter !== ''
+    },
+    modeEmoji() {
+      return this.mode === 'light' ? '🌝' : '🌚'
     }
   },
   mounted() {
     this.getData()
+    this.$nextTick(() => {
+      console.log(document.querySelector('html'))
+      this.setModeOnHTML()
+    })
   },
   methods: {
     getData() {
@@ -99,6 +107,18 @@ const app = createApp({
     reset() {
       this.search = ''
       this.folderFilter = ''
+    },
+    toggleMode() {
+      this.mode = this.mode === 'light' ? 'dark' : 'light'
+      localStorage.setItem('mode', this.mode)
+      this.setModeOnHTML()
+    },
+    setModeOnHTML() {
+      if(this.mode === 'dark') {
+        document.querySelector('html').classList.add('dark')
+      } else {
+        document.querySelector('html').classList.remove('dark')
+      }
     }
   },
 })
