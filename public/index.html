@@ -14,9 +14,15 @@
       <h3 class="results" v-if="loading">Loading...</h3>
       <h3 class="results" v-else>
         <span>{{ totalFiles }} Files – {{ totalExports }} Exports</span>
-        <span v-if="search.trim().length > 0">{{ filteredData.length }} Results</span>
+        <span v-if="search.trim().length > 0 || folderFilter !== ''">{{ filteredData.length }} Results</span>
       </h3>
-      <input type="text" v-model="search" placeholder="Search..." />
+      <div class="inputs">
+        <input type="text" v-model="search" placeholder="Search..." />
+        <select v-model="folderFilter">
+          <option selected value="">All Folders</option>
+          <option v-for="folder in topLevelFolders" :value="folder">{{ folder }}</option>
+        </select>
+      </div>
       <div class="item-wrapper" v-if="loading">
         <div class="item"><h3 class="no-margin">Loading...</h3></div>
       </div>

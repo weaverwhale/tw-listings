@@ -39,13 +39,23 @@ pre {
   padding: 1em;
 }
 
-input {
+input,
+select {
   display: block;
   width: 100%;
   padding: 0.5em;
   border: 1px solid gray;
   border-radius: 5px;
   margin-bottom: 2em;
+}
+
+.inputs {
+  display: flex;
+  gap: 1em;
+}
+
+.inputs select {
+  flex-basis: 150px;
 }
 
 .results {

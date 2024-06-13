@@ -6,13 +6,14 @@ createApp({
       data: {},
       search: '',
       loading: false,
-      path: new URL(location.href).searchParams.get('path') || './@tw'
+      path: new URL(location.href).searchParams.get('path') || './@tw',
+      folderFilter: '',
     }
   },
   computed: {
     filteredData() {
       return this.data?.data?.filter((item) => {
-        return JSON.stringify(item).toLowerCase().includes(this.search.trim().toLowerCase()) && item.exports.length > 0
+        return JSON.stringify(item).toLowerCase().includes(this.search.trim().toLowerCase()) && item.exports.length > 0 && item.file.includes(this.folderFilter)
       }) || []
     },
     totalFiles() {
@@ -21,6 +22,16 @@ createApp({
     totalExports() {
       return this.data?.data?.reduce((acc, item) => acc + item.exports.length, 0) ?? 0
     },
+    topLevelFolders() {
+      return this.data?.data?.length > 0 && this.data?.data?.map((item) => {
+        return item.file?.split('/')[1]
+      })?.reduce((acc, item) => {
+        if (!acc.includes(item)) {
+          acc.push(item)
+        }
+        return acc
+      }, [])
+    }
   },
   mounted() {
     this.getData()
