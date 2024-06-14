@@ -14,7 +14,7 @@
   --code-gray: #eceef0;
   --gray: #999;
   --dark-gray: rgb(124, 124, 124);
-  --box-shadow: rgb(0 0 0 / 8%) 0px 0px 8px;
+  --box-shadow: 0 0 0.3125rem rgba(23, 24, 24, 0.05), 0 0.0625rem 0.125rem rgba(0, 0, 0, 0.15); /* polaris */
   --box-shadow-deep: rgb(0 0 0 / 16%) 0px 0px 8px;
   --ease-in-out: cubic-bezier(0.42, 0, 0.58, 1);
 
@@ -181,11 +181,10 @@ nav i {
 
 .item {
   flex-grow: 1;
-  border: 1px solid var(--border-gray);
   border-radius: 5px;
   padding: 1em;
   background: var(--item-background);
-  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--box-shadow);
 }
 
 .results {
